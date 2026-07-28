@@ -11,10 +11,7 @@ format:
     preview-links: auto
     css: styles.css
     scrollable: true
-    theme: serif
-    bibliography: marges.bib
-    csl: apa.csl
-            
+    theme: serif  
 ---
 
 ## Plan de la séance

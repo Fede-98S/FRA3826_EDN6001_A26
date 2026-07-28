@@ -77,6 +77,27 @@
     "text": "Lectures\n01 Octobre\n\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. HS-33, 2020, en ligne, doi: https://doi.org/10.4000/corela.11759.\n\nSemaine de lecture\n\nBeauchef, Hélène, « Concevoir un projet éditorial pour le web », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, en ligne https://parcoursnumeriques-pum.ca/1-pratiques/chapitre13.html.\n\n19 Novembre\n\nCamps, Jean-Baptiste, « Où va la philologie numérique ? », Fabula-LhT : littérature, histoire, théorie, vol. 20, nᵒ 20, 2018, en ligne, https://shs.hal.science/halshs-01674953.\nVitali-Rosati, Marcello et Robert Alessi, « Introduction », dans Vitali-Rosati, Marcello et Robert Alessi, Les éditions critiques numériques: entre tradition et changement de paradigme, Montréal, Presses de l’Université de Montréal, 2023, en ligne https://parcoursnumeriques-pum.ca/12-editionscritiques/introduction.html\n\n3 Décembre\n\nVitali-Rosati, Marcello, « La littérature numérique, existe-t-elle? », Digital Studies / Le champ numérique, vol. 6, nᵒ 1, Open Library of Humanities, février 2015, en ligne, https://www.digitalstudies.org/article/id/7262/.\nBouchardon, Serge, « La littérature numérique : support et matérialité », Terminal, vol. 101, 2008, en ligne, doi: https://doi.org/10.4000/terminal.4472."
   },
   {
+    "objectID": "seances.html",
+    "href": "seances.html",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#introduction-0309",
+    "href": "seances.html#introduction-0309",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#quest-ce-que-cest-lédition-1009",
+    "href": "seances.html#quest-ce-que-cest-lédition-1009",
+    "title": "Séances",
+    "section": "Qu’est-ce que c’est l’édition ? (10/09)",
+    "text": "Qu’est-ce que c’est l’édition ? (10/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Théories de l’édition numérique",
@@ -105,17 +126,171 @@
     "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
   },
   {
-    "objectID": "seances.html",
-    "href": "seances.html",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
+    "objectID": "slides/edition.html#plan-de-la-séance",
+    "href": "slides/edition.html#plan-de-la-séance",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n \n\nDéfinition d’édition\nÉdition\nUn peu d’histoire\nQuelle est la fonction de l’édition?"
   },
   {
-    "objectID": "seances.html#introduction-0309",
-    "href": "seances.html#introduction-0309",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
+    "objectID": "slides/edition.html#définition-dédition-1",
+    "href": "slides/edition.html#définition-dédition-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Définition d’édition",
+    "text": "Définition d’édition\n\nAction d’établir un texte sur le plan scientifique, en vue de le publier (édition scientifique).\nPar ext., action de reproduire ce texte sous forme d’imprimé.\nPar métonymie, ensemble des exemplaires d’un texte imprimé comme un tout et en une seule fois (première édition, etc.).\nBranche d’activité (dans des formules comme « la crise de l’édition »). (Barbier, p. 338)"
+  },
+  {
+    "objectID": "slides/edition.html#définition-dédition-2",
+    "href": "slides/edition.html#définition-dédition-2",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Définition d’édition",
+    "text": "Définition d’édition\n\nDans son acception bibliographique, édition désigne l’ensemble des exemplaires imprimés à partir d’une même composition et destinés à être diffusés simultanément. Si le texte est modifié en cours de composition, on se trouve devant une variante éditoriale. Si la composition a été conservée, par ex. sous forme de plaques stéréotypiques, et que l’on imprime de nouveaux exemplaires, on parle d’impression ou de réimpression (le commerce de librairie désigne cependant aussi comme édition une réimpression des mêmes formes). (idem)"
+  },
+  {
+    "objectID": "slides/edition.html#définition-dédition-3",
+    "href": "slides/edition.html#définition-dédition-3",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Définition d’édition",
+    "text": "Définition d’édition\neditio, editionis\n\nMÉDECINE accouchement\npublication d’un livre, édition\nnouvelle, version d’un fait\nDROIT déclaration, exposition de l’action judiciaire\npréparation des jeux, représentation d’un spectacle\n\n(Grand Dictionnaire Latin)\nLat. editor, de edere, faire sortir, mettre dehors ; de e, et dere pour dare, donner. (Dictionnaire Littré)"
+  },
+  {
+    "objectID": "slides/edition.html#édition-1",
+    "href": "slides/edition.html#édition-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Édition",
+    "text": "Édition\n \n\nvariante éditoriale: modifications en cours de composition  \nimpression ou réimpression: conservation de la composition et nouvelles impressions,\n\nex. sous forme de plaques stéréotypiques  \n\nédition philologique"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-le-manuscrit-et-luniversité",
+    "href": "slides/edition.html#un-peu-dhistoire-le-manuscrit-et-luniversité",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: le manuscrit et l’université",
+    "text": "Un peu d’histoire: le manuscrit et l’université\n\n\n\n\n\ndes libraires laïcs (librarii) ou « stationnaires » (stationarii, du latin médiéval statio, « boutique » et/ou « atelier »)\nl’exemplaire (exemplar) de l’université donne vie aux paciae des cahiers, des fasciucules manuscrits \n\nPas de droits d’auteur, mécénat ou protecteur royal ou aristocratique"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-naissance-de-limprimerie",
+    "href": "slides/edition.html#un-peu-dhistoire-naissance-de-limprimerie",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: naissance de l’imprimerie",
+    "text": "Un peu d’histoire: naissance de l’imprimerie\n\n\n1450 Gutenberg et l’impression à caractères mobiles (Bible)\n\nimprimeur-libraire\n\ntechnique: de la composition à l’impression\nchoix éditoriaux\ncommerce"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-naissance-de-limprimerie-1",
+    "href": "slides/edition.html#un-peu-dhistoire-naissance-de-limprimerie-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: naissance de l’imprimerie",
+    "text": "Un peu d’histoire: naissance de l’imprimerie\n\n\n\n\nimprimeurs-humanistes\n\nAldo Manuzio, Venice, édition de poche in-8°\nSébastien Gryphe, Lyon, cercle d’écrivains et correcteurs (Rabelais)\npurs éditeurs déjà à partir du XVe siècle, Antoine Vérard, Paris\nséparation de l’espace typographique imprimeur et éditeur"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-les-contrefaçons-et-les-droits-dauteur",
+    "href": "slides/edition.html#un-peu-dhistoire-les-contrefaçons-et-les-droits-dauteur",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: les contrefaçons et les droits d’auteur",
+    "text": "Un peu d’histoire: les contrefaçons et les droits d’auteur\n\ncensure et monopole\nphilosophe comme Rousseau (Marc-Michel Rey, Amsterdam) ou Voltaire (frères Cramer, Genève)"
+  },
+  {
+    "objectID": "slides/edition.html#édition-et-contrefaçons",
+    "href": "slides/edition.html#édition-et-contrefaçons",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "(Édition et contrefaçons)",
+    "text": "(Édition et contrefaçons)"
+  },
+  {
+    "objectID": "slides/edition.html#édition-et-contrefaçons-1",
+    "href": "slides/edition.html#édition-et-contrefaçons-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "(Édition et contrefaçons)",
+    "text": "(Édition et contrefaçons)\n\n\n\nCorneille, Pierre Horace, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. Accès en ligne.\n\n\nFormat: in-12°\n\n\nDécoration moyenne"
+  },
+  {
+    "objectID": "slides/edition.html#édition-et-contrefaçons-2",
+    "href": "slides/edition.html#édition-et-contrefaçons-2",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "(Édition et contrefaçons)",
+    "text": "(Édition et contrefaçons)\n\n\n\nCorneille, Pierre Horace, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. Accès en ligne.\n\n\nFormat: in-8°\n\n\nDécoration pauvre"
+  },
+  {
+    "objectID": "slides/edition.html#édition-et-contrefaçons-3",
+    "href": "slides/edition.html#édition-et-contrefaçons-3",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "(Édition et contrefaçons)",
+    "text": "(Édition et contrefaçons)\n\n\n\nCorneille, Pierre Horace, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. Accès en ligne.\n\n\nFormat: in-4°\n\n\nDécoration riche"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-les-contrefaçons-et-les-droits-dauteur-1",
+    "href": "slides/edition.html#un-peu-dhistoire-les-contrefaçons-et-les-droits-dauteur-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: les contrefaçons et les droits d’auteur",
+    "text": "Un peu d’histoire: les contrefaçons et les droits d’auteur\n\ncensure et monopole\nphilosophe comme Rousseau (Marc-Michel Rey, Amsterdam) ou Voltaire (frères Cramer, Genève)\nEn Angleterre\n\nLicensing Act (1695) et Copyright Act (1710)\ncongers association d’éditeurs\n\nEn France\n\n1793 decret droit d’auteur avec protection 10 après la mort"
+  },
+  {
+    "objectID": "slides/edition.html#un-peu-dhistoire-lindustrialisation",
+    "href": "slides/edition.html#un-peu-dhistoire-lindustrialisation",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Un peu d’histoire: l’industrialisation",
+    "text": "Un peu d’histoire: l’industrialisation\n \n\nséparation éditeur et imprimeur\nnaissance des grandes Maison d’édition comme Hachette (1826), Larousse (1852) et Flammarion (1876)\nGervais Charpentier, « Bibliothèque Charpentier » (1838), 3.50 francs\nMichel Lévy, « Collection Michel Lévy » (1856), 1 franc"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-1",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-1",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition?",
+    "text": "Quelle est la fonction de l’édition?\n \nLe rôle de l’éditeur est fondamental et il faut consiérer, notamment à l’ère du numérique que  \n\nAmbassadeur culturel et intellectuel, intermédiaire essentiel entre l’auteur et le lecteur (Poirier et Genêt, p. 17)"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-2",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-2",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition?",
+    "text": "Quelle est la fonction de l’édition?\n\nUn commerçant ou un homme d’affaires ne devient éditeur qu’à partir du moment où il prend sur lui la (double) responsabilité matérielle et morale d’une œuvre. (Poirier et Genêt, p. 18)"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-3",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-3",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition?",
+    "text": "Quelle est la fonction de l’édition?\n\nUn commerçant ou un homme d’affaires ne devient éditeur qu’à partir du moment où il prend sur lui la (double) responsabilité matérielle et morale d’une œuvre. (Poirier et Genêt, p. 18) \n\nRôle: éditeur et entrepreneur \nAndré Grasset entre-deux: homme de lettres et entrepreneur/marchand (Pierre Bordieu aussi)"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-constituer-un-catalogue",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-constituer-un-catalogue",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition? Constituer un catalogue",
+    "text": "Quelle est la fonction de l’édition? Constituer un catalogue\n\nmédiateur indispensable entre une œuvre et un marché, dans l’espoir de répondre aux désirs, aux attentes et aux goûts du public.\nEn ce sens, le catalogue d’un éditeur, c’est-à-dire l’ensemble des auteurs et des titres que chapeaute la maison d’édition, se veut en quelque sorte le reflet de cette coexistence antagoniste entre des valeurs économiques et culturelles, en plus de témoigner du parcours intellectuel, de la personnalité et, bien sûr, des intérêts de l’éditeur, qu’ils soient artistiques, techniques, économiques ou littéraires.(Poirier et Genêt, p. 20)\n\nLe «tri» est fait par l’éditeur ou un comité externe."
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-mettre-en-forme",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-mettre-en-forme",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition? Mettre en forme",
+    "text": "Quelle est la fonction de l’édition? Mettre en forme\nDirecteur de collection | éditeur\n\nAccompagnement aux éditeurs pour la construction de l’ouvrage à publier.\nRevision et correction, on parle d’«artisans» du livre*\nTraducteurs*\n\n(*) parfois des externes"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-fabriquer-le-livre",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-fabriquer-le-livre",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition? Fabriquer le livre",
+    "text": "Quelle est la fonction de l’édition? Fabriquer le livre\nÉtapes souvent en parallèle\n\ninfographiste\ncorrecteur.trice\nimprimeur -&gt; il établit les coûts\n\nnuméros de pages\nprésence d’images\ncouverture\ntype de papier"
+  },
+  {
+    "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-diffusion-et-distribution",
+    "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-diffusion-et-distribution",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Quelle est la fonction de l’édition? Diffusion et distribution",
+    "text": "Quelle est la fonction de l’édition? Diffusion et distribution\n\npromotion de valeurs littéraires, à la légitimation d’une vision esthétique, d’un mouvement artistique ou d’un courant de pensée. […] il remplit par là un rôle social en assurant le développement et la pérennité de la vie intellectuelle, littéraire ou, plus largement, culturelle de la société. (Poirier et Genêt, p. 23)\n\nLe numérique aide les éditeur.trice.s à se reapproprier de l’aspect commercial, publicitaire et divulgatoire, qui est delegué à des entreprises privés."
+  },
+  {
+    "objectID": "slides/edition.html#références",
+    "href": "slides/edition.html#références",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Références",
+    "text": "Références\n\nBarbier, Frédéric, Histoire des bibliothèques: d’Alexandrie aux bibliothèques virtuelles, Deuxième édition revue et augmentée, Malakoff, Armand Colin, 2016.\nFebvre, Lucien et Henri-Jean Martin, L’apparition du livre, Chicoutimi, J.-M. Tremblay, 2008.\nPoirier, Patrick et Pascal Genêt, « La fonction éditoriale et ses défis », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 15‑29.\nSordet, Yann et Robert Darnton, Histoire du livre et de l’édition: production & circulation, formes & mutations, Paris, Albin Michel, 2021."
+  },
+  {
+    "objectID": "slides/edition.html#images",
+    "href": "slides/edition.html#images",
+    "title": "Qu’est-ce que c’est l’édition ?",
+    "section": "Images",
+    "text": "Images\n\nAndrea e Gian Francesco Torresani, edição princeps de 1528, en ligne\nEnsahequ, Caratteri mobili del Museo della stampa Lodovico Pavoni, en ligne\nLeah Henrickson, pecia mark, en ligne\nDaniel Nikolaus Chodowiecki, Tab. XXI c. Die Buchdruckerei, National Library of Poland, en ligne"
   }
 ]
