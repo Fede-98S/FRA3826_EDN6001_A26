@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: fra3826_site
   render:
     - "*.qmd"
     - "slides/*.qmd"
