@@ -1,0 +1,131 @@
+---
+title: "Introduction"
+subtitle: "FRA3826 | EDN6001"
+data: 03 - 09 - 2026
+author: 
+  - name: Federico Siragusa
+    orcid: 0009-0002-8842-7043
+    email: federico.siragusa@univ-rouen.fr | federico.siragusa@umontreal.ca
+    affiliations:
+      - name: Université Rouen Normandie | Université de Montréal <br/> 03 septembre 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan de la séance
+<br/>
+<br/>
+
+- Présentation chargé
+- Présentation du cours
+- Plan du cours
+- Présentations étudiant·e·s
+- Modalité d'évaluation
+- Questions
+
+# Présentation chargé
+
+## Question
+<br/>
+<br/>
+<br/>
+
+Qu'est-ce que vous pensez quand vous entendez l'intitulé du cours?
+<br/>
+<br/>
+
+*Théorie de l'édition numérique*
+
+# Présentation du cours
+
+## Présentation du cours
+
+1. Écosystème et théories : les environnements numériques, les théories de l'édition numérique et de l'éditorialisation, les questions d'accessibilité, de pérennité et de littératie numérique. 
+
+2. Pratiques éditoriales numériques : les chaînes de production numérique, les projets d'édition critique, les outils et formats, la circulation et la légitimation des contenus. 
+
+3. Écritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels. 
+
+# Plan du cours
+
+## Plan du cours
+
+| Date |   Titre     |
+|:------:|:-------------------------:|
+| 03/09 |  Introduction |
+| 10/09 | Qu’est-ce que c’est l’édition ? |
+| 17/09 | Le numérique, Internet et le web |   
+| 24/09 | Qu’est-ce que c’est l’édition numérique ? |   
+| 01/10 | Théorie de l'éditorialisation |   
+| 08/10 | Formats |   
+| 15/10 | **Travail de mi-session 1 (Test)** + Écriture collaborative et science ouverte |   
+| - | Semaine de lecture |   
+| 29/10 | **Travail de mi-session 2 (Esquisse projet)** + Chaînes éditoriales |      
+| 05/11 | Édition savante, revues, publication ouvertes | 
+| 12/11 | Droits d’auteur, auto-édition, IA | 
+| 19/11 | Édition critique (numérique) : Introduction | 
+| 26/11 | Édition critique numérique : Introduction et étude de cas | 
+| 03/12 | Littérature numérique : Introduction, histoire, sémiotique de la littérature numérique |   
+| 10/12 | Littérature numérique : Études de cas |   
+| 17/12 | Travail final 1 (Présentation projets) |
+
+# Présentations étudiant·e·s
+
+# Modalité d'évaluation
+
+## Modalité d'évaluation
+<br/>
+<br/>
+
+| Type | Pourcentage |
+|:------:|:--:|:--:|
+| Participation |  10% |
+| Travail de mi-session 1 |  15% |
+| Travail de mi-session 2 |  15% |
+| Travail final 1 |  20% |
+| Travail final 1 |  40% |
+
+## Participation au cours
+<br/>
+<br/>
+<br/>
+
+La participation au cours est évaluée sur la base de la **lecture hebdomadaire** de textes scientifiques indiqués et de la **discussion menée en classe**. Cette évaluation se fera sur un **mode continu**.
+
+## Travail de mi-session 1
+<br/>
+<br/>
+<br/>
+
+Le premier travail de mi-session consiste en un **test sur table** (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.
+
+## Travail de mi-session 2
+<br/>
+<br/>
+<br/>
+
+Le deuxième travail de mi-session est une **présentation orale de 5 minutes** avec une proposition pour le projet à réaliser, ainsi qu’une brève **résumée** du même en maximum 300 mots.
+
+## Travail final 1
+<br/>
+<br/>
+<br/>
+
+Le travail final 1 consiste en une **présentation orale** en binômes, autour de leur **projet d’édition visant** la maîtrise et la mise en pratique de la notion d’éditorialisation. 
+
+## Travail final 2 
+
+Le travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :
+
+1. (20%) brève **présentation critique du travail éditorial réalisé en binôme**, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)
+
+2. (20 %) thématique au **choix** de l’étudiant·e entre un projet d’**édition numérique** ou une œuvre de **littérature numérique**. Le candidat·e doit **présenter le projet éditorial choisi et le commenter de manière critique**. 
+
+# Questions ?

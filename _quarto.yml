@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: fra3826_site
+  render:
+    - "*.qmd"
+    - "slides/*.qmd"
+
+website:
+  title: "Théories de l'édition numérique"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: seances.qmd
+        text: Séances
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

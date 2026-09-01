@@ -1,0 +1,73 @@
+---
+title: "Théories de l'édition numérique"
+subtitle: "FRA3826 | EDN6001 A-26"
+---
+
+## DESCRIPTION
+
+L'édition constitue l'une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l'ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l'édition du livre, l'édition scientifique, et plus largement l'académie.
+
+C'est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l'édition numérique, en les articulant autour de trois domaines complémentaires.
+L'édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l'hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l'hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d'écriture et d'édition (l'annotation, les commentaires, les recommandations via les réseaux sociaux). L'objectif sera d'identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d'en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l'éditorialisation — entendue comme l'ensemble des dynamiques qui produisent et structurent l'espace numérique — pour éclairer ce que deviennent les notions d'autorité, de publication, d'espace et de dispositif dans l'environnement numérique.
+L'édition critique numérique occupera une place centrale dans ce cours. Il s'agira d'examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d'annotation savante, appareils critiques enrichis, et nouvelles formes d'édition génétique ou collaborative. Nous étudierons des projets d'édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu'ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.
+
+La littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l'œuvre. La question du statut de l'auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.
+
+Le cours sera structuré selon trois axes :
+
+1. Écosystème et théories : les environnements numériques, les théories de l'édition numérique et de l'éditorialisation, les questions d'accessibilité, de pérennité et de littératie numérique. 
+2. Pratiques éditoriales numériques : les chaînes de production numérique, les projets d'édition critique, les outils et formats, la circulation et la légitimation des contenus. 
+3. Écritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels. 
+
+Chaque axe sera articulé autour d'analyses théoriques, d'études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s'approprier concrètement les enjeux de l'édition contemporaine.
+
+## MODALITÉS D’ÉVALUATION
+
+**Participation au cours : 10%**
+
+La participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu.
+
+**Travail de mi-session 1 (Test) : 15%**
+
+Le premier travail de mi-session consiste en une test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.
+
+**Travail de mi-session 2 (Esquisse projet) : 15%**
+
+Le deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’un brève résumé du même en maximum 300 mots.
+
+**Travail final 1 (Présentation projets) : 20%**
+
+Le travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation. 
+
+**Travail final 2 (Rendu) : 40%**
+
+Le travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :
+
+1. La première (20%) doit être une brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)
+
+2. La deuxième (20 %) est sur une thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique. 
+
+L’évaluation du travail final prendra en compte le contenu et la manière dont il est présenté, au niveau structurel et de la propreté linguistique. En plus de la capacité de présenter et commenter des projets, sera évalué aussi la capacité de mobiliser une bibliographie critique.
+
+## CALENDRIER
+
+| Date |   Titre |
+|:-----:|:--------------------------------:|
+| 03/09 | Introduction |
+| 10/09 | Qu’est-ce que c’est l’édition ? |
+| 17/09 | Le numérique, Internet et le web |
+| 24/09 | Qu’est-ce que c’est l’édition numérique ? |  
+| 01/10 | Théorie de l'éditorialisation |
+| 08/10 | Formats |
+| 15/10 | **Travail de mi-session 1 (Test)** + Écriture collaborative et science ouverte | 
+| 22/10 | **Semaine de lecture** |
+| 29/10 | **Travail de mi-session 2 (Esquisse projet)** + Chaînes éditoriales |
+| 05/11 | Édition savante, revues, publication ouvertes |
+| 12/11 | Droits d’auteur, auto-édition, IA |
+| 19/11 | Édition critique (numérique) : Introduction | 
+| 26/11 | Édition critique numérique : Introduction et étude de cas |
+| 03/12 | Littérature numérique : Introduction, histoire, sémiotique de la littérature numérique |
+| 10/12 | Littérature numérique : Études de cas |
+| 17/12 | Travail final 1 (Présentation projets) | 
+
+<a href="seances.html"><span style='float:right; font-size: 18pt;'>Séances avec slides <span style='font-size:300%; color:red;'>&#11166;</span></a>
