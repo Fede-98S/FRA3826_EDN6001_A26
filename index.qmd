@@ -70,4 +70,4 @@ L’évaluation du travail final prendra en compte le contenu et la manière don
 | 10/12 | Littérature numérique : Études de cas |
 | 17/12 | Travail final 1 (Présentation projets) | 
 
-<a href="seances.html"><span style='float:right; font-size: 18pt;'>Séances avec slides <span style='font-size:300%; color:red;'>&#11166;</span></a>
+<a href="seances.html"><span style='float:right; font-size: 18pt; color:#0292E0;'>Séances avec slides <span style='font-size:150%; color:#0292E0; vertical-align: middle;'>&#11166;</span></a>

@@ -11,7 +11,7 @@
     "href": "slides/intro.html#question",
     "title": "Introduction",
     "section": "Question",
-    "text": "Question\n  \nQu’est-ce que vous pensez quand vous entendez l’intitulé du cours?  \nThéorie de l’édition numérique"
+    "text": "Question\n  \nQu’est-ce que vous pensez quand vous entendez l’intitulé du cours?  \nThéories de l’édition numérique"
   },
   {
     "objectID": "slides/intro.html#présentation-du-cours-1",
@@ -32,14 +32,14 @@
     "href": "slides/intro.html#modalité-dévaluation-1",
     "title": "Introduction",
     "section": "Modalité d’évaluation",
-    "text": "Modalité d’évaluation\n \n\n\n\nType\nPourcentage\n\n\n\n\n\nParticipation\n10%\n\n\n\nTravail de mi-session 1\n15%\n\n\n\nTravail de mi-session 2\n15%\n\n\n\nTravail final 1\n20%\n\n\n\nTravail final 1\n40%"
+    "text": "Modalité d’évaluation\n \n\n\n\nType\nPourcentage\n\n\n\n\n\nParticipation\n10%\n\n\n\nTravail de mi-session 1\n15%\n\n\n\nTravail de mi-session 2\n15%\n\n\n\nTravail final 1\n20%\n\n\n\nTravail final 2\n40%"
   },
   {
     "objectID": "slides/intro.html#participation-au-cours",
     "href": "slides/intro.html#participation-au-cours",
     "title": "Introduction",
     "section": "Participation au cours",
-    "text": "Participation au cours\n  \nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu."
+    "text": "Participation au cours\n  \nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et des discussions menées en classe. Cette évaluation se fera de manière continue."
   },
   {
     "objectID": "slides/intro.html#travail-de-mi-session-1",
@@ -68,6 +68,13 @@
     "title": "Introduction",
     "section": "Travail final 2",
     "text": "Travail final 2\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\n(20%) brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\n(20 %) thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique."
+  },
+  {
+    "objectID": "slides/intro.html#lectures-1",
+    "href": "slides/intro.html#lectures-1",
+    "title": "Introduction",
+    "section": "Lectures",
+    "text": "Lectures\n01 Octobre\n\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. HS-33, 2020, en ligne, doi: https://doi.org/10.4000/corela.11759.\n\nSemaine de lecture\n\nBeauchef, Hélène, « Concevoir un projet éditorial pour le web », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, en ligne https://parcoursnumeriques-pum.ca/1-pratiques/chapitre13.html.\n\n19 Novembre\n\nCamps, Jean-Baptiste, « Où va la philologie numérique ? », Fabula-LhT : littérature, histoire, théorie, vol. 20, nᵒ 20, 2018, en ligne, https://shs.hal.science/halshs-01674953.\nVitali-Rosati, Marcello et Robert Alessi, « Introduction », dans Vitali-Rosati, Marcello et Robert Alessi, Les éditions critiques numériques: entre tradition et changement de paradigme, Montréal, Presses de l’Université de Montréal, 2023, en ligne https://parcoursnumeriques-pum.ca/12-editionscritiques/introduction.html\n\n3 Décembre\n\nVitali-Rosati, Marcello, « La littérature numérique, existe-t-elle? », Digital Studies / Le champ numérique, vol. 6, nᵒ 1, Open Library of Humanities, février 2015, en ligne, https://www.digitalstudies.org/article/id/7262/.\nBouchardon, Serge, « La littérature numérique : support et matérialité », Terminal, vol. 101, 2008, en ligne, doi: https://doi.org/10.4000/terminal.4472."
   },
   {
     "objectID": "index.html",
