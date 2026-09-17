@@ -1,0 +1,399 @@
+---
+title: "Le numérique, Internet et le web"
+subtitle: "FRA3826 | EDN6001"
+date: "09-17-2026"
+date-format: "D MMMM YYYY"
+lang: fr
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif      
+---
+
+## Plan de la séance
+<br/>
+<br/>
+
+- D'Internet au web
+- Histoire des HN
+- Vers un humanisme numérique
+- Définir le numérique
+
+# D'Internet au web
+
+## D'Internet au web
+<br/>
+<br/>
+<br/>
+
+| **Internet** | **vs** | **Web** |
+|:----------:|:------:|:---------:|
+| reseau physique pour échanger les données | | ensemble des fichers HTML accèssible en protocole HTTP |
+
+# D'Internet au web : en origine
+
+## D'Internet au web : 1950-1968
+
+Contexte : années 50, Guerre Froide, communication contre attaque nucléaire
+
+Paul Baran propose la « patate chaude » -> reseau de transport des messages non fixe
+
+## D'Internet au web : 1950-1968
+
+Contexte : années 50, Guerre Froide, communication contre attaque nucléaire
+
+Paul Baran propose la « patate chaude » -> reseau de transport des messages non fixe
+
+AT&T refus initiale, ARPA (_Advanced Research Projects Agency_) systèmes informatiques intéractifs et collaboratifs. 
+
+Frank Heart : 
+
+  + 1969 : 2 machines comuniques
+  + 1971 : 15 machines
+  + 1972 : reseau lancé à L'ICCC (_International Computer Communication Conference_)
+
+## D'Internet au web: 1969-1978
+<br/>
+<br/>
+
+- 1969 RFC (_Request For Comments_) protocole de communication ouvert et collaboratif -> NFC (_Network Control Protocol_)
+<br/>
+
+- En France Cyclades :
+
+  + 1974 TCP (Transport Control Protocol)
+  + 1978 IP (Internetworking Protocol)
+
+# D'Internet au web : démocratisation
+
+## D'Internet au web : démocratisation
+
+- 1970-1980 : developpement technologique microprocesseurs (ex. Intel 4004) 
+  + machines plus petites et démocratisation (Altair 8800 et Apple I)
+  + PC IBM 5150 et Apple II ouverture -> software et hardware en masse
+
+- 1975 : The Wall, le premier réseau social (lignes téléphoniques)
+
+- 1984 : NSF (National Science Fondation) connection de réseaux régionaux (NSFNET) -> croissance exponentielle de noeuds connectés. 
+
+# D'Internet au web : le web
+
+## D'Internet au web : le web
+<br/>
+
+Contexte : 1990, CERN de Genève, Tim Berners-Lee partage de documents différentes
+
+- URI (Uniform Resource Identifier)
+- HTML (HyperText Markup Language)
+- HTTP (HyperText Transfer Protocol)
+
+Création de fact du WWW (World Wide Web)
+
+## D'Internet au web : le web
+<br/>
+<br/>
+
+- Perry Pei Wei : navigateurs www (Unix, Erwise, Samba, ...)
+- Marc Andressen et Eric Brina du NCSA (National Centre for Superrcomp) - Mosaic (manière cooperative) et .com (e-commerce)
+
+2000 faillites en chaîne et restructuration
+
+## D'Internet au web : le web 1.0
+
+1994 Tim Berners-Lee W3C (World Wide Web Consortium) [interopérabilité et standardisation]
+
+1995 Serguei Brin et Larry Page créent Google indexation références et index potentiel le contenu -> linked data
+
+Les terminaux web se multiplient et diversifient selon la compagnie téléphonique, téléphone mobile nécessaire pour certaines communautés.
+
+2013 le 32% de la population mondiale est internaute.
+
+Tim Berners-Lee insatisfaction navigateurs pour la seule lecture. 
+
+## D'Internet au web : le web 1.0
+<br/>
+<br/>
+<br/>
+
+> Les notions de lecture-écriture sont indissociables pour assurer la circulation de l’information bilatérale, mettant en évidence l’importance de l’inter­action dans le développement de l’environnement numérique partagé que constitue le web.
+
+## D'Internet au web : le web 2.0
+<br/>
+<br/>
+
+2003 Dale Dougherty nouveau questionnement sur le document numérique. 
+
+  - réseaux sociaux
+  - données internautes > Big Data
+  - émergence écriture collaborative
+  - ouverture aux activités culturelles
+
+# Histoire des Humanités Numériques
+
+## Histoire des HN : définition
+
+Les humanités numériques (_digital humanities_) sont caractérisées d’une forte interdisciplinarité et pour ça il ne faut pas les penser comme une discipline, mais plutôt comme approche globale, transdisciplinaire. Elles pourraient être “définit comme l’application d’une méthode d’analyse informatique aux sciences humaines”. Le numérique est vu de manière globale comme un changement culture, on pourrait arriver à parler d’”humanisme numérique”.
+
+## Histoire des HN : nouveau paradigme
+
+HN -> réinterprétation des structures conceptuelles 
+
+-> restructuration et réorganisation de la connaissance
+
+## Histoire des HN : nouveau paradigme
+
+<figure><img src="https://substackcdn.com/image/fetch/$s_!5uiO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef15c34c-275f-4556-8cb5-d79f9d9f01e1_548x480.jpeg" style="height:55%; margin: auto;"/>
+<figcaption style="text-align: center; font-size: 16pt;">Alimoekhamedov, Malik, <i>Memex de Vannevar Bush 1945</i>, <a href="https://malikalimoekhamedov.substack.com/p/memex-a-romantic-theoretical-tool">The Mechanics of Knowledge Management</a>.</figcaption></figure>
+
+## Histoire des HN : nouveau paradigme
+
+<iframe width="100%" height="70%" src="https://www.youtube.com/watch?v=c539cK58ees" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Histoire des HN : nouveau paradigme
+
+Complex Ted Nelson 20 ans plus tard seulement certaines fonctionnalités.
+
+Introduction **hypertexte**
+
+- véritable restructuration du savoir 
+- réflexion outils technologique SHS
+- structures conceptuelles de nos cultures
+
+## Histoire des HN : genèse _literary and linguistic computing_
+
+Roberto Busa, père jésuite, (fin années 40 - début années 50) et IBM
+
+_Index Thomisticus_ (l’oeuvre de Thomas d’Aquin)
+
+Le role de la technologie est de
+
+- simplifier
+- automatiser
+- rendre rapide
+
+## Histoire des HN : années 60/70
+
+Travaux analogue à celui de Busa en Amérique du Nord et Europe
+
+-> concordanciers usage statistique sur des corpus numérisés
+
+- identification des auteurs
+- amélioration processus mécanique
+  + recherche
+  + qualification des données 
+
+## Histoire des HN : années 70/80
+
+- En Angleterre, 1972 institution *Association for Litarary and Linguistic Computing*
+    
+- 1976 revue *Literary & Linguistic Computing*. Les publications vont au-delà des analyses de fréquence de mots ou de l’assignation d’autorité.
+
+- En 1978 US : Association for Computers and the Humanities
+    
+- En 1986 Canada : Consortium pour ordinateurs en sciences humaines / Consortium for Computers in the Humanities
+
+Selon Lou Burnard évolution de _literary and linguistic computing_ aux _humanities computing_.
+
+## Histoire des HN : années 90
+
+On passe aux _digital humanities_ (humanités numériques)
+
+- Siemens, Raymond George, Susan Schreibman et John Unsworth, _A Companion to Digital Humanities_, Malden, MA, Blackwell Pub., 2004. (_cfr._ réf.)
+- naissance et diffusion d'internet 
+- évolution approche méthodologique 
+
+## Histoire des HN : années 90
+
+Internet comme instrument et objet de recherche changeant les pratique de la communauté savante et non. 
+
+Au niveau éditorial, changement technique et de structuration du savoir
+
+Questionnements sur :
+
+- les outils
+- la manière de faire recherche 
+- le numérique lui-même
+
+## Vers un humanisme numérique
+
+Véritable événement culturel (Milad Doueihi)
+
+Intérêt pour outil, théorie ou les deux.
+
+Dichotomie humaine et machine effacée. Celle du numérique est une culture une civilisation.
+
+Renversement d'objet à sujet, avec le numérique étant une dimension de l'humaine. 
+
+## Vers un humanisme numérique : au niveau édition
+
+Il ne s'agit pas d'une révolution, mais d'une série de petites révolutions. 
+
+L'édition se transforme en éditorialisation comme ensemble des pratiques organisatives et structurantes des contenus web. 
+
+Au centre le dispositif, le contexte, l’accessibilité et le dispositif lui-même.
+
+# Définir le numérique
+
+## Définir le numérique
+<br/>
+<br/>
+
+<span style="text-align: center;">Numérique comme passe-partout de la vie quotidienne.</span>
+
+## Définir le numérique
+<br/>
+<br/>
+
+<span style="text-align: center;">Numérique comme passe-partout de la vie quotidienne.</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">« Nouvelle technologie »</span>
+
+## Définir le numérique
+<br/>
+<br/>
+
+<span style="text-align: center;">Numérique comme passe-partout de la vie quotidienne.</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">~~« Nouvelle technologie »~~</span>
+
+## Définir le numérique
+<br/>
+<br/>
+
+<span style="text-align: center;">Numérique comme passe-partout de la vie quotidienne.</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">~~« Nouvelle technologie »~~</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">Virtuel : deuxième moitié des années 80, apogée en 2003</span> 
+
+<span style="text-align: center;">Virtuel vs Réel</span>
+
+## Définir le numérique
+<br/>
+<br/>
+
+<span style="text-align: center;">Numérique comme passe-partout de la vie quotidienne.</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">~~« Nouvelle technologie »~~</span>
+<br/>
+<br/>
+
+<span style="text-align: center;">Virtuel : deuxième moitié des années 80, apogée en 2003</span>
+
+<span style="text-align: center;">~~Virtuel vs Réel~~</span>
+
+## Définir le numérique
+
+| Analogique | **vs** | Numérique |
+|:----------:|:------:|:---------:|
+| Analogue, reproduction fidèle au niveau physique | | discrétisation/échantillonnage |
+| continuité | | perte de continuité|
+| problème de transmission et reproduction || binaire toujours enregistré et reproduit de la même manière|
+
+## Définir le numérique
+
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Adrian_Korte_2016_%28Unsplash%29.jpg/1280px-Adrian_Korte_2016_%28Unsplash%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" style="height:55%; float:center;"/>
+<figcaption style="text-align: center; font-size: 16pt;">Korte, Adrian, <i>Détail de la tête de lecture d'un microsillon</i>, <a href="https://unsplash.com/photos/5gn2soeAc40">Wayback Machine</a>.</figcaption></figure>
+
+## Définir le numérique
+
+<figure><img src="https://www.soundproofingcompany.com/wp-content/uploads/2018/11/amplitude-e1447285050750.gif" style="height:55%; float:center;"/>
+<figcaption style="text-align: center; font-size: 16pt;">s.a., <i>What is sound ?</i>, <a href="https://www.soundproofingcompany.com/soundproofing_101/what-is-sound">Sounfproofing Company Inc</a>.</figcaption></figure>
+
+
+
+## Définir le numérique
+
+L'échantillonnage avec chiffres discrets et le circuit.
+
+<figure><img src="https://www.youmath.it/images/stories/Fisica/elettricita/circuito-con-interruttore-elettrico.png" style="width:85%; float:center;"/>
+<figcaption style="text-align: center; font-size: 16pt;">Catania, Alessandro, "Interrutori elettrici", <a href="https://www.youmath.it/lezioni/fisica/elettricita/4925-interruttore-elettrico.html"><i>YouMath</i></a>.</figcaption></figure>
+
+## Définir le numérique
+
+L'échantillonnage avec chiffres discrets et le circuit.
+
+<figure><img src="https://www.ic-components.com/upfile/images/54/20260205104501257.jpg" style="width:85%; float:center;"/>
+<figcaption style="text-align: center; font-size: 16pt;">Jason, "Closed Circuit in Electricity Components, Working, and Problems", <a href="https://www.ic-components.com/blog/Closed-Circuit-in-Electricity-Components,Working,and-Problems.jsp">IC Components Limited</a>.</figcaption></figure>
+
+
+## Définir le numérique
+
+Numérique comme outils et dispositifs améliorant ce qu'on fait déjà
+
+## Définir le numérique
+
+Numérique ~~comme outils et dispositifs améliorant ce qu'on fait déjà~~
+
+## Définir le numérique
+
+Numérique ~~comme outils et dispositifs améliorant ce qu'on fait déjà~~
+
+  -> modification de:
+  
+  + nos pratiques et leur sens. 
+  + notre rapport au monde
+  + nous-mêmes (compréhension, pensée, perception, …)
+
+## Définir le numérique
+
+Numérique ~~comme outils et dispositifs améliorant ce qu'on fait déjà~~
+
+  -> modification de:
+  
+  + nos pratiques et leur sens. 
+  + notre rapport au monde
+  + nous-mêmes (compréhension, pensée, perception, …)
+
+La nature de l'homme se transforme avec l'outil, dans ce cas le numérique.  
+
+## Définir le numérique
+
+Numérique matériel ou immatériel ? 
+
+## Définir le numérique
+
+Numérique matériel ~~ou immatériel ?~~
+
+- relations dans les pages web
+- disques durs
+
+## Définir le numérique
+
+Numérique matériel ~~ou immatériel ?~~
+
+- relations dans les pages web
+- disques durs
+
+Le numérique est caractérisé pour sa multiplicité (convertibilité des objets)
+  + discrétisation (facilitant gestion et transmission)
+  + médiation (interprétation nécessaire [binaire -> encodage HTML -> affichage page web])
+
+## Références
+
+- Mille, Alain, « D’Internet au web », dans  Vitali-Rosati, Marcello et Michaël Eberle Sinatra, _Pratiques de l’édition numérique_, Montréal, Presses de l’Université de Montréal, 2014, p. 31‑48.
+
+- Vitali-Rosati, Marcello et Michael Eberle-Sinatra, « Histoire des humanités numériques », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, _Pratiques de l’édition numérique_, Montréal, Presses de l’Université de Montréal, 2014, p. 49‑60.
+
+- Vitali Rosati, Marcello, « Pour une définition du « numérique » », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, _Pratiques de l’édition numérique_, Montréal, Presses de l’Université de Montréal, 2014, p. 63‑75.
+
+- Siemens, Raymond George, Susan Schreibman et John Unsworth, _A Companion to Digital Humanities_, Malden, MA, Blackwell Pub., 2004.
+
+- Siemens, Raymond George et Susan Schreibman, _A Companion to Digital Literary Studies_, Malden, MA, Blackwell Pub., 2007.
+
+- Siemens, Raymond George, Susan Schreibman et John Unsworth, _A New Companion to Digital Humanities_, Malden, MA, Blackwell Pub., 2015.

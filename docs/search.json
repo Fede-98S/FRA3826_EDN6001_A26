@@ -1,129 +1,290 @@
 [
   {
-    "objectID": "slides/intro.html#plan-de-la-séance",
-    "href": "slides/intro.html#plan-de-la-séance",
-    "title": "Introduction",
+    "objectID": "slides/numerique.html#plan-de-la-séance",
+    "href": "slides/numerique.html#plan-de-la-séance",
+    "title": "Le numérique, Internet et le web",
     "section": "Plan de la séance",
-    "text": "Plan de la séance\n \n\nPrésentation chargé\nPrésentation du cours\nPlan du cours\nPrésentations étudiant·e·s\nModalité d’évaluation\nQuestions"
+    "text": "Plan de la séance\n \n\nD’Internet au web\nHistoire des HN\nVers un humanisme numérique\nDéfinir le numérique"
   },
   {
-    "objectID": "slides/intro.html#question",
-    "href": "slides/intro.html#question",
-    "title": "Introduction",
-    "section": "Question",
-    "text": "Question\n  \nQu’est-ce que vous pensez quand vous entendez l’intitulé du cours?  \nThéories de l’édition numérique"
+    "objectID": "slides/numerique.html#dinternet-au-web-1",
+    "href": "slides/numerique.html#dinternet-au-web-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web",
+    "text": "D’Internet au web\n  \n\n\n\n\n\n\n\n\nInternet\nvs\nWeb\n\n\n\n\nreseau physique pour échanger les données\n\nensemble des fichers HTML accèssible en protocole HTTP"
   },
   {
-    "objectID": "slides/intro.html#présentation-du-cours-1",
-    "href": "slides/intro.html#présentation-du-cours-1",
-    "title": "Introduction",
-    "section": "Présentation du cours",
-    "text": "Présentation du cours\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels."
+    "objectID": "slides/numerique.html#dinternet-au-web-1950-1968",
+    "href": "slides/numerique.html#dinternet-au-web-1950-1968",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : 1950-1968",
+    "text": "D’Internet au web : 1950-1968\nContexte : années 50, Guerre Froide, communication contre attaque nucléaire\nPaul Baran propose la « patate chaude » -&gt; reseau de transport des messages non fixe"
   },
   {
-    "objectID": "slides/intro.html#plan-du-cours-1",
-    "href": "slides/intro.html#plan-du-cours-1",
-    "title": "Introduction",
-    "section": "Plan du cours",
-    "text": "Plan du cours\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n-\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)"
+    "objectID": "slides/numerique.html#dinternet-au-web-1950-1968-1",
+    "href": "slides/numerique.html#dinternet-au-web-1950-1968-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : 1950-1968",
+    "text": "D’Internet au web : 1950-1968\nContexte : années 50, Guerre Froide, communication contre attaque nucléaire\nPaul Baran propose la « patate chaude » -&gt; reseau de transport des messages non fixe\nAT&T refus initiale, ARPA (Advanced Research Projects Agency) systèmes informatiques intéractifs et collaboratifs.\nFrank Heart :\n\n1969 : 2 machines comuniques\n1971 : 15 machines\n1972 : reseau lancé à L’ICCC (International Computer Communication Conference)"
   },
   {
-    "objectID": "slides/intro.html#modalité-dévaluation-1",
-    "href": "slides/intro.html#modalité-dévaluation-1",
-    "title": "Introduction",
-    "section": "Modalité d’évaluation",
-    "text": "Modalité d’évaluation\n \n\n\n\nType\nPourcentage\n\n\n\n\n\nParticipation\n10%\n\n\n\nTravail de mi-session 1\n15%\n\n\n\nTravail de mi-session 2\n15%\n\n\n\nTravail final 1\n20%\n\n\n\nTravail final 2\n40%"
+    "objectID": "slides/numerique.html#dinternet-au-web-1969-1978",
+    "href": "slides/numerique.html#dinternet-au-web-1969-1978",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web: 1969-1978",
+    "text": "D’Internet au web: 1969-1978\n \n\n1969 RFC (Request For Comments) protocole de communication ouvert et collaboratif -&gt; NFC (Network Control Protocol) \nEn France Cyclades :\n\n1974 TCP (Transport Control Protocol)\n1978 IP (Internetworking Protocol)"
   },
   {
-    "objectID": "slides/intro.html#participation-au-cours",
-    "href": "slides/intro.html#participation-au-cours",
-    "title": "Introduction",
-    "section": "Participation au cours",
-    "text": "Participation au cours\n  \nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et des discussions menées en classe. Cette évaluation se fera de manière continue."
+    "objectID": "slides/numerique.html#dinternet-au-web-démocratisation-1",
+    "href": "slides/numerique.html#dinternet-au-web-démocratisation-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : démocratisation",
+    "text": "D’Internet au web : démocratisation\n\n1970-1980 : developpement technologique microprocesseurs (ex. Intel 4004)\n\nmachines plus petites et démocratisation (Altair 8800 et Apple I)\nPC IBM 5150 et Apple II ouverture -&gt; software et hardware en masse\n\n1975 : The Wall, le premier réseau social (lignes téléphoniques)\n1984 : NSF (National Science Fondation) connection de réseaux régionaux (NSFNET) -&gt; croissance exponentielle de noeuds connectés."
   },
   {
-    "objectID": "slides/intro.html#travail-de-mi-session-1",
-    "href": "slides/intro.html#travail-de-mi-session-1",
-    "title": "Introduction",
-    "section": "Travail de mi-session 1",
-    "text": "Travail de mi-session 1\n  \nLe premier travail de mi-session consiste en un test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation."
+    "objectID": "slides/numerique.html#dinternet-au-web-le-web-1",
+    "href": "slides/numerique.html#dinternet-au-web-le-web-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : le web",
+    "text": "D’Internet au web : le web\n\nContexte : 1990, CERN de Genève, Tim Berners-Lee partage de documents différentes\n\nURI (Uniform Resource Identifier)\nHTML (HyperText Markup Language)\nHTTP (HyperText Transfer Protocol)\n\nCréation de fact du WWW (World Wide Web)"
   },
   {
-    "objectID": "slides/intro.html#travail-de-mi-session-2",
-    "href": "slides/intro.html#travail-de-mi-session-2",
-    "title": "Introduction",
-    "section": "Travail de mi-session 2",
-    "text": "Travail de mi-session 2\n  \nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’une brève résumée du même en maximum 300 mots."
+    "objectID": "slides/numerique.html#dinternet-au-web-le-web-2",
+    "href": "slides/numerique.html#dinternet-au-web-le-web-2",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : le web",
+    "text": "D’Internet au web : le web\n \n\nPerry Pei Wei : navigateurs www (Unix, Erwise, Samba, …)\nMarc Andressen et Eric Brina du NCSA (National Centre for Superrcomp) - Mosaic (manière cooperative) et .com (e-commerce)\n\n2000 faillites en chaîne et restructuration"
   },
   {
-    "objectID": "slides/intro.html#travail-final-1",
-    "href": "slides/intro.html#travail-final-1",
-    "title": "Introduction",
-    "section": "Travail final 1",
-    "text": "Travail final 1\n  \nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation."
+    "objectID": "slides/numerique.html#dinternet-au-web-le-web-1.0",
+    "href": "slides/numerique.html#dinternet-au-web-le-web-1.0",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : le web 1.0",
+    "text": "D’Internet au web : le web 1.0\n1994 Tim Berners-Lee W3C (World Wide Web Consortium) [interopérabilité et standardisation]\n1995 Serguei Brin et Larry Page créent Google indexation références et index potentiel le contenu -&gt; linked data\nLes terminaux web se multiplient et diversifient selon la compagnie téléphonique, téléphone mobile nécessaire pour certaines communautés.\n2013 le 32% de la population mondiale est internaute.\nTim Berners-Lee insatisfaction navigateurs pour la seule lecture."
   },
   {
-    "objectID": "slides/intro.html#travail-final-2",
-    "href": "slides/intro.html#travail-final-2",
-    "title": "Introduction",
-    "section": "Travail final 2",
-    "text": "Travail final 2\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\n(20%) brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\n(20 %) thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique."
+    "objectID": "slides/numerique.html#dinternet-au-web-le-web-1.0-1",
+    "href": "slides/numerique.html#dinternet-au-web-le-web-1.0-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : le web 1.0",
+    "text": "D’Internet au web : le web 1.0\n  \n\nLes notions de lecture-écriture sont indissociables pour assurer la circulation de l’information bilatérale, mettant en évidence l’importance de l’inter­action dans le développement de l’environnement numérique partagé que constitue le web."
   },
   {
-    "objectID": "slides/intro.html#lectures-1",
-    "href": "slides/intro.html#lectures-1",
-    "title": "Introduction",
-    "section": "Lectures",
-    "text": "Lectures\n01 Octobre\n\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. HS-33, 2020, en ligne, doi: https://doi.org/10.4000/corela.11759.\n\nSemaine de lecture\n\nBeauchef, Hélène, « Concevoir un projet éditorial pour le web », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, en ligne https://parcoursnumeriques-pum.ca/1-pratiques/chapitre13.html.\n\n19 Novembre\n\nCamps, Jean-Baptiste, « Où va la philologie numérique ? », Fabula-LhT : littérature, histoire, théorie, vol. 20, nᵒ 20, 2018, en ligne, https://shs.hal.science/halshs-01674953.\nVitali-Rosati, Marcello et Robert Alessi, « Introduction », dans Vitali-Rosati, Marcello et Robert Alessi, Les éditions critiques numériques: entre tradition et changement de paradigme, Montréal, Presses de l’Université de Montréal, 2023, en ligne https://parcoursnumeriques-pum.ca/12-editionscritiques/introduction.html\n\n3 Décembre\n\nVitali-Rosati, Marcello, « La littérature numérique, existe-t-elle? », Digital Studies / Le champ numérique, vol. 6, nᵒ 1, Open Library of Humanities, février 2015, en ligne, https://www.digitalstudies.org/article/id/7262/.\nBouchardon, Serge, « La littérature numérique : support et matérialité », Terminal, vol. 101, 2008, en ligne, doi: https://doi.org/10.4000/terminal.4472."
+    "objectID": "slides/numerique.html#dinternet-au-web-le-web-2.0",
+    "href": "slides/numerique.html#dinternet-au-web-le-web-2.0",
+    "title": "Le numérique, Internet et le web",
+    "section": "D’Internet au web : le web 2.0",
+    "text": "D’Internet au web : le web 2.0\n \n2003 Dale Dougherty nouveau questionnement sur le document numérique.\n\nréseaux sociaux\ndonnées internautes &gt; Big Data\némergence écriture collaborative\nouverture aux activités culturelles"
   },
   {
-    "objectID": "seances.html",
-    "href": "seances.html",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
+    "objectID": "slides/numerique.html#histoire-des-hn-définition",
+    "href": "slides/numerique.html#histoire-des-hn-définition",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : définition",
+    "text": "Histoire des HN : définition\nLes humanités numériques (digital humanities) sont caractérisées d’une forte interdisciplinarité et pour ça il ne faut pas les penser comme une discipline, mais plutôt comme approche globale, transdisciplinaire. Elles pourraient être “définit comme l’application d’une méthode d’analyse informatique aux sciences humaines”. Le numérique est vu de manière globale comme un changement culture, on pourrait arriver à parler d’”humanisme numérique”."
   },
   {
-    "objectID": "seances.html#introduction-0309",
-    "href": "seances.html#introduction-0309",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
+    "objectID": "slides/numerique.html#histoire-des-hn-nouveau-paradigme",
+    "href": "slides/numerique.html#histoire-des-hn-nouveau-paradigme",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : nouveau paradigme",
+    "text": "Histoire des HN : nouveau paradigme\nHN -&gt; réinterprétation des structures conceptuelles\n-&gt; restructuration et réorganisation de la connaissance"
   },
   {
-    "objectID": "seances.html#quest-ce-que-cest-lédition-1009",
-    "href": "seances.html#quest-ce-que-cest-lédition-1009",
-    "title": "Séances",
-    "section": "Qu’est-ce que c’est l’édition ? (10/09)",
-    "text": "Qu’est-ce que c’est l’édition ? (10/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+    "objectID": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-1",
+    "href": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : nouveau paradigme",
+    "text": "Histoire des HN : nouveau paradigme\n\n\n\nAlimoekhamedov, Malik, Memex de Vannevar Bush 1945, The Mechanics of Knowledge Management."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Théories de l’édition numérique",
-    "section": "",
-    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+    "objectID": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-2",
+    "href": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-2",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : nouveau paradigme",
+    "text": "Histoire des HN : nouveau paradigme"
   },
   {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "Théories de l’édition numérique",
-    "section": "",
-    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+    "objectID": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-3",
+    "href": "slides/numerique.html#histoire-des-hn-nouveau-paradigme-3",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : nouveau paradigme",
+    "text": "Histoire des HN : nouveau paradigme\nComplex Ted Nelson 20 ans plus tard seulement certaines fonctionnalités.\nIntroduction hypertexte\n\nvéritable restructuration du savoir\nréflexion outils technologique SHS\nstructures conceptuelles de nos cultures"
   },
   {
-    "objectID": "index.html#modalités-dévaluation",
-    "href": "index.html#modalités-dévaluation",
-    "title": "Théories de l’édition numérique",
-    "section": "MODALITÉS D’ÉVALUATION",
-    "text": "MODALITÉS D’ÉVALUATION\nParticipation au cours : 10%\nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu.\nTravail de mi-session 1 (Test) : 15%\nLe premier travail de mi-session consiste en une test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.\nTravail de mi-session 2 (Esquisse projet) : 15%\nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’un brève résumé du même en maximum 300 mots.\nTravail final 1 (Présentation projets) : 20%\nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation.\nTravail final 2 (Rendu) : 40%\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\nLa première (20%) doit être une brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\nLa deuxième (20 %) est sur une thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique.\n\nL’évaluation du travail final prendra en compte le contenu et la manière dont il est présenté, au niveau structurel et de la propreté linguistique. En plus de la capacité de présenter et commenter des projets, sera évalué aussi la capacité de mobiliser une bibliographie critique."
+    "objectID": "slides/numerique.html#histoire-des-hn-genèse-literary-and-linguistic-computing",
+    "href": "slides/numerique.html#histoire-des-hn-genèse-literary-and-linguistic-computing",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : genèse literary and linguistic computing",
+    "text": "Histoire des HN : genèse literary and linguistic computing\nRoberto Busa, père jésuite, (fin années 40 - début années 50) et IBM\nIndex Thomisticus (l’oeuvre de Thomas d’Aquin)\nLe role de la technologie est de\n\nsimplifier\nautomatiser\nrendre rapide"
   },
   {
-    "objectID": "index.html#calendrier",
-    "href": "index.html#calendrier",
-    "title": "Théories de l’édition numérique",
-    "section": "CALENDRIER",
-    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
+    "objectID": "slides/numerique.html#histoire-des-hn-années-6070",
+    "href": "slides/numerique.html#histoire-des-hn-années-6070",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : années 60/70",
+    "text": "Histoire des HN : années 60/70\nTravaux analogue à celui de Busa en Amérique du Nord et Europe\n-&gt; concordanciers usage statistique sur des corpus numérisés\n\nidentification des auteurs\namélioration processus mécanique\n\nrecherche\nqualification des données"
+  },
+  {
+    "objectID": "slides/numerique.html#histoire-des-hn-années-7080",
+    "href": "slides/numerique.html#histoire-des-hn-années-7080",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : années 70/80",
+    "text": "Histoire des HN : années 70/80\n\nEn Angleterre, 1972 institution Association for Litarary and Linguistic Computing\n1976 revue Literary & Linguistic Computing. Les publications vont au-delà des analyses de fréquence de mots ou de l’assignation d’autorité.\nEn 1978 US : Association for Computers and the Humanities\nEn 1986 Canada : Consortium pour ordinateurs en sciences humaines / Consortium for Computers in the Humanities\n\nSelon Lou Burnard évolution de literary and linguistic computing aux humanities computing."
+  },
+  {
+    "objectID": "slides/numerique.html#histoire-des-hn-années-90",
+    "href": "slides/numerique.html#histoire-des-hn-années-90",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : années 90",
+    "text": "Histoire des HN : années 90\nOn passe aux digital humanities (humanités numériques)\n\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2004. (cfr. réf.)\nnaissance et diffusion d’internet\névolution approche méthodologique"
+  },
+  {
+    "objectID": "slides/numerique.html#histoire-des-hn-années-90-1",
+    "href": "slides/numerique.html#histoire-des-hn-années-90-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "Histoire des HN : années 90",
+    "text": "Histoire des HN : années 90\nInternet comme instrument et objet de recherche changeant les pratique de la communauté savante et non.\nAu niveau éditorial, changement technique et de structuration du savoir\nQuestionnements sur :\n\nles outils\nla manière de faire recherche\nle numérique lui-même"
+  },
+  {
+    "objectID": "slides/numerique.html#vers-un-humanisme-numérique",
+    "href": "slides/numerique.html#vers-un-humanisme-numérique",
+    "title": "Le numérique, Internet et le web",
+    "section": "Vers un humanisme numérique",
+    "text": "Vers un humanisme numérique\nVéritable événement culturel (Milad Doueihi)\nIntérêt pour outil, théorie ou les deux.\nDichotomie humaine et machine effacée. Celle du numérique est une culture une civilisation.\nRenversement d’objet à sujet, avec le numérique étant une dimension de l’humaine."
+  },
+  {
+    "objectID": "slides/numerique.html#vers-un-humanisme-numérique-au-niveau-édition",
+    "href": "slides/numerique.html#vers-un-humanisme-numérique-au-niveau-édition",
+    "title": "Le numérique, Internet et le web",
+    "section": "Vers un humanisme numérique : au niveau édition",
+    "text": "Vers un humanisme numérique : au niveau édition\nIl ne s’agit pas d’une révolution, mais d’une série de petites révolutions.\nL’édition se transforme en éditorialisation comme ensemble des pratiques organisatives et structurantes des contenus web.\nAu centre le dispositif, le contexte, l’accessibilité et le dispositif lui-même."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-1",
+    "href": "slides/numerique.html#définir-le-numérique-1",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n \nNumérique comme passe-partout de la vie quotidienne."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-2",
+    "href": "slides/numerique.html#définir-le-numérique-2",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n \nNumérique comme passe-partout de la vie quotidienne.  \n« Nouvelle technologie »"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-3",
+    "href": "slides/numerique.html#définir-le-numérique-3",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n \nNumérique comme passe-partout de la vie quotidienne.  \n« Nouvelle technologie »"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-4",
+    "href": "slides/numerique.html#définir-le-numérique-4",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n \nNumérique comme passe-partout de la vie quotidienne.  \n« Nouvelle technologie »  \nVirtuel : deuxième moitié des années 80, apogée en 2003\nVirtuel vs Réel"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-5",
+    "href": "slides/numerique.html#définir-le-numérique-5",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n \nNumérique comme passe-partout de la vie quotidienne.  \n« Nouvelle technologie »  \nVirtuel : deuxième moitié des années 80, apogée en 2003\nVirtuel vs Réel"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-6",
+    "href": "slides/numerique.html#définir-le-numérique-6",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n\n\n\n\n\n\n\n\nAnalogique\nvs\nNumérique\n\n\n\n\nAnalogue, reproduction fidèle au niveau physique\n\ndiscrétisation/échantillonnage\n\n\ncontinuité\n\nperte de continuité\n\n\nproblème de transmission et reproduction\n\nbinaire toujours enregistré et reproduit de la même manière"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-7",
+    "href": "slides/numerique.html#définir-le-numérique-7",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n\n\n\nKorte, Adrian, Détail de la tête de lecture d’un microsillon, Wayback Machine."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-8",
+    "href": "slides/numerique.html#définir-le-numérique-8",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\n\n\n\ns.a., What is sound ?, Sounfproofing Company Inc."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-9",
+    "href": "slides/numerique.html#définir-le-numérique-9",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nL’échantillonnage avec chiffres discrets et le circuit.\n\n\n\nCatania, Alessandro, “Interrutori elettrici”, YouMath."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-10",
+    "href": "slides/numerique.html#définir-le-numérique-10",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nL’échantillonnage avec chiffres discrets et le circuit.\n\n\n\nJason, “Closed Circuit in Electricity Components, Working, and Problems”, IC Components Limited."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-11",
+    "href": "slides/numerique.html#définir-le-numérique-11",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique comme outils et dispositifs améliorant ce qu’on fait déjà"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-12",
+    "href": "slides/numerique.html#définir-le-numérique-12",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique comme outils et dispositifs améliorant ce qu’on fait déjà"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-13",
+    "href": "slides/numerique.html#définir-le-numérique-13",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique comme outils et dispositifs améliorant ce qu’on fait déjà\n-&gt; modification de:\n\nnos pratiques et leur sens.\nnotre rapport au monde\nnous-mêmes (compréhension, pensée, perception, …)"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-14",
+    "href": "slides/numerique.html#définir-le-numérique-14",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique comme outils et dispositifs améliorant ce qu’on fait déjà\n-&gt; modification de:\n\nnos pratiques et leur sens.\nnotre rapport au monde\nnous-mêmes (compréhension, pensée, perception, …)\n\nLa nature de l’homme se transforme avec l’outil, dans ce cas le numérique."
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-15",
+    "href": "slides/numerique.html#définir-le-numérique-15",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique matériel ou immatériel ?"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-16",
+    "href": "slides/numerique.html#définir-le-numérique-16",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique matériel ou immatériel ?\n\nrelations dans les pages web\ndisques durs"
+  },
+  {
+    "objectID": "slides/numerique.html#définir-le-numérique-17",
+    "href": "slides/numerique.html#définir-le-numérique-17",
+    "title": "Le numérique, Internet et le web",
+    "section": "Définir le numérique",
+    "text": "Définir le numérique\nNumérique matériel ou immatériel ?\n\nrelations dans les pages web\ndisques durs\n\nLe numérique est caractérisé pour sa multiplicité (convertibilité des objets) + discrétisation (facilitant gestion et transmission) + médiation (interprétation nécessaire [binaire -&gt; encodage HTML -&gt; affichage page web])"
+  },
+  {
+    "objectID": "slides/numerique.html#références",
+    "href": "slides/numerique.html#références",
+    "title": "Le numérique, Internet et le web",
+    "section": "Références",
+    "text": "Références\n\nMille, Alain, « D’Internet au web », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 31‑48.\nVitali-Rosati, Marcello et Michael Eberle-Sinatra, « Histoire des humanités numériques », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 49‑60.\nVitali Rosati, Marcello, « Pour une définition du « numérique » », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 63‑75.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2004.\nSiemens, Raymond George et Susan Schreibman, A Companion to Digital Literary Studies, Malden, MA, Blackwell Pub., 2007.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A New Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2015."
   },
   {
     "objectID": "slides/edition.html#plan-de-la-séance",
@@ -235,7 +396,7 @@
     "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-1",
     "title": "Qu’est-ce que c’est l’édition ?",
     "section": "Quelle est la fonction de l’édition?",
-    "text": "Quelle est la fonction de l’édition?\n \nLe rôle de l’éditeur est fondamental et il faut consiérer, notamment à l’ère du numérique que  \n\nAmbassadeur culturel et intellectuel, intermédiaire essentiel entre l’auteur et le lecteur (Poirier et Genêt, p. 17)"
+    "text": "Quelle est la fonction de l’édition?\n \nLe rôle de l’éditeur est fondamental et il faut considérer, notamment à l’ère du numérique que  \n\nAmbassadeur culturel et intellectuel, intermédiaire essentiel entre l’auteur et le lecteur (Poirier et Genêt, p. 17)"
   },
   {
     "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-2",
@@ -292,5 +453,138 @@
     "title": "Qu’est-ce que c’est l’édition ?",
     "section": "Images",
     "text": "Images\n\nAndrea e Gian Francesco Torresani, edição princeps de 1528, en ligne\nEnsahequ, Caratteri mobili del Museo della stampa Lodovico Pavoni, en ligne\nLeah Henrickson, pecia mark, en ligne\nDaniel Nikolaus Chodowiecki, Tab. XXI c. Die Buchdruckerei, National Library of Poland, en ligne"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Théories de l’édition numérique",
+    "section": "",
+    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Théories de l’édition numérique",
+    "section": "",
+    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+  },
+  {
+    "objectID": "index.html#modalités-dévaluation",
+    "href": "index.html#modalités-dévaluation",
+    "title": "Théories de l’édition numérique",
+    "section": "MODALITÉS D’ÉVALUATION",
+    "text": "MODALITÉS D’ÉVALUATION\nParticipation au cours : 10%\nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu.\nTravail de mi-session 1 (Test) : 15%\nLe premier travail de mi-session consiste en une test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.\nTravail de mi-session 2 (Esquisse projet) : 15%\nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’un brève résumé du même en maximum 300 mots.\nTravail final 1 (Présentation projets) : 20%\nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation.\nTravail final 2 (Rendu) : 40%\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\nLa première (20%) doit être une brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\nLa deuxième (20 %) est sur une thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique.\n\nL’évaluation du travail final prendra en compte le contenu et la manière dont il est présenté, au niveau structurel et de la propreté linguistique. En plus de la capacité de présenter et commenter des projets, sera évalué aussi la capacité de mobiliser une bibliographie critique."
+  },
+  {
+    "objectID": "index.html#calendrier",
+    "href": "index.html#calendrier",
+    "title": "Théories de l’édition numérique",
+    "section": "CALENDRIER",
+    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
+  },
+  {
+    "objectID": "seances.html",
+    "href": "seances.html",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#introduction-0309",
+    "href": "seances.html#introduction-0309",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#quest-ce-que-cest-lédition-1009",
+    "href": "seances.html#quest-ce-que-cest-lédition-1009",
+    "title": "Séances",
+    "section": "Qu’est-ce que c’est l’édition ? (10/09)",
+    "text": "Qu’est-ce que c’est l’édition ? (10/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#le-numérique-internet-et-le-web-1709",
+    "href": "seances.html#le-numérique-internet-et-le-web-1709",
+    "title": "Séances",
+    "section": "Le numérique, Internet et le web (17/09)",
+    "text": "Le numérique, Internet et le web (17/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "slides/intro.html#plan-de-la-séance",
+    "href": "slides/intro.html#plan-de-la-séance",
+    "title": "Introduction",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n \n\nPrésentation chargé\nPrésentation du cours\nPlan du cours\nPrésentations étudiant·e·s\nModalité d’évaluation\nQuestions"
+  },
+  {
+    "objectID": "slides/intro.html#question",
+    "href": "slides/intro.html#question",
+    "title": "Introduction",
+    "section": "Question",
+    "text": "Question\n  \nQu’est-ce que vous pensez quand vous entendez l’intitulé du cours?  \nThéories de l’édition numérique"
+  },
+  {
+    "objectID": "slides/intro.html#présentation-du-cours-1",
+    "href": "slides/intro.html#présentation-du-cours-1",
+    "title": "Introduction",
+    "section": "Présentation du cours",
+    "text": "Présentation du cours\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels."
+  },
+  {
+    "objectID": "slides/intro.html#plan-du-cours-1",
+    "href": "slides/intro.html#plan-du-cours-1",
+    "title": "Introduction",
+    "section": "Plan du cours",
+    "text": "Plan du cours\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n-\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)"
+  },
+  {
+    "objectID": "slides/intro.html#modalité-dévaluation-1",
+    "href": "slides/intro.html#modalité-dévaluation-1",
+    "title": "Introduction",
+    "section": "Modalité d’évaluation",
+    "text": "Modalité d’évaluation\n \n\n\n\nType\nPourcentage\n\n\n\n\n\nParticipation\n10%\n\n\n\nTravail de mi-session 1\n15%\n\n\n\nTravail de mi-session 2\n15%\n\n\n\nTravail final 1\n20%\n\n\n\nTravail final 2\n40%"
+  },
+  {
+    "objectID": "slides/intro.html#participation-au-cours",
+    "href": "slides/intro.html#participation-au-cours",
+    "title": "Introduction",
+    "section": "Participation au cours",
+    "text": "Participation au cours\n  \nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et des discussions menées en classe. Cette évaluation se fera de manière continue."
+  },
+  {
+    "objectID": "slides/intro.html#travail-de-mi-session-1",
+    "href": "slides/intro.html#travail-de-mi-session-1",
+    "title": "Introduction",
+    "section": "Travail de mi-session 1",
+    "text": "Travail de mi-session 1\n  \nLe premier travail de mi-session consiste en un test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation."
+  },
+  {
+    "objectID": "slides/intro.html#travail-de-mi-session-2",
+    "href": "slides/intro.html#travail-de-mi-session-2",
+    "title": "Introduction",
+    "section": "Travail de mi-session 2",
+    "text": "Travail de mi-session 2\n  \nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’une brève résumée du même en maximum 300 mots."
+  },
+  {
+    "objectID": "slides/intro.html#travail-final-1",
+    "href": "slides/intro.html#travail-final-1",
+    "title": "Introduction",
+    "section": "Travail final 1",
+    "text": "Travail final 1\n  \nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation."
+  },
+  {
+    "objectID": "slides/intro.html#travail-final-2",
+    "href": "slides/intro.html#travail-final-2",
+    "title": "Introduction",
+    "section": "Travail final 2",
+    "text": "Travail final 2\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\n(20%) brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\n(20 %) thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique."
+  },
+  {
+    "objectID": "slides/intro.html#lectures-1",
+    "href": "slides/intro.html#lectures-1",
+    "title": "Introduction",
+    "section": "Lectures",
+    "text": "Lectures\n01 Octobre\n\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. HS-33, 2020, en ligne, doi: https://doi.org/10.4000/corela.11759.\n\nSemaine de lecture\n\nBeauchef, Hélène, « Concevoir un projet éditorial pour le web », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, en ligne https://parcoursnumeriques-pum.ca/1-pratiques/chapitre13.html.\n\n19 Novembre\n\nCamps, Jean-Baptiste, « Où va la philologie numérique ? », Fabula-LhT : littérature, histoire, théorie, vol. 20, nᵒ 20, 2018, en ligne, https://shs.hal.science/halshs-01674953.\nVitali-Rosati, Marcello et Robert Alessi, « Introduction », dans Vitali-Rosati, Marcello et Robert Alessi, Les éditions critiques numériques: entre tradition et changement de paradigme, Montréal, Presses de l’Université de Montréal, 2023, en ligne https://parcoursnumeriques-pum.ca/12-editionscritiques/introduction.html\n\n3 Décembre\n\nVitali-Rosati, Marcello, « La littérature numérique, existe-t-elle? », Digital Studies / Le champ numérique, vol. 6, nᵒ 1, Open Library of Humanities, février 2015, en ligne, https://www.digitalstudies.org/article/id/7262/.\nBouchardon, Serge, « La littérature numérique : support et matérialité », Terminal, vol. 101, 2008, en ligne, doi: https://doi.org/10.4000/terminal.4472."
   }
 ]
