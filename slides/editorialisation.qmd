@@ -20,12 +20,9 @@ format:
 <br/>
 <br/>
 
-- Présentation chargé
-- Présentation du cours
-- Plan du cours
-- Présentations étudiant·e·s
-- Modalité d'évaluation
-- Questions
+- Qu'est-ce que c'est ?
+- L'espace numérique
+- Caractéristiques de l'éditorialisation
 
 # Qu'est-ce que c'est ?
 
