@@ -1,0 +1,118 @@
+---
+title: "Qu’est-ce que c’est l’édition numérique ?"
+subtitle: "FRA3826 | EDN6001"
+date: "09-24-2026"
+date-format: "D MMMM YYYY"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+            
+---
+
+## Plan de la séance
+<br/>
+<br/>
+
+- Troisième révolution?
+- Vers le numérique
+- Les GAFAM
+
+## Troisième révolution?
+
+« troisième révolution des médias » (« _the third revolution in communication_ »)
+
+- années 1970 et 1980
+- innovations techniques
+  + rapidité et échelle globale
+
+## Troisième révolution?
+<br/>
+<br/>
+
+| | | | |
+|:----:|:----:|:----:|:----:|
+| manuscrit | imprimerie à caractères mobiles | industrialisation et livre de poche | numérique |
+
+## Troisième révolution?
+<br/>
+<br/>
+
+| | | | | |
+|:----:|:----:|:----:|:----:|:----:|
+| manuscrit | imprimerie à caractères mobiles | industrialisation et livre de poche | numérique | |
+|volumen| codex | imprimerie à caractères mobiles | industrialisation et livre de poche | numérique |
+
+## Troisième révolution?
+
+L'échelle globale
+
+# Vers le numérique
+
+## Vers le numérique
+
+Années '50/'70 photocomposition, lumière et métal
+
+![Vincegargiulo, _Storia del DTP_, 2016](https://colorgrammar.wordpress.com/wp-content/uploads/2014/12/fotocomposizione_.jpg)
+
+## Vers le numérique
+
+Années '70/'80 binaire et pixels
+
+![](https://www.sify.com/wp-content/uploads/2023/01/80s_computer_fonts_retro_thing.jpg)
+
+<!-- https://uwaterloo.ca/computer-museum/sites/default/files/styles/uw_is_media_x_large/public/uploads/images/code-example.png?itok=EnDFdo-N -->
+
+## Vers le numérique
+
+PAO = Publication Assistée par Ordinateur
+
+- _PageMaker_ de Aldus (1984)
+- Interpress de Xerox
+- PostScript de Adobe (1997)
+- PDF (1993)
+
+Diffusion de fichiers éditoriales
+
+## Vers le numérique
+<br/>
+
+| CTF(ilm) | CTP(late) | CTP(rint) | CTC(ylinder) |
+|:---------:|:-------:|:------:|:-------:|
+| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvm4kYJV_sRArCbRp4tbCACE6O8xop8ECPWMTpbYmiUw&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uwQKshmZrFDGt5-1qULlxbpafFc0OGsNCmafshETMw&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMBmb8Bp6QQTR1D7Ald554hsEaLErOlXicIdI6OYXHA&s=10) | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3R8JlA3ik42pMDEVkLBQqQlyPDMd2FsPysq6qjOWAQ&s=10) |
+
+# GAFAM
+
+## GAFAM
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtfp8x-XfqXswNvAd2no_IZZ2ARAGc897L5FNzdMYZQ&s=10)
+
+## GAFAM
+<br/>
+<br/>
+
+![](https://maheshone.com/wp-content/uploads/2016/09/All-Things-Amazon.png)
+
+## GAFAM
+<br/>
+<br/>
+
+Amazon (1994-): 
+
+- Amazon Books (2015-2022)
+- Amazon Publishing (2009)
+- Amazon Audible (1995-) - (2008)
+
+## Références
+
+- Earhart, Amy E., « The Digital Edition and the Digital Humanities », _Textual Cultures: Text, Contexts, Interpretation_, vol. 7, nᵒ 1, 2012, p. 18‑28, en ligne, <doi: 10.2979/textcult.7.1.18>.
+
+
+https://muse.jhu.edu/pub/3/article/494166
+
+https://muse.jhu.edu/pub/3/article/494164

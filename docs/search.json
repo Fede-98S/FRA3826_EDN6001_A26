@@ -287,6 +287,104 @@
     "text": "Références\n\nMille, Alain, « D’Internet au web », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 31‑48.\nVitali-Rosati, Marcello et Michael Eberle-Sinatra, « Histoire des humanités numériques », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 49‑60.\nVitali Rosati, Marcello, « Pour une définition du « numérique » », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 63‑75.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2004.\nSiemens, Raymond George et Susan Schreibman, A Companion to Digital Literary Studies, Malden, MA, Blackwell Pub., 2007.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A New Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2015."
   },
   {
+    "objectID": "slides/editorialisation.html#plan-de-la-séance",
+    "href": "slides/editorialisation.html#plan-de-la-séance",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n \n\nPrésentation chargé\nPrésentation du cours\nPlan du cours\nPrésentations étudiant·e·s\nModalité d’évaluation\nQuestions"
+  },
+  {
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-1",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n \nL’éditorialisation n’est pas l’édition numérique, mais il s’agit d’une philosophie à l’époque du numérique"
+  },
+  {
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-2",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-2",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n \n\n\n\nÉdition\nprocessus fermé\n\n\nÉditorialisation\ncontinuum"
+  },
+  {
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-3",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-3",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition restreinte\n\n\nSelon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le Web (Vitali-Rosati 2014a). En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques. […] Cette définition reste finalement très dualiste : d’une part l’humain, de l’autre la machine qui structure et détermine les actions humaines. D’une part le monde, de l’autre le savoir sur le monde.\n\n(§ 31, 38)"
+  },
+  {
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-4",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-4",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition générale\n\n\nL’éditorialisation désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.\n\n(§ 40)"
+  },
+  {
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-5",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-5",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition combinée\n\n\nL’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…).\n\n(§ 50)"
+  },
+  {
+    "objectID": "slides/editorialisation.html#lespace-numérique-1",
+    "href": "slides/editorialisation.html#lespace-numérique-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "L’espace numérique",
+    "text": "L’espace numérique\nPerception VS Réalité\n\n(im)matériel\n« cyberespace »\nhybride\n« cloud »\ninscrit\nliquide\nexclusif / inclusif"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(1.) Processuelle\nMouvement dynamique sans fin"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(2.) Performative\n\nPas de normativité\nOpérationnelle"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(3.) Ontologique\nL’éditorialisation crée le réel\nAu-delà d’être et savoir"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(4.) Multiple\nEn lien avec l’ontologique"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(5.) Collective\n\nOuverte\nNon limitée à l’humain"
+  },
+  {
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation"
+  },
+  {
+    "objectID": "slides/editorialisation.html#références",
+    "href": "slides/editorialisation.html#références",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Références",
+    "text": "Références\n\nVitali-Rosati, Marcello, On Editorialization: Structuring Space and Authority in the Digital Age, Lieu de publication non identifié, Institute of Network Cultures, 2018.\nVitali Rosati, Marcello, « Qu’est-ce que l’éditorialisation? », Sens public, 2016, en ligne, https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/.\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. 33, 2020, en ligne, https://dx.doi.org/10.4000/corela.11759."
+  },
+  {
     "objectID": "slides/edition.html#plan-de-la-séance",
     "href": "slides/edition.html#plan-de-la-séance",
     "title": "Qu’est-ce que c’est l’édition ?",
@@ -396,7 +494,7 @@
     "href": "slides/edition.html#quelle-est-la-fonction-de-lédition-1",
     "title": "Qu’est-ce que c’est l’édition ?",
     "section": "Quelle est la fonction de l’édition?",
-    "text": "Quelle est la fonction de l’édition?\n \nLe rôle de l’éditeur est fondamental et il faut considérer, notamment à l’ère du numérique que  \n\nAmbassadeur culturel et intellectuel, intermédiaire essentiel entre l’auteur et le lecteur (Poirier et Genêt, p. 17)"
+    "text": "Quelle est la fonction de l’édition?\n \nLe rôle de l’éditeur est fondamental et il faut consiérer, notamment à l’ère du numérique que  \n\nAmbassadeur culturel et intellectuel, intermédiaire essentiel entre l’auteur et le lecteur (Poirier et Genêt, p. 17)"
   },
   {
     "objectID": "slides/edition.html#quelle-est-la-fonction-de-lédition-2",
@@ -509,6 +607,111 @@
     "title": "Séances",
     "section": "Le numérique, Internet et le web (17/09)",
     "text": "Le numérique, Internet et le web (17/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
+    "href": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
+    "title": "Séances",
+    "section": "Qu’est-ce que c’est l’édition numérique ? (24/09)",
+    "text": "Qu’est-ce que c’est l’édition numérique ? (24/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#théorie-de-léditorialisation-0110",
+    "href": "seances.html#théorie-de-léditorialisation-0110",
+    "title": "Séances",
+    "section": "Théorie de l’éditorialisation (01/10)",
+    "text": "Théorie de l’éditorialisation (01/10)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "slides/edition_numerique.html#plan-de-la-séance",
+    "href": "slides/edition_numerique.html#plan-de-la-séance",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n \n\nTroisième révolution?\nVers le numérique\nLes GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution",
+    "href": "slides/edition_numerique.html#troisième-révolution",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n« troisième révolution des médias » (« the third revolution in communication »)\n\nannées 1970 et 1980\ninnovations techniques\n\nrapidité et échelle globale"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-1",
+    "href": "slides/edition_numerique.html#troisième-révolution-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-2",
+    "href": "slides/edition_numerique.html#troisième-révolution-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique\n\n\n\nvolumen\ncodex\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-3",
+    "href": "slides/edition_numerique.html#troisième-révolution-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\nL’échelle globale"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-1",
+    "href": "slides/edition_numerique.html#vers-le-numérique-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nAnnées ’50/’70 photocomposition, lumière et métal\n\nVincegargiulo, Storia del DTP, 2016"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-2",
+    "href": "slides/edition_numerique.html#vers-le-numérique-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nAnnées ’70/’80 binaire et pixels"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-3",
+    "href": "slides/edition_numerique.html#vers-le-numérique-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nPAO = Publication Assistée par Ordinateur\n\nPageMaker de Aldus (1984)\nInterpress de Xerox\nPostScript de Adobe (1997)\nPDF (1993)\n\nDiffusion de fichiers éditoriales"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-4",
+    "href": "slides/edition_numerique.html#vers-le-numérique-4",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\n\n\n\n\n\n\n\n\n\n\nCTF(ilm)\nCTP(late)\nCTP(rint)\nCTC(ylinder)"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-1",
+    "href": "slides/edition_numerique.html#gafam-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-2",
+    "href": "slides/edition_numerique.html#gafam-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-3",
+    "href": "slides/edition_numerique.html#gafam-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM\n \nAmazon (1994-):\n\nAmazon Books (2015-2022)\nAmazon Publishing (2009)\nAmazon Audible (1995-) - (2008)"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#références",
+    "href": "slides/edition_numerique.html#références",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Références",
+    "text": "Références\n\nEarhart, Amy E., « The Digital Edition and the Digital Humanities », Textual Cultures: Text, Contexts, Interpretation, vol. 7, nᵒ 1, 2012, p. 18‑28, en ligne, &lt;doi: 10.2979/textcult.7.1.18&gt;.\n\nhttps://muse.jhu.edu/pub/3/article/494166\nhttps://muse.jhu.edu/pub/3/article/494164"
   },
   {
     "objectID": "slides/intro.html#plan-de-la-séance",

@@ -1,0 +1,150 @@
+---
+title: "Théorie de l'éditorialisation "
+subtitle: "FRA3826 | EDN6001"
+date: "10-01-2026"
+date-format: "D MMMM YYYY"
+lang: fr
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+            
+---
+
+## Plan de la séance
+<br/>
+<br/>
+
+- Présentation chargé
+- Présentation du cours
+- Plan du cours
+- Présentations étudiant·e·s
+- Modalité d'évaluation
+- Questions
+
+# Qu'est-ce que c'est ?
+
+## Qu'est-ce que c'est ?
+<br/>
+<br/>
+
+L'éditorialisation n'est pas l'édition numérique, mais il s'agit d'une philosophie à l'époque du numérique
+
+## Qu'est-ce que c'est ?
+<br/>
+<br/>
+
+| | |
+|:----:|:--------:|
+| Édition | processus fermé |
+| Éditorialisation | continuum |
+
+## Qu'est-ce que c'est ?
+
+1. Définition restreinte
+
+> Selon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le Web (Vitali-Rosati 2014a). En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques.
+> [...]
+> Cette définition reste finalement très dualiste : d’une part l’humain, de l’autre la machine qui structure et détermine les actions humaines. D’une part le monde, de l’autre le savoir sur le monde.
+
+(§ 31, 38)
+
+## Qu'est-ce que c'est ?
+
+2. Définition générale
+
+> L’éditorialisation désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
+
+(§ 40)
+
+## Qu'est-ce que c'est ?
+
+3. Définition combinée
+
+> L’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…).
+
+(§ 50)
+
+# L'espace numérique
+
+## L'espace numérique
+
+Perception VS Réalité
+
+- (im)matériel
+- « cyberespace »
+- hybride
+- « cloud »
+- inscrit
+- liquide
+- exclusif / inclusif
+
+# Caractéristiques de l'éditorialisation
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+(1.) Processuelle
+
+Mouvement dynamique sans fin
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+(2.) Performative
+
+  - Pas de normativité
+
+  - Opérationnelle
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+(3.) Ontologique
+
+L'éditorialisation crée le réel
+
+Au-delà d'être et savoir
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+(4.) Multiple
+
+En lien avec l'ontologique
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+(5.) Collective
+
+  - Ouverte
+  
+  - Non limitée à l'humain
+
+## Caractéristiques de l'éditorialisation
+<br/>
+<br/>
+
+![](https://static.tacdn.com/img2/brand_refresh_2025/logos/wordmark.svg)
+
+
+## Références
+
+- Vitali-Rosati, Marcello, _On Editorialization: Structuring Space and Authority in the Digital Age_, Lieu de publication non identifié, Institute of Network Cultures, 2018.
+
+- Vitali Rosati, Marcello, « Qu’est-ce que l’éditorialisation? », _Sens public_, 2016, en ligne, <https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/>.
+
+- Vitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », _Humanités numériques_, nᵒ 1, Humanistica, janvier 2020, en ligne, <https://journals.openedition.org/revuehn/371>.
+
+- Vitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », _Corela_, vol. 33, 2020, en ligne, <https://dx.doi.org/10.4000/corela.11759>.
