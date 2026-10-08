@@ -28,11 +28,11 @@ title: "Séances"
 <iframe src="slides/editorialisation.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 <figcaption style="text-align: center;"><a href="slides/editorialisation.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-<!--## Formats (08/10)
+## Formats (08/10)
 
 <iframe src="slides/formats.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 <figcaption style="text-align: center;"><a href="slides/formats.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
-
+<!--
 ## Écriture collaborative et science ouverte (15/10)
 
 <iframe src="slides/intro.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>

@@ -1,0 +1,467 @@
+---
+title: "Formats"
+subtitle: "FRA3826 | EDN6001"
+date: "10-08-2026"
+date-format: "D MMMM YYYY"
+author: 
+  - name: Federico Siragusa
+    orcid: 0009-0002-8842-7043
+    email: federico.siragusa@univ-rouen.fr | federico.siragusa@umontreal.ca
+    affiliations:
+      - name: Université Rouen Normandie | Université de Montréal
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+            
+---
+
+## Plan de la séance
+
+- Définition
+- Typologies de format
+- Document ou documents
+- Le texte
+- Choisir le format
+- Structurer l'information
+- Des formats (txt, md, html, xml, tex)
+- What you see is...?
+
+# Définition
+
+## Définition
+<br/>
+<br/>
+
+'Format'?
+<br/>
+<br/>
+
+'fromage' de 'formage' (la moule) trace dans le mot 'fourme'
+
+## Définition
+<br/>
+<br/>
+
+Format:
+<br/>
+<br/>
+
+1. lat. _forma_ 
+<br/>
+<br/>
+
+2. lat. vulg. _fotmaticum_ (fromage) <- φόρμος (phormos) panier pour créer le fromage 
+
+## Définition
+<br/>
+
+Format: quelque chose qui met en forme d’une manière conventionnelle des données
+<br/>
+<br/>
+
+3. (Informatique) Agencement structuré d’un support de données.
+<br/>
+
+4. (Informatique) Disposition de ces données elles-mêmes.[^1]
+<br/>
+<br/>
+
+[^1]: « Format », dans Wiktionnaire, le dictionnaire libre, 2026, en ligne, <https://fr.wiktionary.org/w/index.php?title=format&oldid=39771571>, consulté le 10 août 2026; Bonomi, Francesco, « Formaggio », dans Vocabolario Etimologico della Lingua Italiana, 2004, en ligne, <https://www.etimo.it/?term=formaggio>, consulté le 10 août 2026.
+
+## Définition: exemple
+<br/>
+<br/>
+
+HTML (HyperText Markup Language) et introduction des 3 dimensions:
+<br/>
+<br/>
+
+- bien formé, pas de problèmes d‘emboitement
+
+- valide, bonne boite suivantes les principes d’inclusion
+
+- cohérente, contenu corresponde à la fonction
+
+# Typologies de format
+
+## Typologies de format: formats propriétaire
+
+formats propriétaires, spécification technique entité privé, en général objet de brevet, usage limité:
+
+- format opaque, spécifications pas diffusées, nombreux problèmes de compatibilité et de portabilité. (.doc Microsoft Word)
+
+- spécifications publiées mais associé à une utilisation liées au brevet, exploitable par d’autres applications mais risque de perte (.docx Microsoft Word ou PDF (Adobe))
+
+## Typologies de format: formats libres ou ouverts 
+<br/>
+<br/>
+<br/>
+
+spécifications publiques, sans restrictions d’accès ou mise en œuvre (HTML, spécification du consortium W3C)
+
+## Typologies de format
+
+| Formats libres	| Formats propriétaires|
+|:------:|:------:|
+| ouverts	| fermés (parfois ouverts)|
+| spécifications techniques publiques |	spécifications techniques contrôlées par une entité privée |
+| pas de restriction d’accès	| usage limité |
+| définis par les pratiques |	conditionnés par les pratiques |
+| exigences de recherche |	exigences commerciales |
+| .txt ; .odt ; .tex ; .html ; .svg ; .png ; .epub ; .zip |	.pdf ; .docx ; .pptx ; .xlsx ; .ai ; .jpeg ; .psd ; .mp3 |
+
+## Typologies de format
+<br/>
+<br/>
+
+Communauté pour la normalisation des bonnes pratiques et standards.
+<br/>
+<br/>
+
+- International Organization for Standardization (ISO)
+    
+- Organization for the Advancement of Structural Information Standards (OASIS)
+    
+- World Wide Web Consortium (W3C), centré sur le web.
+
+# Document ou documents
+
+## Document ou documents
+<br/>
+<br/>
+
+Les documents peuvent être autonomes ou dépendants et composites.
+<br/>
+<br/>
+
+| Document.s | Type |
+|:------:|:------:|
+| HTML | autonome |
+| HTML + CSS | dépendants |
+| XML | composite |
+
+# Le texte
+
+## Le texte
+
+La machine travaille sur une base binaire, tout est 0 et 1. 
+
+Pour le texte, suit de bits en octets, séquences de 8 bits. 
+
+1. ASCII (American Standard Code for Information Interchange) 128 caractères codés sur 7 bits
+    
+2. ISO 8859, monte à 256 caractères. Ex ISO 8859-I Latin I, pour les accents, mais ils manquent des caractères.
+    
+3. Unicode 100 181 caractères, comptant aussi les symboles monétaires, opérateurs mathématiques, braille, …
+    
+    - reconnu au format UTF, de 1 à 4 octets
+
+# Choisir le format
+
+## Choisir le format : considérations de base
+<br/>
+
+Souvent les choix sont faits à notre insu, mais il y a des considérations de base :
+<br/>
+
+- consommation ou modification du document
+    
+- public visé
+    
+- mode de transmission
+    
+- durée de vie du document
+
+## Choisir le format : contraintes techniques
+<br/>
+<br/>
+
+Le choix du format implique des contraintes techniques, économiques, politiques, usage d’une communauté :
+<br/>
+<br/>
+
+- interopérabilité, partage et préservation, garanti une perte d’information minimale
+<br/>
+
+- pérennité
+
+# Structurer l'information
+
+## Structurer l'information
+<br/>
+<br/>
+
+Les documents se composent de :
+<br/>
+<br/>
+
+- métadonnées (titre, date, auteur…,)
+<br/>
+
+- corps du document (texte)
+<br/>
+
+- contenu additionnel (annexes, bibliographie…,)
+
+## Structurer l'information : exemple métadonnée mémoire
+
+Auteur : Federico Siragusa
+
+Titre : _La Divine Comédie d’Amélie Nothomb_
+
+Sous-titre: _Une réécriture audio du poème dantesque_
+
+Discipline : Digital French Literature
+
+Université : Università di Torino
+
+Directeur : Benoît Monginot
+
+Codirecteur: Filippo Fonio
+
+Année académique : 2023/2024
+
+## Structurer l'information : exemple texte mémoire
+
+Introduction
+
+1. Les bases d'une mythologie
+
+2. _La Divine Comédie d'Amélie Nothomb: un voyage mythologique des Enfers au Paradis_
+
+3. Vers l'édition multimédia
+
+Conclusion
+
+## Structurer l'information : exemple contenu additionnel mémoire
+
+Annexe 1
+
+Annexe 2A
+
+Annexe 2B
+
+Bibliographie
+
+Sitographie
+
+# Des formats (txt, md, html, xml, tex)
+
+## Des formats txt
+<br/>
+<br/>
+<br/>
+<br/>
+
+Le format txt est celui du texte brut ou _plain text_, ne présentant pas de mise en forme, mais seulement les caractères alphanumériques. 
+
+## Des formats md
+<br/>
+<br/>
+
+Markdown[^2] est un langage de balisage léger, contraste avec les langages de balisage _markup_.
+<br/>
+<br/>
+
+La syntaxe est très simple usage de # pour les titres, _ ou de * pour l'italique et le gras avec réduplication des mêmes. 
+<br/>
+<br/>
+
+[^2]: John Gruber et Aaron Swartz, 2004.
+
+
+## Des formats md
+
+```md
+
+## Plan de la séance
+
+- Définition
+- Typologies de format
+- Document ou documents
+- Le texte
+- Choisir le format
+- Structurer l'information
+- Des formats (txt, md, html, xml, tex)
+- What you see is...?
+
+[...]
+
+## Typologies de format
+
+| Formats libres	| Formats propriétaires|
+|:------:|:------:|
+| ouverts	| fermés (parfois ouverts)|
+| spécifications techniques publiques |	spécifications techniques contrôlées par une entité privée |
+| pas de restriction d’accès	| usage limité |
+| définis par les pratiques |	conditionnés par les pratiques |
+| exigences de recherche |	exigences commerciales |
+| .txt ; .odt ; .tex ; .html ; .svg ; .png ; .epub ; .zip |	.pdf ; .docx ; .pptx ; .xlsx ; .ai ; .jpeg ; .psd ; .mp3 |
+
+[...]
+
+# Le texte
+
+## Le texte
+
+La machine travaille sur une base binaire, tout est 0 et 1. 
+
+Pour le texte, suit de bits en octets, séquences de 8 bits. 
+
+1. ASCII (American Standard Code for Information Interchange) 128 caractères codés sur 7 bits
+    
+2. ISO 8859, monte à 256 caractères. Ex ISO 8859-I Latin I, pour les accents, mais ils manquent des caractères.
+    
+3. Unicode 100 181 caractères, comptant aussi les symboles monétaires, opérateurs mathématiques, braille, …
+    
+    - reconnu au format UTF, de 1 à 4 octets
+
+```
+
+## Des formats html
+
+HTML (HyperTextual Markup Language) langage de balisage (moyen) de type _markup_. 
+
+Les informations textuelles qu'on peut encoder sont :
+
+- titres (`<h1>`, `<h2>`, etc.)
+- des divisions (`<div>`, `<p>`, `<span>`)
+- listes (`<ol>` liste ordonnée, `<ul>` liste pas en ordre, `<li>` éléments de la liste)
+- tables, images, vidéos, musique, ... 
+
+## Des formats html
+
+```html
+<div>
+  <h1>LE PÈRE GORIOT.<h1>
+  <p>Madame Vauquer, née de Coflans, est une vieille femme qui, depuis 
+    quarante ans, tient à Paris une pension bourgeoise établie 
+    rue Neuve-Sainte-Geneviève, entre le quartier latin et 
+    le faubourg Saint-Marceau. Cette pension, connue sous 
+    le nom de la Maison Vauquer, admet également des hommes et des femmes, 
+    des jeunes gens et des vieillards, sans que jamais la médisance 
+    ait attaqué les mœurs de ce respectable établissement. 
+    Mais aussi depuis trente ans ne s’y était-il jamais vu 
+    de jeune personne, et pour qu’un jeune homme y demeure, 
+    sa famille doit-elle lui faire une bien maigre pension. 
+    Néanmoins, en 1819, époque à laquelle ce drame commence, 
+    il s’y trouvait une pauvre jeune fille. En quelque discrédit 
+    que soit tombé le mot drame par la manière abusive et tortionnaire 
+    dont il a été prodigué dans ces temps de douloureuse littérature, 
+    il est nécessaire de l’employer ici : non que cette histoire 
+    soit dramatique dans le sens vrai du mot ; mais, l’œuvre accomplie, 
+    peut-être aura-t-on versé quelques larmes intra muros et extra. 
+    Sera-t-elle comprise au delà de Paris ? le doute est permis.</p>
+  <p>...</p>
+</div>
+```
+
+## Des formats xml
+
+XML (eXtensible Markup Language)
+
+HTML (HyperTextual Markup Language) langage de balisage (lourd) de type _markup_. 
+
+Les informations textuelles qu'on peut encoder sont plus détailléss:
+
+- plus de divisions, `<div>` peut correspondre à un livre, un chapitre, ..., `<p>` pour les paragraphes, `<s>` pour des unités analogues à la phrase, `<phr>` la phrase grammaticale, `<cl>` pour la proposition grammaticale `<w>` pour le mot, `<m>` pour le morphème, `<c>` pour le caractère. 
+
+- plus de catégories textuelles, comme les poèmes: `<lg>` pour la strophe ou pour le poème, `<l>` pour le vers. 
+
+- et beaucoup plus
+
+## Des formats xml
+
+```xml
+<div>
+  <title>LE PÈRE GORIOT.<title>
+  <p><persName>Madame Vauquer</persName>, née de <persName>Coflans</persName>, 
+  est une vieille femme qui, depuis quarante ans, tient à 
+  <placeName><settlement>Paris</settlement></placeName> une pension 
+  bourgeoise établie <placeName><location>rue Neuve-Sainte-Geneviève</location></placeName>, 
+  entre le <placeName><district>quartier latin</district></placeName> 
+  et le <placeName><district>faubourg Saint-Marceau</district></placeName>. 
+  Cette pension, connue sous le nom de la Maison Vauquer, admet également 
+  des hommes et des femmes, des jeunes gens et des vieillards, 
+  sans que jamais la médisance ait attaqué les mœurs de ce respectable 
+  établissement. Mais aussi depuis trente ans ne s’y était-il 
+  jamais vu de jeune personne, et pour qu’un jeune homme y demeure, 
+  sa famille doit-elle lui faire une bien maigre pension. Néanmoins, 
+  en <date when="1819">1819</date>, époque à laquelle ce drame commence, 
+  il s’y trouvait une pauvre jeune fille. En quelque discrédit que soit tombé 
+  le mot drame par la manière abusive et tortionnaire dont 
+  il a été prodigué dans ces temps de douloureuse littérature, 
+  il est nécessaire de l’employer ici : non que cette histoire soit dramatique 
+  dans le sens vrai du mot ; mais, l’œuvre accomplie, peut-être aura-t-on versé 
+  quelques larmes <foreign lang="lat">intra muros</foreign> et 
+  <foreign lang="lat">extra</foreign>. Sera-t-elle comprise au delà de 
+  <placeName><settlement>Paris</settlement></placeName> ? le doute est permis.</p>
+  <p>...</p>
+</div>
+```
+
+## Des formats tex
+
+tex[^3] est un format pour la composition typographique TeX. LaTeX[^4] utilise des macrocommandes pour le processeur le texte.
+
+On a des commandes définit environnement et commande :
+
+1. balise ouvrante et une balise fermante, par ex. `\begin{section}` `\end{section}` pour créer des sections dans le texte
+2. une seule balise `\LARGE{mon_texte}`, modifie la taille de 'mon_texte', `\emph{mon_texte}` est utilisé pour l'italique, `\pagebreak` insert un saut de page. 
+
+[^3]: Donald Knuth, 1978
+[^4]: Leslie Lamport, 1983
+
+## Des formats tex
+
+```tex
+\title{LE PÈRE GORIOT.}
+  \begin{paragraph}
+  Madame Vauquer, née de Coflans, est une vieille femme qui, depuis 
+  quarante ans, tient à Paris une pension bourgeoise établie 
+  rue Neuve-Sainte-Geneviève, entre le quartier latin et le faubourg 
+  Saint-Marceau. Cette pension, connue sous le nom de la Maison Vauquer, 
+  admet également des hommes et des femmes, des jeunes gens et 
+  des vieillards, sans que jamais la médisance ait attaqué les mœurs 
+  de ce respectable établissement. Mais aussi depuis trente ans ne 
+  s’y était-il jamais vu de jeune personne, et pour qu’un jeune homme 
+  y demeure, sa famille doit-elle lui faire une bien maigre pension. 
+  Néanmoins, en 1819, époque à laquelle ce drame commence, il s’y trouvait 
+  une pauvre jeune fille. En quelque discrédit que soit tombé le mot drame 
+  par la manière abusive et tortionnaire dont il a été prodigué 
+  dans ces temps de douloureuse littérature, il est nécessaire 
+  de l’employer ici : non que cette histoire soit dramatique 
+  dans le sens vrai du mot ; mais, l’œuvre accomplie, peut-être aura-t-on 
+  versé quelques larmes intra muros et extra. Sera-t-elle comprise 
+  au delà de Paris ? le doute est permis.
+  \end{paragraphe}
+  \begin{paragraph}
+  ...
+  \end{paragraphe}
+</div>
+```
+
+# What you see is...?
+
+## What you see is...?
+
+Deux principes:
+
+- WYSIWYM (_What You See Is What You Mean_): texte et informations de mise en forme (italique, gras, taille de caractères, police, ...)
+- WYSIWYG (_What You See Is What You Get_): texte formaté
+
+WYSIWYM permet une structuration logique et le formatage peut être effectué dans un deuxième temps par un parseur, ou être géré par des fichiers externes (ex. CSS pour les HTML)
+
+## Références
+
+- Bonomi, Francesco, « Formaggio », dans Vocabolario Etimologico della Lingua Italiana, 2004, en ligne, <https://www.etimo.it/?term=formaggio>, consulté le 10 août 2026.
+
+- Boulétreau, Viviane et Benoît Habert, « Les formats », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, _Pratiques de l’édition numérique_, Montréal, Presses de l’Université de Montréal, 2014, p. 145‑159.
+
+- « Format », dans Wiktionnaire, le dictionnaire libre, 2026, en ligne, <https://fr.wiktionary.org/w/index.php?title=format&oldid=39771571>, consulté le 10 août 2026.

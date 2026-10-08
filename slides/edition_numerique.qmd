@@ -112,7 +112,7 @@ Amazon (1994-):
 
 - Earhart, Amy E., « The Digital Edition and the Digital Humanities », _Textual Cultures: Text, Contexts, Interpretation_, vol. 7, nᵒ 1, 2012, p. 18‑28, en ligne, <doi: 10.2979/textcult.7.1.18>.
 
-
+<!--
 https://muse.jhu.edu/pub/3/article/494166
 
-https://muse.jhu.edu/pub/3/article/494164
+https://muse.jhu.edu/pub/3/article/494164-->

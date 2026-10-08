@@ -287,102 +287,368 @@
     "text": "Références\n\nMille, Alain, « D’Internet au web », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 31‑48.\nVitali-Rosati, Marcello et Michael Eberle-Sinatra, « Histoire des humanités numériques », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 49‑60.\nVitali Rosati, Marcello, « Pour une définition du « numérique » », dans Vitali-Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 63‑75.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2004.\nSiemens, Raymond George et Susan Schreibman, A Companion to Digital Literary Studies, Malden, MA, Blackwell Pub., 2007.\nSiemens, Raymond George, Susan Schreibman et John Unsworth, A New Companion to Digital Humanities, Malden, MA, Blackwell Pub., 2015."
   },
   {
-    "objectID": "slides/editorialisation.html#plan-de-la-séance",
-    "href": "slides/editorialisation.html#plan-de-la-séance",
-    "title": "Théorie de l’éditorialisation",
+    "objectID": "slides/formats.html#plan-de-la-séance",
+    "href": "slides/formats.html#plan-de-la-séance",
+    "title": "Formats",
     "section": "Plan de la séance",
-    "text": "Plan de la séance\n \n\nQu’est-ce que c’est ?\nL’espace numérique\nCaractéristiques de l’éditorialisation"
+    "text": "Plan de la séance\n\nDéfinition\nTypologies de format\nDocument ou documents\nLe texte\nChoisir le format\nStructurer l’information\nDes formats (txt, md, html, xml, tex)\nWhat you see is…?"
   },
   {
-    "objectID": "slides/editorialisation.html#quest-ce-que-cest-1",
-    "href": "slides/editorialisation.html#quest-ce-que-cest-1",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Qu’est-ce que c’est ?",
-    "text": "Qu’est-ce que c’est ?\n \nL’éditorialisation n’est pas l’édition numérique, mais il s’agit d’une philosophie à l’époque du numérique"
+    "objectID": "slides/formats.html#définition-1",
+    "href": "slides/formats.html#définition-1",
+    "title": "Formats",
+    "section": "Définition",
+    "text": "Définition\n \n‘Format’?  \n‘fromage’ de ‘formage’ (la moule) trace dans le mot ‘fourme’"
   },
   {
-    "objectID": "slides/editorialisation.html#quest-ce-que-cest-2",
-    "href": "slides/editorialisation.html#quest-ce-que-cest-2",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Qu’est-ce que c’est ?",
-    "text": "Qu’est-ce que c’est ?\n \n\n\n\nÉdition\nprocessus fermé\n\n\nÉditorialisation\ncontinuum"
+    "objectID": "slides/formats.html#définition-2",
+    "href": "slides/formats.html#définition-2",
+    "title": "Formats",
+    "section": "Définition",
+    "text": "Définition\n \nFormat:  \n\nlat. forma  \nlat. vulg. fotmaticum (fromage) &lt;- φόρμος (phormos) panier pour créer le fromage"
   },
   {
-    "objectID": "slides/editorialisation.html#quest-ce-que-cest-3",
-    "href": "slides/editorialisation.html#quest-ce-que-cest-3",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Qu’est-ce que c’est ?",
-    "text": "Qu’est-ce que c’est ?\n\nDéfinition restreinte\n\n\nSelon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le Web (Vitali-Rosati 2014a). En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques. […] Cette définition reste finalement très dualiste : d’une part l’humain, de l’autre la machine qui structure et détermine les actions humaines. D’une part le monde, de l’autre le savoir sur le monde.\n\n(§ 31, 38)"
+    "objectID": "slides/formats.html#définition-3",
+    "href": "slides/formats.html#définition-3",
+    "title": "Formats",
+    "section": "Définition",
+    "text": "Définition\n\nFormat: quelque chose qui met en forme d’une manière conventionnelle des données  \n\n(Informatique) Agencement structuré d’un support de données. \n(Informatique) Disposition de ces données elles-mêmes.1  \n\n« Format », dans Wiktionnaire, le dictionnaire libre, 2026, en ligne, https://fr.wiktionary.org/w/index.php?title=format&oldid=39771571, consulté le 10 août 2026; Bonomi, Francesco, « Formaggio », dans Vocabolario Etimologico della Lingua Italiana, 2004, en ligne, https://www.etimo.it/?term=formaggio, consulté le 10 août 2026."
   },
   {
-    "objectID": "slides/editorialisation.html#quest-ce-que-cest-4",
-    "href": "slides/editorialisation.html#quest-ce-que-cest-4",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Qu’est-ce que c’est ?",
-    "text": "Qu’est-ce que c’est ?\n\nDéfinition générale\n\n\nL’éditorialisation désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.\n\n(§ 40)"
+    "objectID": "slides/formats.html#définition-exemple",
+    "href": "slides/formats.html#définition-exemple",
+    "title": "Formats",
+    "section": "Définition: exemple",
+    "text": "Définition: exemple\n \nHTML (HyperText Markup Language) et introduction des 3 dimensions:  \n\nbien formé, pas de problèmes d‘emboitement\nvalide, bonne boite suivantes les principes d’inclusion\ncohérente, contenu corresponde à la fonction"
   },
   {
-    "objectID": "slides/editorialisation.html#quest-ce-que-cest-5",
-    "href": "slides/editorialisation.html#quest-ce-que-cest-5",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Qu’est-ce que c’est ?",
-    "text": "Qu’est-ce que c’est ?\n\nDéfinition combinée\n\n\nL’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…).\n\n(§ 50)"
+    "objectID": "slides/formats.html#typologies-de-format-formats-propriétaire",
+    "href": "slides/formats.html#typologies-de-format-formats-propriétaire",
+    "title": "Formats",
+    "section": "Typologies de format: formats propriétaire",
+    "text": "Typologies de format: formats propriétaire\nformats propriétaires, spécification technique entité privé, en général objet de brevet, usage limité:\n\nformat opaque, spécifications pas diffusées, nombreux problèmes de compatibilité et de portabilité. (.doc Microsoft Word)\nspécifications publiées mais associé à une utilisation liées au brevet, exploitable par d’autres applications mais risque de perte (.docx Microsoft Word ou PDF (Adobe))"
   },
   {
-    "objectID": "slides/editorialisation.html#lespace-numérique-1",
-    "href": "slides/editorialisation.html#lespace-numérique-1",
-    "title": "Théorie de l’éditorialisation",
-    "section": "L’espace numérique",
-    "text": "L’espace numérique\nPerception VS Réalité\n\n(im)matériel\n« cyberespace »\nhybride\n« cloud »\ninscrit\nliquide\nexclusif / inclusif"
+    "objectID": "slides/formats.html#typologies-de-format-formats-libres-ou-ouverts",
+    "href": "slides/formats.html#typologies-de-format-formats-libres-ou-ouverts",
+    "title": "Formats",
+    "section": "Typologies de format: formats libres ou ouverts",
+    "text": "Typologies de format: formats libres ou ouverts\n  \nspécifications publiques, sans restrictions d’accès ou mise en œuvre (HTML, spécification du consortium W3C)"
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation\n \n(1.) Processuelle\nMouvement dynamique sans fin"
+    "objectID": "slides/formats.html#typologies-de-format-1",
+    "href": "slides/formats.html#typologies-de-format-1",
+    "title": "Formats",
+    "section": "Typologies de format",
+    "text": "Typologies de format\n\n\n\n\n\n\n\nFormats libres\nFormats propriétaires\n\n\n\n\nouverts\nfermés (parfois ouverts)\n\n\nspécifications techniques publiques\nspécifications techniques contrôlées par une entité privée\n\n\npas de restriction d’accès\nusage limité\n\n\ndéfinis par les pratiques\nconditionnés par les pratiques\n\n\nexigences de recherche\nexigences commerciales\n\n\n.txt ; .odt ; .tex ; .html ; .svg ; .png ; .epub ; .zip\n.pdf ; .docx ; .pptx ; .xlsx ; .ai ; .jpeg ; .psd ; .mp3"
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation\n \n(2.) Performative\n\nPas de normativité\nOpérationnelle"
+    "objectID": "slides/formats.html#typologies-de-format-2",
+    "href": "slides/formats.html#typologies-de-format-2",
+    "title": "Formats",
+    "section": "Typologies de format",
+    "text": "Typologies de format\n \nCommunauté pour la normalisation des bonnes pratiques et standards.  \n\nInternational Organization for Standardization (ISO)\nOrganization for the Advancement of Structural Information Standards (OASIS)\nWorld Wide Web Consortium (W3C), centré sur le web."
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation\n \n(3.) Ontologique\nL’éditorialisation crée le réel\nAu-delà d’être et savoir"
+    "objectID": "slides/formats.html#document-ou-documents-1",
+    "href": "slides/formats.html#document-ou-documents-1",
+    "title": "Formats",
+    "section": "Document ou documents",
+    "text": "Document ou documents\n \nLes documents peuvent être autonomes ou dépendants et composites.  \n\n\n\nDocument.s\nType\n\n\n\n\nHTML\nautonome\n\n\nHTML + CSS\ndépendants\n\n\nXML\ncomposite"
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation\n \n(4.) Multiple\nEn lien avec l’ontologique"
+    "objectID": "slides/formats.html#le-texte-1",
+    "href": "slides/formats.html#le-texte-1",
+    "title": "Formats",
+    "section": "Le texte",
+    "text": "Le texte\nLa machine travaille sur une base binaire, tout est 0 et 1.\nPour le texte, suit de bits en octets, séquences de 8 bits.\n\nASCII (American Standard Code for Information Interchange) 128 caractères codés sur 7 bits\nISO 8859, monte à 256 caractères. Ex ISO 8859-I Latin I, pour les accents, mais ils manquent des caractères.\nUnicode 100 181 caractères, comptant aussi les symboles monétaires, opérateurs mathématiques, braille, …\n\nreconnu au format UTF, de 1 à 4 octets"
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation\n \n(5.) Collective\n\nOuverte\nNon limitée à l’humain"
+    "objectID": "slides/formats.html#choisir-le-format-considérations-de-base",
+    "href": "slides/formats.html#choisir-le-format-considérations-de-base",
+    "title": "Formats",
+    "section": "Choisir le format : considérations de base",
+    "text": "Choisir le format : considérations de base\n\nSouvent les choix sont faits à notre insu, mais il y a des considérations de base : \n\nconsommation ou modification du document\npublic visé\nmode de transmission\ndurée de vie du document"
   },
   {
-    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
-    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
-    "title": "Théorie de l’éditorialisation",
-    "section": "Caractéristiques de l’éditorialisation",
-    "text": "Caractéristiques de l’éditorialisation"
+    "objectID": "slides/formats.html#choisir-le-format-contraintes-techniques",
+    "href": "slides/formats.html#choisir-le-format-contraintes-techniques",
+    "title": "Formats",
+    "section": "Choisir le format : contraintes techniques",
+    "text": "Choisir le format : contraintes techniques\n \nLe choix du format implique des contraintes techniques, économiques, politiques, usage d’une communauté :  \n\ninteropérabilité, partage et préservation, garanti une perte d’information minimale \npérennité"
   },
   {
-    "objectID": "slides/editorialisation.html#références",
-    "href": "slides/editorialisation.html#références",
-    "title": "Théorie de l’éditorialisation",
+    "objectID": "slides/formats.html#structurer-linformation-1",
+    "href": "slides/formats.html#structurer-linformation-1",
+    "title": "Formats",
+    "section": "Structurer l’information",
+    "text": "Structurer l’information\n \nLes documents se composent de :  \n\nmétadonnées (titre, date, auteur…,) \ncorps du document (texte) \ncontenu additionnel (annexes, bibliographie…,)"
+  },
+  {
+    "objectID": "slides/formats.html#structurer-linformation-exemple-métadonnée-mémoire",
+    "href": "slides/formats.html#structurer-linformation-exemple-métadonnée-mémoire",
+    "title": "Formats",
+    "section": "Structurer l’information : exemple métadonnée mémoire",
+    "text": "Structurer l’information : exemple métadonnée mémoire\nAuteur : Federico Siragusa\nTitre : La Divine Comédie d’Amélie Nothomb\nSous-titre: Une réécriture audio du poème dantesque\nDiscipline : Digital French Literature\nUniversité : Università di Torino\nDirecteur : Benoît Monginot\nCodirecteur: Filippo Fonio\nAnnée académique : 2023/2024"
+  },
+  {
+    "objectID": "slides/formats.html#structurer-linformation-exemple-texte-mémoire",
+    "href": "slides/formats.html#structurer-linformation-exemple-texte-mémoire",
+    "title": "Formats",
+    "section": "Structurer l’information : exemple texte mémoire",
+    "text": "Structurer l’information : exemple texte mémoire\nIntroduction\n\nLes bases d’une mythologie\nLa Divine Comédie d’Amélie Nothomb: un voyage mythologique des Enfers au Paradis\nVers l’édition multimédia\n\nConclusion"
+  },
+  {
+    "objectID": "slides/formats.html#structurer-linformation-exemple-contenu-additionnel-mémoire",
+    "href": "slides/formats.html#structurer-linformation-exemple-contenu-additionnel-mémoire",
+    "title": "Formats",
+    "section": "Structurer l’information : exemple contenu additionnel mémoire",
+    "text": "Structurer l’information : exemple contenu additionnel mémoire\nAnnexe 1\nAnnexe 2A\nAnnexe 2B\nBibliographie\nSitographie"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-txt",
+    "href": "slides/formats.html#des-formats-txt",
+    "title": "Formats",
+    "section": "Des formats txt",
+    "text": "Des formats txt\n   \nLe format txt est celui du texte brut ou plain text, ne présentant pas de mise en forme, mais seulement les caractères alphanumériques."
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-md",
+    "href": "slides/formats.html#des-formats-md",
+    "title": "Formats",
+    "section": "Des formats md",
+    "text": "Des formats md\n \nMarkdown1 est un langage de balisage léger, contraste avec les langages de balisage markup.  \nLa syntaxe est très simple usage de # pour les titres, _ ou de * pour l’italique et le gras avec réduplication des mêmes.  \nJohn Gruber et Aaron Swartz, 2004."
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-md-1",
+    "href": "slides/formats.html#des-formats-md-1",
+    "title": "Formats",
+    "section": "Des formats md",
+    "text": "Des formats md\n\n## Plan de la séance\n\n- Définition\n- Typologies de format\n- Document ou documents\n- Le texte\n- Choisir le format\n- Structurer l'information\n- Des formats (txt, md, html, xml, tex)\n- What you see is...?\n\n[...]\n\n## Typologies de format\n\n| Formats libres    | Formats propriétaires|\n|:------:|:------:|\n| ouverts   | fermés (parfois ouverts)|\n| spécifications techniques publiques | spécifications techniques contrôlées par une entité privée |\n| pas de restriction d’accès    | usage limité |\n| définis par les pratiques |   conditionnés par les pratiques |\n| exigences de recherche |  exigences commerciales |\n| .txt ; .odt ; .tex ; .html ; .svg ; .png ; .epub ; .zip | .pdf ; .docx ; .pptx ; .xlsx ; .ai ; .jpeg ; .psd ; .mp3 |\n\n[...]\n\n# Le texte\n\n## Le texte\n\nLa machine travaille sur une base binaire, tout est 0 et 1. \n\nPour le texte, suit de bits en octets, séquences de 8 bits. \n\n1. ASCII (American Standard Code for Information Interchange) 128 caractères codés sur 7 bits\n    \n2. ISO 8859, monte à 256 caractères. Ex ISO 8859-I Latin I, pour les accents, mais ils manquent des caractères.\n    \n3. Unicode 100 181 caractères, comptant aussi les symboles monétaires, opérateurs mathématiques, braille, …\n    \n    - reconnu au format UTF, de 1 à 4 octets"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-html",
+    "href": "slides/formats.html#des-formats-html",
+    "title": "Formats",
+    "section": "Des formats html",
+    "text": "Des formats html\nHTML (HyperTextual Markup Language) langage de balisage (moyen) de type markup.\nLes informations textuelles qu’on peut encoder sont :\n\ntitres (&lt;h1&gt;, &lt;h2&gt;, etc.)\ndes divisions (&lt;div&gt;, &lt;p&gt;, &lt;span&gt;)\nlistes (&lt;ol&gt; liste ordonnée, &lt;ul&gt; liste pas en ordre, &lt;li&gt; éléments de la liste)\ntables, images, vidéos, musique, …"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-html-1",
+    "href": "slides/formats.html#des-formats-html-1",
+    "title": "Formats",
+    "section": "Des formats html",
+    "text": "Des formats html\n&lt;div&gt;\n  &lt;h1&gt;LE PÈRE GORIOT.&lt;h1&gt;\n  &lt;p&gt;Madame Vauquer, née de Coflans, est une vieille femme qui, depuis \n    quarante ans, tient à Paris une pension bourgeoise établie \n    rue Neuve-Sainte-Geneviève, entre le quartier latin et \n    le faubourg Saint-Marceau. Cette pension, connue sous \n    le nom de la Maison Vauquer, admet également des hommes et des femmes, \n    des jeunes gens et des vieillards, sans que jamais la médisance \n    ait attaqué les mœurs de ce respectable établissement. \n    Mais aussi depuis trente ans ne s’y était-il jamais vu \n    de jeune personne, et pour qu’un jeune homme y demeure, \n    sa famille doit-elle lui faire une bien maigre pension. \n    Néanmoins, en 1819, époque à laquelle ce drame commence, \n    il s’y trouvait une pauvre jeune fille. En quelque discrédit \n    que soit tombé le mot drame par la manière abusive et tortionnaire \n    dont il a été prodigué dans ces temps de douloureuse littérature, \n    il est nécessaire de l’employer ici : non que cette histoire \n    soit dramatique dans le sens vrai du mot ; mais, l’œuvre accomplie, \n    peut-être aura-t-on versé quelques larmes intra muros et extra. \n    Sera-t-elle comprise au delà de Paris ? le doute est permis.&lt;/p&gt;\n  &lt;p&gt;...&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-xml",
+    "href": "slides/formats.html#des-formats-xml",
+    "title": "Formats",
+    "section": "Des formats xml",
+    "text": "Des formats xml\nXML (eXtensible Markup Language)\nHTML (HyperTextual Markup Language) langage de balisage (lourd) de type markup.\nLes informations textuelles qu’on peut encoder sont plus détailléss:\n\nplus de divisions, &lt;div&gt; peut correspondre à un livre, un chapitre, …, &lt;p&gt; pour les paragraphes, &lt;s&gt; pour des unités analogues à la phrase, &lt;phr&gt; la phrase grammaticale, &lt;cl&gt; pour la proposition grammaticale &lt;w&gt; pour le mot, &lt;m&gt; pour le morphème, &lt;c&gt; pour le caractère.\nplus de catégories textuelles, comme les poèmes: &lt;lg&gt; pour la strophe ou pour le poème, &lt;l&gt; pour le vers.\net beaucoup plus"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-xml-1",
+    "href": "slides/formats.html#des-formats-xml-1",
+    "title": "Formats",
+    "section": "Des formats xml",
+    "text": "Des formats xml\n&lt;div&gt;\n  &lt;title&gt;LE PÈRE GORIOT.&lt;title&gt;\n  &lt;p&gt;&lt;persName&gt;Madame Vauquer&lt;/persName&gt;, née de &lt;persName&gt;Coflans&lt;/persName&gt;, \n  est une vieille femme qui, depuis quarante ans, tient à \n  &lt;placeName&gt;&lt;settlement&gt;Paris&lt;/settlement&gt;&lt;/placeName&gt; une pension \n  bourgeoise établie &lt;placeName&gt;&lt;location&gt;rue Neuve-Sainte-Geneviève&lt;/location&gt;&lt;/placeName&gt;, \n  entre le &lt;placeName&gt;&lt;district&gt;quartier latin&lt;/district&gt;&lt;/placeName&gt; \n  et le &lt;placeName&gt;&lt;district&gt;faubourg Saint-Marceau&lt;/district&gt;&lt;/placeName&gt;. \n  Cette pension, connue sous le nom de la Maison Vauquer, admet également \n  des hommes et des femmes, des jeunes gens et des vieillards, \n  sans que jamais la médisance ait attaqué les mœurs de ce respectable \n  établissement. Mais aussi depuis trente ans ne s’y était-il \n  jamais vu de jeune personne, et pour qu’un jeune homme y demeure, \n  sa famille doit-elle lui faire une bien maigre pension. Néanmoins, \n  en &lt;date when=\"1819\"&gt;1819&lt;/date&gt;, époque à laquelle ce drame commence, \n  il s’y trouvait une pauvre jeune fille. En quelque discrédit que soit tombé \n  le mot drame par la manière abusive et tortionnaire dont \n  il a été prodigué dans ces temps de douloureuse littérature, \n  il est nécessaire de l’employer ici : non que cette histoire soit dramatique \n  dans le sens vrai du mot ; mais, l’œuvre accomplie, peut-être aura-t-on versé \n  quelques larmes &lt;foreign lang=\"lat\"&gt;intra muros&lt;/foreign&gt; et \n  &lt;foreign lang=\"lat\"&gt;extra&lt;/foreign&gt;. Sera-t-elle comprise au delà de \n  &lt;placeName&gt;&lt;settlement&gt;Paris&lt;/settlement&gt;&lt;/placeName&gt; ? le doute est permis.&lt;/p&gt;\n  &lt;p&gt;...&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-tex",
+    "href": "slides/formats.html#des-formats-tex",
+    "title": "Formats",
+    "section": "Des formats tex",
+    "text": "Des formats tex\ntex1 est un format pour la composition typographique TeX. LaTeX2 utilise des macrocommandes pour le processeur le texte.\nOn a des commandes définit environnement et commande :\n\nbalise ouvrante et une balise fermante, par ex. \\begin{section} \\end{section} pour créer des sections dans le texte\nune seule balise \\LARGE{mon_texte}, modifie la taille de ‘mon_texte’, \\emph{mon_texte} est utilisé pour l’italique, \\pagebreak insert un saut de page.\n\nDonald Knuth, 1978Leslie Lamport, 1983"
+  },
+  {
+    "objectID": "slides/formats.html#des-formats-tex-1",
+    "href": "slides/formats.html#des-formats-tex-1",
+    "title": "Formats",
+    "section": "Des formats tex",
+    "text": "Des formats tex\n\\title{LE PÈRE GORIOT.}\n  \\begin{paragraph}\n  Madame Vauquer, née de Coflans, est une vieille femme qui, depuis \n  quarante ans, tient à Paris une pension bourgeoise établie \n  rue Neuve-Sainte-Geneviève, entre le quartier latin et le faubourg \n  Saint-Marceau. Cette pension, connue sous le nom de la Maison Vauquer, \n  admet également des hommes et des femmes, des jeunes gens et \n  des vieillards, sans que jamais la médisance ait attaqué les mœurs \n  de ce respectable établissement. Mais aussi depuis trente ans ne \n  s’y était-il jamais vu de jeune personne, et pour qu’un jeune homme \n  y demeure, sa famille doit-elle lui faire une bien maigre pension. \n  Néanmoins, en 1819, époque à laquelle ce drame commence, il s’y trouvait \n  une pauvre jeune fille. En quelque discrédit que soit tombé le mot drame \n  par la manière abusive et tortionnaire dont il a été prodigué \n  dans ces temps de douloureuse littérature, il est nécessaire \n  de l’employer ici : non que cette histoire soit dramatique \n  dans le sens vrai du mot ; mais, l’œuvre accomplie, peut-être aura-t-on \n  versé quelques larmes intra muros et extra. Sera-t-elle comprise \n  au delà de Paris ? le doute est permis.\n  \\end{paragraphe}\n  \\begin{paragraph}\n  ...\n  \\end{paragraphe}\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "slides/formats.html#what-you-see-is-1",
+    "href": "slides/formats.html#what-you-see-is-1",
+    "title": "Formats",
+    "section": "What you see is…?",
+    "text": "What you see is…?\nDeux principes:\n\nWYSIWYM (What You See Is What You Mean): texte et informations de mise en forme (italique, gras, taille de caractères, police, …)\nWYSIWYG (What You See Is What You Get): texte formaté\n\nWYSIWYM permet une structuration logique et le formatage peut être effectué dans un deuxième temps par un parseur, ou être géré par des fichiers externes (ex. CSS pour les HTML)"
+  },
+  {
+    "objectID": "slides/formats.html#références",
+    "href": "slides/formats.html#références",
+    "title": "Formats",
     "section": "Références",
-    "text": "Références\n\nVitali-Rosati, Marcello, On Editorialization: Structuring Space and Authority in the Digital Age, Lieu de publication non identifié, Institute of Network Cultures, 2018.\nVitali Rosati, Marcello, « Qu’est-ce que l’éditorialisation? », Sens public, 2016, en ligne, https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/.\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. 33, 2020, en ligne, https://dx.doi.org/10.4000/corela.11759."
+    "text": "Références\n\nBonomi, Francesco, « Formaggio », dans Vocabolario Etimologico della Lingua Italiana, 2004, en ligne, https://www.etimo.it/?term=formaggio, consulté le 10 août 2026.\nBoulétreau, Viviane et Benoît Habert, « Les formats », dans Vitali Rosati, Marcello et Michaël Eberle Sinatra, Pratiques de l’édition numérique, Montréal, Presses de l’Université de Montréal, 2014, p. 145‑159.\n« Format », dans Wiktionnaire, le dictionnaire libre, 2026, en ligne, https://fr.wiktionary.org/w/index.php?title=format&oldid=39771571, consulté le 10 août 2026."
+  },
+  {
+    "objectID": "slides/edition_numerique.html#plan-de-la-séance",
+    "href": "slides/edition_numerique.html#plan-de-la-séance",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n \n\nTroisième révolution?\nVers le numérique\nLes GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution",
+    "href": "slides/edition_numerique.html#troisième-révolution",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n« troisième révolution des médias » (« the third revolution in communication »)\n\nannées 1970 et 1980\ninnovations techniques\n\nrapidité et échelle globale"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-1",
+    "href": "slides/edition_numerique.html#troisième-révolution-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-2",
+    "href": "slides/edition_numerique.html#troisième-révolution-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique\n\n\n\nvolumen\ncodex\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#troisième-révolution-3",
+    "href": "slides/edition_numerique.html#troisième-révolution-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Troisième révolution?",
+    "text": "Troisième révolution?\nL’échelle globale"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-1",
+    "href": "slides/edition_numerique.html#vers-le-numérique-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nAnnées ’50/’70 photocomposition, lumière et métal\n\nVincegargiulo, Storia del DTP, 2016"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-2",
+    "href": "slides/edition_numerique.html#vers-le-numérique-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nAnnées ’70/’80 binaire et pixels"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-3",
+    "href": "slides/edition_numerique.html#vers-le-numérique-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\nPAO = Publication Assistée par Ordinateur\n\nPageMaker de Aldus (1984)\nInterpress de Xerox\nPostScript de Adobe (1997)\nPDF (1993)\n\nDiffusion de fichiers éditoriales"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#vers-le-numérique-4",
+    "href": "slides/edition_numerique.html#vers-le-numérique-4",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Vers le numérique",
+    "text": "Vers le numérique\n\n\n\n\n\n\n\n\n\n\nCTF(ilm)\nCTP(late)\nCTP(rint)\nCTC(ylinder)"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-1",
+    "href": "slides/edition_numerique.html#gafam-1",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-2",
+    "href": "slides/edition_numerique.html#gafam-2",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#gafam-3",
+    "href": "slides/edition_numerique.html#gafam-3",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "GAFAM",
+    "text": "GAFAM\n \nAmazon (1994-):\n\nAmazon Books (2015-2022)\nAmazon Publishing (2009)\nAmazon Audible (1995-) - (2008)"
+  },
+  {
+    "objectID": "slides/edition_numerique.html#références",
+    "href": "slides/edition_numerique.html#références",
+    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "section": "Références",
+    "text": "Références\n\nEarhart, Amy E., « The Digital Edition and the Digital Humanities », Textual Cultures: Text, Contexts, Interpretation, vol. 7, nᵒ 1, 2012, p. 18‑28, en ligne, &lt;doi: 10.2979/textcult.7.1.18&gt;."
+  },
+  {
+    "objectID": "seances.html",
+    "href": "seances.html",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#introduction-0309",
+    "href": "seances.html#introduction-0309",
+    "title": "Séances",
+    "section": "",
+    "text": "Ouvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#quest-ce-que-cest-lédition-1009",
+    "href": "seances.html#quest-ce-que-cest-lédition-1009",
+    "title": "Séances",
+    "section": "Qu’est-ce que c’est l’édition ? (10/09)",
+    "text": "Qu’est-ce que c’est l’édition ? (10/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#le-numérique-internet-et-le-web-1709",
+    "href": "seances.html#le-numérique-internet-et-le-web-1709",
+    "title": "Séances",
+    "section": "Le numérique, Internet et le web (17/09)",
+    "text": "Le numérique, Internet et le web (17/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
+    "href": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
+    "title": "Séances",
+    "section": "Qu’est-ce que c’est l’édition numérique ? (24/09)",
+    "text": "Qu’est-ce que c’est l’édition numérique ? (24/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#théorie-de-léditorialisation-0110",
+    "href": "seances.html#théorie-de-léditorialisation-0110",
+    "title": "Séances",
+    "section": "Théorie de l’éditorialisation (01/10)",
+    "text": "Théorie de l’éditorialisation (01/10)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "seances.html#formats-0810",
+    "href": "seances.html#formats-0810",
+    "title": "Séances",
+    "section": "Formats (08/10)",
+    "text": "Formats (08/10)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Théories de l’édition numérique",
+    "section": "",
+    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Théories de l’édition numérique",
+    "section": "",
+    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
+  },
+  {
+    "objectID": "index.html#modalités-dévaluation",
+    "href": "index.html#modalités-dévaluation",
+    "title": "Théories de l’édition numérique",
+    "section": "MODALITÉS D’ÉVALUATION",
+    "text": "MODALITÉS D’ÉVALUATION\nParticipation au cours : 10%\nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu.\nTravail de mi-session 1 (Test) : 15%\nLe premier travail de mi-session consiste en une test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.\nTravail de mi-session 2 (Esquisse projet) : 15%\nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’un brève résumé du même en maximum 300 mots.\nTravail final 1 (Présentation projets) : 20%\nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation.\nTravail final 2 (Rendu) : 40%\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\nLa première (20%) doit être une brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\nLa deuxième (20 %) est sur une thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique.\n\nL’évaluation du travail final prendra en compte le contenu et la manière dont il est présenté, au niveau structurel et de la propreté linguistique. En plus de la capacité de présenter et commenter des projets, sera évalué aussi la capacité de mobiliser une bibliographie critique."
+  },
+  {
+    "objectID": "index.html#calendrier",
+    "href": "index.html#calendrier",
+    "title": "Théories de l’édition numérique",
+    "section": "CALENDRIER",
+    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Écriture collaborative, chaînes éditoriales, édition savante / revues et science ouverte\n\n\n05/11\nDroit d’auteur, auto-édition et IA\n\n\n12/11\nÉdition critique (numérique) : Introduction\n\n\n19/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n26/11\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n03/12\nLittérature numérique : Études de cas\n\n\n10/12\n[choix] Travail final 1 (Présentation projets)\n\n\n17/12\n[choix] Travail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
   },
   {
     "objectID": "slides/edition.html#plan-de-la-séance",
@@ -553,165 +819,102 @@
     "text": "Images\n\nAndrea e Gian Francesco Torresani, edição princeps de 1528, en ligne\nEnsahequ, Caratteri mobili del Museo della stampa Lodovico Pavoni, en ligne\nLeah Henrickson, pecia mark, en ligne\nDaniel Nikolaus Chodowiecki, Tab. XXI c. Die Buchdruckerei, National Library of Poland, en ligne"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Théories de l’édition numérique",
-    "section": "",
-    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "Théories de l’édition numérique",
-    "section": "",
-    "text": "L’édition constitue l’une des institutions fondatrices de nos cultures du savoir : elle définit les processus par lesquels les contenus sont produits, structurés, légitimés et diffusés. Depuis plusieurs décennies, l’ensemble de ces processus sont profondément bouleversés par le numérique — non pas simplement comme phénomène technologique ou médiatique, mais comme véritable changement de paradigme culturel. Ce changement affecte toutes les institutions reposant sur la production de contenu : la presse, l’édition du livre, l’édition scientifique, et plus largement l’académie.\nC’est dans ce contexte que le cours propose une réflexion critique sur les théories et les pratiques de l’édition numérique, en les articulant autour de trois domaines complémentaires. L’édition numérique sera abordée à travers son histoire récente et ancrée aux principes, standards et protocoles qui régissent le web et l’hypertexte. Nous analyserons les environnements techniques (le réseau, les plateformes, les systèmes de gestion de contenus, les algorithmes), les structures et formats (l’hypertexte, le multimédia, les métadonnées), ainsi que les nouvelles pratiques de lecture, d’écriture et d’édition (l’annotation, les commentaires, les recommandations via les réseaux sociaux). L’objectif sera d’identifier les éléments de continuité et de rupture qui caractérisent le passage au numérique, et d’en comprendre les implications sociales, culturelles, juridiques et politiques. Nous nous appuierons notamment sur la théorie de l’éditorialisation — entendue comme l’ensemble des dynamiques qui produisent et structurent l’espace numérique — pour éclairer ce que deviennent les notions d’autorité, de publication, d’espace et de dispositif dans l’environnement numérique. L’édition critique numérique occupera une place centrale dans ce cours. Il s’agira d’examiner comment les humanités numériques ont renouvelé les pratiques philologiques et éditoriales : édition de sources primaires, balisage et encodage des textes (TEI), modèles d’annotation savante, appareils critiques enrichis, et nouvelles formes d’édition génétique ou collaborative. Nous étudierons des projets d’édition critique numérique existants afin de comprendre les choix éditoriaux, épistémologiques et techniques qu’ils impliquent, ainsi que les modèles de légitimation et de validation propres à ces nouvelles formes de production du savoir.\nLa littérature numérique introduira une troisième dimension, celle des œuvres qui naissent dans et par le numérique — littérature hypermédiatique, fictions interactives, poésie générée, œuvres procédurales —, en explorant ce que le numérique fait à la création littéraire elle-même : nouvelles formes narratives, nouvelles relations auteur-lecteur, nouvelles économies de l’œuvre. La question du statut de l’auteur, des droits, et des modèles économiques sera posée dans ce contexte spécifique.\nLe cours sera structuré selon trois axes :\n\nÉcosystème et théories : les environnements numériques, les théories de l’édition numérique et de l’éditorialisation, les questions d’accessibilité, de pérennité et de littératie numérique.\nPratiques éditoriales numériques : les chaînes de production numérique, les projets d’édition critique, les outils et formats, la circulation et la légitimation des contenus.\nÉcritures et littératures numériques : les nouvelles formes de création littéraire nées du numérique, leurs enjeux esthétiques, politiques et institutionnels.\n\nChaque axe sera articulé autour d’analyses théoriques, d’études de cas et de manipulations pratiques visant à développer une littératie numérique critique et à permettre aux étudiant·es de s’approprier concrètement les enjeux de l’édition contemporaine."
-  },
-  {
-    "objectID": "index.html#modalités-dévaluation",
-    "href": "index.html#modalités-dévaluation",
-    "title": "Théories de l’édition numérique",
-    "section": "MODALITÉS D’ÉVALUATION",
-    "text": "MODALITÉS D’ÉVALUATION\nParticipation au cours : 10%\nLa participation au cours est évaluée sur la base de la lecture hebdomadaire de textes scientifiques indiqués et de la discussion menée en classe. Cette évaluation se fera sur un mode continu.\nTravail de mi-session 1 (Test) : 15%\nLe premier travail de mi-session consiste en une test sur table (choix multiples, vrai ou faux, réponse courte) autour de la partie introductive du cours, les bases historiques ainsi que les notions de bases vue jusqu’au moment de l’évaluation.\nTravail de mi-session 2 (Esquisse projet) : 15%\nLe deuxième travail de mi-session est une présentation orale de 5 minutes avec une proposition pour le projet à réaliser, ainsi qu’un brève résumé du même en maximum 300 mots.\nTravail final 1 (Présentation projets) : 20%\nLe travail final 1 consiste en une présentation orale en binômes, autour de leur projet d’édition visant la maîtrise et la mise en pratique de la notion d’éditorialisation.\nTravail final 2 (Rendu) : 40%\nLe travail final 2 doit être composé de deux courtes dissertations à déposer sur la plateforme StudiUM :\n\nLa première (20%) doit être une brève présentation critique du travail éditorial réalisé en binôme, avec une approche critique et commentaire personnel, concernant les enjeux pratiques et théoriques engendrés par le projet. (À noter que bien que le projet soit réalisé en binôme, la dissertation doit être réalisée individuellement et intégrer les réflexions personnelles nourries par les échanges avec les collègues.)\nLa deuxième (20 %) est sur une thématique au choix de l’étudiant·e entre un projet d’édition numérique ou une œuvre de littérature numérique. Le candidat·e doit présenter le projet éditorial choisi et le commenter de manière critique.\n\nL’évaluation du travail final prendra en compte le contenu et la manière dont il est présenté, au niveau structurel et de la propreté linguistique. En plus de la capacité de présenter et commenter des projets, sera évalué aussi la capacité de mobiliser une bibliographie critique."
-  },
-  {
-    "objectID": "index.html#calendrier",
-    "href": "index.html#calendrier",
-    "title": "Théories de l’édition numérique",
-    "section": "CALENDRIER",
-    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test) + Écriture collaborative et science ouverte\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Chaînes éditoriales\n\n\n05/11\nÉdition savante, revues, publication ouvertes\n\n\n12/11\nDroits d’auteur, auto-édition, IA\n\n\n19/11\nÉdition critique (numérique) : Introduction\n\n\n26/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n10/12\nLittérature numérique : Études de cas\n\n\n17/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
-  },
-  {
-    "objectID": "seances.html",
-    "href": "seances.html",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "seances.html#introduction-0309",
-    "href": "seances.html#introduction-0309",
-    "title": "Séances",
-    "section": "",
-    "text": "Ouvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "seances.html#quest-ce-que-cest-lédition-1009",
-    "href": "seances.html#quest-ce-que-cest-lédition-1009",
-    "title": "Séances",
-    "section": "Qu’est-ce que c’est l’édition ? (10/09)",
-    "text": "Qu’est-ce que c’est l’édition ? (10/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "seances.html#le-numérique-internet-et-le-web-1709",
-    "href": "seances.html#le-numérique-internet-et-le-web-1709",
-    "title": "Séances",
-    "section": "Le numérique, Internet et le web (17/09)",
-    "text": "Le numérique, Internet et le web (17/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
-    "href": "seances.html#quest-ce-que-cest-lédition-numérique-2409",
-    "title": "Séances",
-    "section": "Qu’est-ce que c’est l’édition numérique ? (24/09)",
-    "text": "Qu’est-ce que c’est l’édition numérique ? (24/09)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "seances.html#théorie-de-léditorialisation-0110",
-    "href": "seances.html#théorie-de-léditorialisation-0110",
-    "title": "Séances",
-    "section": "Théorie de l’éditorialisation (01/10)",
-    "text": "Théorie de l’éditorialisation (01/10)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
-  },
-  {
-    "objectID": "slides/edition_numerique.html#plan-de-la-séance",
-    "href": "slides/edition_numerique.html#plan-de-la-séance",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "objectID": "slides/editorialisation.html#plan-de-la-séance",
+    "href": "slides/editorialisation.html#plan-de-la-séance",
+    "title": "Théorie de l’éditorialisation",
     "section": "Plan de la séance",
-    "text": "Plan de la séance\n \n\nTroisième révolution?\nVers le numérique\nLes GAFAM"
+    "text": "Plan de la séance\n \n\nQu’est-ce que c’est ?\nL’espace numérique\nCaractéristiques de l’éditorialisation"
   },
   {
-    "objectID": "slides/edition_numerique.html#troisième-révolution",
-    "href": "slides/edition_numerique.html#troisième-révolution",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Troisième révolution?",
-    "text": "Troisième révolution?\n« troisième révolution des médias » (« the third revolution in communication »)\n\nannées 1970 et 1980\ninnovations techniques\n\nrapidité et échelle globale"
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-1",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n \nL’éditorialisation n’est pas l’édition numérique, mais il s’agit d’une philosophie à l’époque du numérique"
   },
   {
-    "objectID": "slides/edition_numerique.html#troisième-révolution-1",
-    "href": "slides/edition_numerique.html#troisième-révolution-1",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Troisième révolution?",
-    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-2",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-2",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n \n\n\n\nÉdition\nprocessus fermé\n\n\nÉditorialisation\ncontinuum"
   },
   {
-    "objectID": "slides/edition_numerique.html#troisième-révolution-2",
-    "href": "slides/edition_numerique.html#troisième-révolution-2",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Troisième révolution?",
-    "text": "Troisième révolution?\n \n\n\n\n\n\n\n\n\n\n\nmanuscrit\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique\n\n\n\nvolumen\ncodex\nimprimerie à caractères mobiles\nindustrialisation et livre de poche\nnumérique"
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-3",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-3",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition restreinte\n\n\nSelon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le Web (Vitali-Rosati 2014a). En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques. […] Cette définition reste finalement très dualiste : d’une part l’humain, de l’autre la machine qui structure et détermine les actions humaines. D’une part le monde, de l’autre le savoir sur le monde.\n\n(§ 31, 38)"
   },
   {
-    "objectID": "slides/edition_numerique.html#troisième-révolution-3",
-    "href": "slides/edition_numerique.html#troisième-révolution-3",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Troisième révolution?",
-    "text": "Troisième révolution?\nL’échelle globale"
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-4",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-4",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition générale\n\n\nL’éditorialisation désigne l’ensemble des dynamiques qui produisent et structurent l’espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.\n\n(§ 40)"
   },
   {
-    "objectID": "slides/edition_numerique.html#vers-le-numérique-1",
-    "href": "slides/edition_numerique.html#vers-le-numérique-1",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Vers le numérique",
-    "text": "Vers le numérique\nAnnées ’50/’70 photocomposition, lumière et métal\n\nVincegargiulo, Storia del DTP, 2016"
+    "objectID": "slides/editorialisation.html#quest-ce-que-cest-5",
+    "href": "slides/editorialisation.html#quest-ce-que-cest-5",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Qu’est-ce que c’est ?",
+    "text": "Qu’est-ce que c’est ?\n\nDéfinition combinée\n\n\nL’éditorialisation est l’ensemble des dynamiques qui constituent l’espace numérique et qui permettent, à partir de cette constitution, l’émergence du sens. Ces dynamiques sont le résultat de forces et d’actions différentes qui déterminent après coup l’apparition et l’identification d’objets particuliers (personnes, communautés, algorithmes, plateformes…).\n\n(§ 50)"
   },
   {
-    "objectID": "slides/edition_numerique.html#vers-le-numérique-2",
-    "href": "slides/edition_numerique.html#vers-le-numérique-2",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Vers le numérique",
-    "text": "Vers le numérique\nAnnées ’70/’80 binaire et pixels"
+    "objectID": "slides/editorialisation.html#lespace-numérique-1",
+    "href": "slides/editorialisation.html#lespace-numérique-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "L’espace numérique",
+    "text": "L’espace numérique\nPerception VS Réalité\n\n(im)matériel\n« cyberespace »\nhybride\n« cloud »\ninscrit\nliquide\nexclusif / inclusif"
   },
   {
-    "objectID": "slides/edition_numerique.html#vers-le-numérique-3",
-    "href": "slides/edition_numerique.html#vers-le-numérique-3",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Vers le numérique",
-    "text": "Vers le numérique\nPAO = Publication Assistée par Ordinateur\n\nPageMaker de Aldus (1984)\nInterpress de Xerox\nPostScript de Adobe (1997)\nPDF (1993)\n\nDiffusion de fichiers éditoriales"
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-1",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(1.) Processuelle\nMouvement dynamique sans fin"
   },
   {
-    "objectID": "slides/edition_numerique.html#vers-le-numérique-4",
-    "href": "slides/edition_numerique.html#vers-le-numérique-4",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "Vers le numérique",
-    "text": "Vers le numérique\n\n\n\n\n\n\n\n\n\n\nCTF(ilm)\nCTP(late)\nCTP(rint)\nCTC(ylinder)"
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-2",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(2.) Performative\n\nPas de normativité\nOpérationnelle"
   },
   {
-    "objectID": "slides/edition_numerique.html#gafam-1",
-    "href": "slides/edition_numerique.html#gafam-1",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "GAFAM",
-    "text": "GAFAM"
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-3",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(3.) Ontologique\nL’éditorialisation crée le réel\nAu-delà d’être et savoir"
   },
   {
-    "objectID": "slides/edition_numerique.html#gafam-2",
-    "href": "slides/edition_numerique.html#gafam-2",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "GAFAM",
-    "text": "GAFAM"
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-4",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(4.) Multiple\nEn lien avec l’ontologique"
   },
   {
-    "objectID": "slides/edition_numerique.html#gafam-3",
-    "href": "slides/edition_numerique.html#gafam-3",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
-    "section": "GAFAM",
-    "text": "GAFAM\n \nAmazon (1994-):\n\nAmazon Books (2015-2022)\nAmazon Publishing (2009)\nAmazon Audible (1995-) - (2008)"
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-5",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation\n \n(5.) Collective\n\nOuverte\nNon limitée à l’humain"
   },
   {
-    "objectID": "slides/edition_numerique.html#références",
-    "href": "slides/edition_numerique.html#références",
-    "title": "Qu’est-ce que c’est l’édition numérique ?",
+    "objectID": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
+    "href": "slides/editorialisation.html#caractéristiques-de-léditorialisation-6",
+    "title": "Théorie de l’éditorialisation",
+    "section": "Caractéristiques de l’éditorialisation",
+    "text": "Caractéristiques de l’éditorialisation"
+  },
+  {
+    "objectID": "slides/editorialisation.html#références",
+    "href": "slides/editorialisation.html#références",
+    "title": "Théorie de l’éditorialisation",
     "section": "Références",
-    "text": "Références\n\nEarhart, Amy E., « The Digital Edition and the Digital Humanities », Textual Cultures: Text, Contexts, Interpretation, vol. 7, nᵒ 1, 2012, p. 18‑28, en ligne, &lt;doi: 10.2979/textcult.7.1.18&gt;.\n\nhttps://muse.jhu.edu/pub/3/article/494166\nhttps://muse.jhu.edu/pub/3/article/494164"
+    "text": "Références\n\nVitali-Rosati, Marcello, On Editorialization: Structuring Space and Authority in the Digital Age, Lieu de publication non identifié, Institute of Network Cultures, 2018.\nVitali Rosati, Marcello, « Qu’est-ce que l’éditorialisation? », Sens public, 2016, en ligne, https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/.\nVitali-Rosati, Marcello, « Pour une théorie de l’éditorialisation », Humanités numériques, nᵒ 1, Humanistica, janvier 2020, en ligne, https://journals.openedition.org/revuehn/371.\nVitali-Rosati, Marcello, « Qu’est-ce que l’écriture numérique ? », Corela, vol. 33, 2020, en ligne, https://dx.doi.org/10.4000/corela.11759."
   },
   {
     "objectID": "slides/intro.html#plan-de-la-séance",
