@@ -11,8 +11,7 @@ format:
     preview-links: auto
     css: styles.css
     scrollable: true
-    theme: serif
-            
+    theme: serif            
 ---
 
 ## Plan de la séance
