@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="fr-FR"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.24">
+
+  <title>Théories de l'édition numérique – Droits d’auteur et IA</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-99eeafcedac04850354b682963cedae3.css">
+  <link rel="stylesheet" href="styles.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Droits d’auteur et IA</h1>
+  <p class="subtitle">FRA3826 | EDN6001</p>
+
+<div class="quarto-title-authors">
+</div>
+
+  <p class="date">5 novembre 2026</p>
+</section>
+<section id="plan-de-la-séance" class="title-slide slide level1 center">
+<h1>Plan de la séance</h1>
+<ul>
+<li>Protection des données personnelles</li>
+<li>et pour la recherche?</li>
+<li>Droits d’auteurs</li>
+<li>Creative Commons</li>
+<li>IA</li>
+</ul>
+</section>
+
+<section>
+<section id="protection-des-données-personnelles" class="title-slide slide level1 center">
+<h1>Protection des données personnelles</h1>
+
+</section>
+<section id="protection-des-données-personnelles-1" class="slide level2">
+<h2>Protection des données personnelles</h2>
+
+<img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwyVVJGAFaMiBxZMBXRUsk2E-aUVgSkZ1DCXxzFj2sw&amp;s.png" class="quarto-figure quarto-figure-center r-stretch"><p>Clara (Claretta) Petacci (avril 1963) oubli</p>
+</section>
+<section id="protection-des-données-personnelles-2" class="slide level2">
+<h2>Protection des données personnelles</h2>
+
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/4/46/Soraya_Esfandiary-Bakhtiari-045.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" class="quarto-figure quarto-figure-center r-stretch"><p>Soraya Esfandiary-Bakhtiary (Corte di Cassazione n.&nbsp;2129, 27 mai 1975) privacy</p>
+</section>
+<section id="protection-des-données-personnelles-3" class="slide level2">
+<h2>Protection des données personnelles</h2>
+
+<img data-src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Umberto_Veronesi_nel_2012.jpg/500px-Umberto_Veronesi_nel_2012.jpg?utm_source=it.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" class="quarto-figure quarto-figure-center r-stretch"><p>Umberto Veronesi (Corte di Cassazione n.&nbsp;3769, 22 juin 1985) identité</p>
+</section>
+<section id="protection-des-données-personnelles-canada" class="slide level2">
+<h2>Protection des données personnelles (CANADA)</h2>
+<p>Au Canada il y a une dualisme entre secteur public et secteur privé</p>
+<ul>
+<li><p><em>Loi sur la protection des renseignements personnels</em>, L.R.C. (1985), ch.&nbsp;P-21 (<em>Privacy Act</em>, R.S.C., 1985, c.&nbsp;P-21) &lt;- secteur public</p></li>
+<li><p><em>Loi sur la protection des renseignements personnels et les documents électroniques</em>, L.C. 2000, ch.&nbsp;5 (<em>Personal Information Protection and Electronic Documents Act (PIPEDA)</em>, S.C. 2000, c.&nbsp;5) &lt;- secteur privé commercial</p></li>
+</ul>
+</section>
+<section id="protection-des-données-personnelles-ue" class="slide level2 scrollable">
+<h2>Protection des données personnelles (UE)</h2>
+<p><em>Charte des droits fondamentaux de l’Union Européenne</em> (2016/C 202/02)</p>
+<p>Art. 8 <strong>Protection des données à caractère personnel</strong></p>
+<ol type="1">
+<li><p>Toute personne a droit à la protection des données à caractère personnel la concernant.</p></li>
+<li><p>Ces données doivent être traitées loyalement, à des fins déterminées et sur la base du consentement de la personne concernée ou en vertu d’un autre fondement légitime prévu par la loi. Toute personne a le droit d’accéder aux données collectées la concernant et d’en obtenir la rectification.</p></li>
+<li><p>Le respect de ces règles est soumis au contrôle d’une autorité indépendante.</p></li>
+</ol>
+<p>Règlement (UE) 2016/679 (<em>General Data Protection Regulation</em> / <em>règlement général sur la protection des données</em>)</p>
+</section></section>
+<section>
+<section id="et-pour-la-recherche" class="title-slide slide level1 center">
+<h1>et pour la recherche?</h1>
+
+</section>
+<section id="et-pour-la-recherche-canada---pipeda" class="slide level2 scrollable">
+<h2>et pour la recherche? (Canada - PIPEDA)</h2>
+<p><em>Transation commerciale éventuelle</em></p>
+<p>7.2 (1) […] les organisations qui sont parties à une éventuelle transaction commerciale peuvent utiliser et communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si, à la fois :</p>
+<ol type="a">
+<li><p>elles ont conclu un accord aux termes duquel l’organisation recevant des renseignements s’est engagée : […]</p></li>
+<li><p>les renseignements sont nécessaires pour décider si la transaction aura lieu et, le cas échéant, pour l’effectuer.</p></li>
+</ol>
+<p><em>Transaction commerciale effectuée</em></p>
+<p>[…] si la transaction commerciale est effectuée, les organisations y étant parties peuvent utiliser et communiquer les renseignements personnels, communiqués en vertu du paragraphe (1), à l’insu de l’intéressé ou sans son consentement dans le cas où :</p>
+<ol type="a">
+<li><p>elles ont conclu un accord aux termes duquel chacune d’entre elles s’est engagée : […]</p></li>
+<li><p>les renseignements sont nécessaires à la poursuite de l’entreprise ou des activités faisant l’objet de la transaction;</p></li>
+<li><p>dans un délai raisonnable après que la transaction a été effectuée, l’une des parties avise l’intéressé du fait que la transaction a été effectuée et que ses renseignements personnels ont été communiqués en vertu du paragraphe (1).</p></li>
+</ol>
+</section>
+<section id="et-pour-la-recherche-canada---pipeda-1" class="slide level2 scrollable">
+<h2>et pour la recherche? (Canada - PIPEDA)</h2>
+<p><em>Valeur contraignante des accords</em></p>
+<ol start="3" type="1">
+<li>L’organisation est tenue de se conformer aux modalités de tout accord conclu aux termes des alinéas (1)a) ou (2)a).</li>
+</ol>
+<p><em>Exception</em></p>
+<ol start="4" type="1">
+<li>Les paragraphes (1) et (2) ne s’appliquent pas à l’égard de la transaction commerciale dont l’objectif premier ou le résultat principal est l’achat, la vente ou toute autre forme d’acquisition ou de disposition de renseignements personnels, ou leur location.</li>
+</ol>
+<p><em>Relation d’emploi</em></p>
+<p>[…] une entreprise fédérale peut recueillir, utiliser ou communiquer des renseignements personnels sans le consentement de l’intéressé si cela est nécessaire pour établir ou gérer la relation d’emploi entre elle et lui, ou pour y mettre fin, et si elle a au préalable informé l’intéressé […]</p>
+</section>
+<section id="et-pour-la-recherche-canada---privacy-act" class="slide level2 scrollable">
+<h2>et pour la recherche? (Canada - Privacy Act)</h2>
+<p><em>Communication des renseignements personnels</em></p>
+<p>8 (1) Les renseignements personnels qui relèvent d’une institution fédérale ne peuvent être communiqués, à défaut du consentement de l’individu qu’ils concernent, que conformément au présent article.</p>
+<p><em>Cas d’autorisation</em></p>
+<ol start="2" type="1">
+<li>Sous réserve d’autres lois fédérales, la communication des renseignements personnels qui relèvent d’une institution fédérale est autorisée dans les cas suivants : […]</li>
+</ol>
+<ol type="i">
+<li>communication à Bibliothèque et Archives du Canada pour dépôt;</li>
+</ol>
+<ol start="10" type="a">
+<li>communication à toute personne ou à tout organisme, pour des travaux de recherche ou de statistique, pourvu que soient réalisées les deux conditions suivantes […]</li>
+</ol>
+<p><em>Communication par Bibliothèque et Archives du Canada</em></p>
+<ol start="3" type="1">
+<li>Sous réserve des autres lois fédérales, les renseignements personnels qui relèvent de Bibliothèque et Archives du Canada et qui y ont été versés pour dépôt ou à des fins historiques par une institution fédérale peuvent être communiqués conformément aux règlements pour des travaux de recherche ou de statistique.</li>
+</ol>
+</section>
+<section id="et-pour-la-recherche-ue" class="slide level2">
+<h2>et pour la recherche? (UE)</h2>
+<ul>
+<li>GDPR</li>
+<li>Data Governance Act</li>
+<li>Digital Services Act (règlement sur les services numériques)</li>
+</ul>
+</section>
+<section id="et-pour-la-recherche-ue---gdpr" class="slide level2 scrollable">
+<h2>et pour la recherche? (UE - GDPR)</h2>
+<ul>
+<li><strong>Art. 5(1)(b)</strong>, <em>Principes relatifs au traitement des données à caractère personnel</em></li>
+</ul>
+<ol type="1">
+<li>Les données à caractère personnel doivent être: […]</li>
+</ol>
+<ol start="2" type="a">
+<li>collectées pour des <strong>finalités déterminées, explicites et légitimes</strong>, et ne pas être traitées ultérieurement d’une manière incompatible avec ces finalités; <strong>le traitement ultérieur à des fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques n’est pas considéré</strong>, conformément à l’article 89, paragraphe 1, comme incompatible avec les finalités initiales (limitation des finalités);</li>
+</ol>
+<ul>
+<li><strong>Art. 9(2)(j)</strong>, <em>Traitement portant sur des catégories particulières de données à caractère personnel</em></li>
+</ul>
+<ol type="1">
+<li><p>Le traitement des données à caractère personnel qui révèle l’origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l’appartenance syndicale, ainsi que le traitement des données génétiques, des données biométriques aux fins d’identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l’orientation sexuelle d’une personne physique sont interdits.</p></li>
+<li><p>Le paragraphe 1 ne s’applique pas si l’une des conditions suivantes est remplie: […]</p></li>
+</ol>
+<ol start="10" type="a">
+<li>le traitement est nécessaire à des <strong>fins archivistiques dans l’intérêt public</strong>, à des fins de <strong>recherche scientifique ou historique</strong> ou à des fins <strong>statistiques</strong>, conformément à l’article 89, paragraphe 1, sur la base du droit de l’Union ou du droit d’un État membre qui doit être proportionné à l’objectif poursuivi, respecter l’<strong>essence du droit à la protection des données et prévoir des mesures appropriées et spécifiques pour la sauvegarde des droits fondamentaux et des intérêts de la personne concernée</strong>.</li>
+</ol>
+<ul>
+<li><strong>Art. 17(3)(d)</strong>, <em>Droit à l’effacement («droit à l’oubli»)</em></li>
+</ul>
+<ol type="1">
+<li>La personne concernée a le droit d’obtenir du responsable du traitement l’effacement, dans les meilleurs délais, de données à caractère personnel la concernant et le responsable du traitement a l’<strong>obligation d’effacer ces données à caractère personnel</strong> dans les meilleurs délais, lorsque l’un des motifs suivants s’applique:</li>
+<li>Lorsqu’il a rendu publiques les données à caractère personnel et qu’il est tenu de les effacer en vertu du paragraphe 1, le responsable du traitement, compte tenu des technologies disponibles et des coûts de mise en œuvre, prend des mesures raisonnables, y compris d’ordre technique, pour informer les responsables du traitement qui traitent ces données à caractère personnel que la personne concernée a demandé l’effacement par ces responsables du traitement de tout lien vers ces données à caractère personnel, ou de toute copie ou reproduction de celles-ci.</li>
+<li>Les paragraphes 1 et 2 ne s’appliquent pas dans la mesure où ce traitement est nécessaire:</li>
+</ol>
+<ol type="a">
+<li>à l’exercice du droit à la liberté d’expression et d’information;</li>
+<li>pour respecter une obligation légale qui requiert le traitement prévue par le droit de l’Union ou par le droit de l’État membre auquel le responsable du traitement est soumis, ou pour exécuter une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable du traitement;</li>
+<li>pour des motifs d’intérêt public dans le domaine de la santé publique, conformément à l’article 9, paragraphe 2, points h) et i), ainsi qu’à l’article 9, paragraphe 3;</li>
+<li>à des <strong>fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques</strong> conformément à l’article 89, paragraphe 1, dans la mesure où le droit visé au paragraphe 1 est susceptible de rendre impossible ou de compromettre gravement la réalisation des objectifs dudit traitement; ou</li>
+<li>à la constatation, à l’exercice ou à la défense de droits en justice.</li>
+</ol>
+</section>
+<section id="et-pour-la-recherche-ue---gdpr-1" class="slide level2 scrollable">
+<h2>et pour la recherche? (UE - GDPR)</h2>
+<ul>
+<li><strong>Art. 21(6)</strong>, <em>Droit d’opposition</em></li>
+</ul>
+<ol start="6" type="1">
+<li>Lorsque des données à caractère personnel sont traitées à des fins de recherche scientifique ou historique ou à des fins statistiques en application de l’article 89, paragraphe 1, la personne concernée a le <strong>droit de s’opposer</strong>, pour des raisons tenant à sa situation particulière, au traitement de données à caractère personnel la concernant, <strong>à moins que le traitement ne soit nécessaire à l’exécution d’une mission d’intérêt public</strong>.</li>
+</ol>
+<ul>
+<li><strong>Art. 89</strong>, <em>Garanties et dérogations applicables au traitement à des fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques</em></li>
+</ul>
+<ol type="1">
+<li>Le traitement à des fins archivistiques dans l’intérêt public, à des fins de recherche scientifique ou historique, ou à des fins statistiques est soumis, conformément au présent règlement, à des garanties appropriées pour les droits et libertés de la personne concernée. Ces garanties garantissent la mise en place de mesures techniques et organisationnelles, en particulier pour assurer le respect du principe de minimisation des données. Ces mesures peuvent comprendre la <strong>pseudonymisation</strong>, dans la mesure où ces finalités peuvent être atteintes de cette manière. Chaque fois que ces finalités peuvent être atteintes par un traitement ultérieur ne permettant pas ou plus l’identification des personnes concernées, il convient de procéder de cette manière.</li>
+<li>Lorsque des données à caractère personnel sont traitées à des fins de recherche scientifique ou historique ou à des fins statistiques, le droit de l’Union ou le droit d’un État membre peut prévoir des dérogations aux droits visés aux articles 15, 16, 18 et 21, sous réserve des conditions et des garanties visées au paragraphe 1 du présent article, dans la mesure où ces droits risqueraient de rendre impossible ou d’entraver sérieusement la réalisation des finalités spécifiques et où de telles dérogations sont nécessaires pour atteindre ces finalités.</li>
+<li>Lorsque des données à caractère personnel sont traitées à des fins archivistiques dans l’intérêt public, le droit de l’Union ou le droit d’un État membre peut prévoir des dérogations aux droits visés aux articles 15, 16, 18, 19, 20 et 21, sous réserve des conditions et des garanties visées au paragraphe 1 du présent article, dans la mesure où ces droits risqueraient de rendre impossible ou d’entraver sérieusement la réalisation des finalités spécifiques et où de telles dérogations sont nécessaires pour atteindre ces finalités.</li>
+<li>Lorsqu’un traitement visé aux paragraphes 2 et 3 sert dans le même temps une autre finalité, les dérogations sont applicables au seul traitement effectué aux fins visées auxdits paragraphes.</li>
+</ol>
+</section>
+<section id="et-pour-la-recherche-ue---data-governance-act" class="slide level2 scrollable">
+<h2>et pour la recherche? (UE - Data Governance Act)</h2>
+<p><em>Réutilisation de certaines catégories de données protégées détenues par des organismes du secteur public</em></p>
+<ul>
+<li>Art. 3, <em>Catégories de données</em></li>
+</ul>
+<ol type="1">
+<li>Le présent chapitre s’applique aux données détenues par des organismes du secteur public, qui sont protégées pour des motifs:</li>
+</ol>
+<ol type="a">
+<li>de confidentialité commerciale, y compris le secret d’affaires, le secret professionnel et le secret d’entreprise;</li>
+<li>de secret statistique;</li>
+<li>de protection des droits de propriété intellectuelle de tiers; ou</li>
+<li>de protection des données à caractère personnel, dans la mesure où de telles données ne relèvent pas du champ d’application de la directive (UE) 2019/1024.</li>
+</ol>
+<ol start="2" type="1">
+<li>Le présent chapitre ne s’applique pas:[…]</li>
+</ol>
+<ol start="3" type="a">
+<li>aux données détenues par des établissements culturels et des établissements d’enseignement;[…]</li>
+</ol>
+<ul>
+<li>Art. 4, <em>Interdiction des accords d’exclusivité</em></li>
+</ul>
+<ol start="4" type="1">
+<li>La durée du droit d’exclusivité pour la réutilisation des données ne dépasse pas <strong>douze mois</strong>. Lorsqu’un contrat est conclu, la durée du contrat est la même que la durée du droit d’exclusivité.</li>
+</ol>
+<ul>
+<li>Art. 5, <em>Conditions applicables à la réutilisation</em></li>
+</ul>
+<ol start="3" type="1">
+<li>Les organismes du secteur public veillent à ce que, conformément au droit de l’Union et au droit national, le caractère protégé des données soit préservé. Ils peuvent prévoir les exigences suivantes:</li>
+</ol>
+<ol type="a">
+<li>l’accès aux données à des fins de réutilisation n’est octroyé que lorsque l’organisme du secteur public ou l’organisme compétent, à la suite d’une demande de réutilisation, a fait en sorte que les données:</li>
+</ol>
+<pre><code>i) aient été anonymisées dans le cas des données à caractère personnel; et
+
+ii) aient été modifiées, agrégées ou traitées selon toute autre méthode de contrôle de la divulgation dans le cas des informations commerciales confidentielles, y compris des secrets d’affaires et des contenus protégés par des droits de propriété intellectuelle;</code></pre>
+<ol start="2" type="a">
+<li><p>l’accès aux données et leur réutilisation se font à distance dans un environnement de traitement sécurisé qui est fourni ou contrôlé par l’organisme du secteur public;</p></li>
+<li><p>l’accès aux données et leur réutilisation se font dans les locaux où se trouve l’environnement de traitement sécurisé, dans le respect de normes de sécurité élevées, à condition que l’accès à distance ne puisse être autorisé sans qu’il soit porté atteinte aux droits et aux intérêts des tiers.</p></li>
+</ol>
+<ul>
+<li>Art. 6, <em>Redevances</em></li>
+</ul>
+<ol start="2" type="1">
+<li><p>Les redevances perçues en vertu du paragraphe 1 sont <strong>transparentes, non discriminatoires, proportionnées et objectivement justifiées et ne restreignent pas la concurrence</strong>.</p></li>
+<li><p>Les organismes du secteur public font en sorte que les redevances puissent aussi être acquittées en ligne au moyen de services de paiement transfrontaliers largement disponibles, sans discrimination fondée sur le lieu d’établissement du prestataire de services de paiement, le lieu d’émission de l’instrument de paiement ou la localisation du compte de paiement dans l’Union.</p></li>
+<li><p>Lorsque les organismes du <strong>secteur public</strong> perçoivent des redevances, ils prennent des mesures pour <strong>inciter à la réutilisation</strong> des catégories de données visées à l’article 3, paragraphe 1, à des <strong>fins non commerciales</strong>, par exemple à des fins de <strong>recherche scientifique, ainsi que par les PME et les jeunes pousses conformément aux règles en matière d’aides d’État</strong>. À cet égard, les organismes du secteur public peuvent également mettre ces données à disposition moyennant une <strong>redevance réduite ou à titre gratuit, notamment pour les PME, les jeunes pousses, les organisations de la société civile et les établissements d’enseignement</strong>. À cette fin, les organismes du secteur public peuvent établir une liste des catégories de réutilisateurs pour lesquelles les données à des fins de réutilisation sont mises à disposition moyennant une redevance réduite ou à titre gratuit. Cette liste, ainsi que les critères utilisés pour l’établir, sont rendus publics.</p></li>
+<li><p>Les redevances sont calculées sur la base des coûts liés à la conduite de la procédure de demande de réutilisation des catégories de données visées à l’article 3, paragraphe 1, et limitées aux coûts nécessaires relatifs:</p></li>
+</ol>
+<ol type="a">
+<li>à la <strong>reproduction</strong>, à la <strong>fourniture</strong> et à la <strong>diffusion</strong> des données;</li>
+<li>à l’<strong>acquisition des droits</strong>;</li>
+<li>à l’<strong>anonymisation</strong> ou à d’autres formes de <strong>préparation</strong> des données à caractère personnel et des données commerciales confidentielles conformément à l’article 5, paragraphe 3;</li>
+<li>à la <strong>maintenance</strong> de l’environnement de traitement sécurisé;</li>
+<li>à l’<strong>acquisition du droit</strong> d’autoriser la réutilisation conformément au présent chapitre par des tiers extérieurs au secteur public; et</li>
+<li>à l’<strong>assistance</strong> fournie aux réutilisateurs pour obtenir le consentement des personnes concernées et l’autorisation des détenteurs de données dont les droits et intérêts peuvent être affectés par cette réutilisation.</li>
+</ol>
+<ol start="6" type="1">
+<li>Les critères et la méthode de calcul des redevances sont arrêtés par les États membres et publiés. L’organisme du secteur public publie une description des principales catégories de coûts et des règles utilisées pour la répartition des coûts.</li>
+</ol>
+<ul>
+<li>Art. 7, <em>Organismes compétents</em></li>
+</ul>
+<ol type="1">
+<li><p>En vue d’effectuer les tâches visées au présent article, <strong>chaque État membre désigne un ou plusieurs organismes compétents, qui peuvent être compétents pour un secteur particulier, pour aider les organismes du secteur public qui octroient ou refusent l’accès aux fins de la réutilisation des catégories de données</strong> visées à l’article 3, paragraphe 1. Les États membres peuvent soit établir un ou plusieurs nouveaux organismes compétents, soit s’appuyer sur des organismes du secteur public ou sur des services internes d’organismes du secteur public existants qui remplissent les conditions fixées par le présent règlement.</p></li>
+<li><p>Les organismes compétents peuvent également être <strong>habilités à octroyer l’accès aux fins de la réutilisation des catégories de données</strong> visées à l’article 3, paragraphe 1, en application des dispositions du droit de l’Union ou du droit national qui prévoient l’octroi d’un tel accès. Lorsqu’ils octroient ou refusent l’accès à des fins de réutilisation, les articles 4, 5, 6 et 9 s’appliquent à ces organismes compétents.</p></li>
+<li><p>Les organismes compétents <strong>disposent des ressources juridiques, financières, techniques et humaines</strong> suffisantes pour mener à bien les tâches qui leur sont assignées, y compris des connaissances techniques nécessaires pour être en mesure de respecter le droit de l’Union ou le droit national applicable en ce qui concerne les régimes d’accès pour les catégories de données visées à l’article 3, paragraphe 1.</p></li>
+<li><p>L’assistance prévue au paragraphe 1 consiste notamment, le cas échéant: […]</p></li>
+<li><p>Chaque État membre <strong>notifie à la Commission l’identité des organismes compétents désignés</strong> en application du paragraphe 1 au plus tard le 24 septembre 2023. Chaque État membre notifie également à la Commission toute modification ultérieure concernant l’identité de ces organismes compétents.</p></li>
+</ol>
+<ul>
+<li>Art. 8, <em>Points d’information unique</em></li>
+</ul>
+<ol start="4" type="1">
+<li>La Commission établit un point d’accès unique européen mettant à disposition un registre électronique consultable des données disponibles au niveau des points d’information uniques nationaux ainsi que d’autres informations sur la manière de demander des données par l’intermédiaire de ces points d’information uniques nationaux.</li>
+</ol>
+</section>
+<section id="et-pour-la-recherche-ue---data-governance-act-1" class="slide level2 scrollable">
+<h2>et pour la recherche? (UE - Data Governance Act)</h2>
+<p><em>Altruisme en matière de données</em></p>
+<ul>
+<li>Art. 16, <em>Dispositions nationales relatives à l’altruisme en matière de données</em></li>
+</ul>
+<p>Les États membres peuvent avoir mis en place des <strong>dispositions organisationnelles ou techniques, ou les deux, pour faciliter l’altruisme en matière de données</strong>. À cette fin, les États membres peuvent <strong>élaborer des politiques nationales</strong> dans le domaine de l’altruisme en matière de données. Ces politiques nationales peuvent notamment aider les personnes concernées à mettre à disposition volontairement, à des fins d’altruisme en matière de données, des données à caractère personnel les concernant détenues par des organismes du secteur public, et déterminer les informations nécessaires qui doivent être fournies aux personnes concernées en ce qui concerne la réutilisation de leurs données dans l’intérêt général.</p>
+<p>Si un État membre élabore de telles politiques nationales, il le notifie à la Commission.</p>
+<ul>
+<li>Art. 18, <em>Conditions générales d’enregistrement</em></li>
+</ul>
+<p>Pour être admise à l’enregistrement dans un registre public national des organisations altruistes en matière de données reconnues, une entité doit:</p>
+<ol type="a">
+<li><strong>mener des activités altruistes en matière de données</strong>;</li>
+<li><strong>être une personne morale</strong> constituée en vertu du droit national pour poursuivre des objectifs d’intérêt général prévus dans le droit national, le cas échéant;</li>
+<li>exercer ses activités dans un <strong>but non lucratif et être juridiquement indépendante de toute entité</strong> exerçant des activités dans un <strong>but lucratif</strong>;</li>
+<li><strong>mener ses activités altruistes en matière de données par l’intermédiaire d’une structure</strong> qui, sur le plan fonctionnel, est distincte de ses autres activités;</li>
+<li>se conformer au recueil de règles visé à l’article 22, paragraphe 1, au plus tard dix-huit mois après la date d’entrée en vigueur des actes délégués visés audit paragraphe.</li>
+</ol>
+<ul>
+<li>Art. 19, <em>Enregistrement d’organisations altruistes en matière de données reconnues</em></li>
+</ul>
+<ol type="1">
+<li>Une entité qui satisfait aux exigences énoncées à l’article 18 peut présenter une demande d’enregistrement dans le registre public national des organisations altruistes en matière de données reconnues dans l’État membre dans lequel elle est établie.</li>
+</ol>
+<ul>
+<li>Art. 20, <em>Obligations de transparence</em></li>
+</ul>
+<ol type="1">
+<li>L’organisation altruiste en matière de données reconnue tient des registres complets et exacts concernant:</li>
+</ol>
+<ol type="a">
+<li><strong>toutes les personnes physiques ou morales</strong> qui se sont vu offrir la possibilité de traiter des données détenues par cette organisation altruiste en matière de données reconnue, <strong>ainsi que leurs coordonnées</strong>;</li>
+<li><strong>la date ou la durée</strong> du traitement des données à caractère personnel ou de l’utilisation des données à caractère non personnel;</li>
+<li><strong>la finalité</strong> du traitement, telle qu’elle a été déclarée par la personne physique ou morale qui s’est vu offrir la possibilité d’effectuer ce traitement;</li>
+<li><strong>les éventuelles redevances</strong> acquittées par les personnes physiques ou morales traitant les données.</li>
+</ol>
+<ol start="2" type="1">
+<li>L’organisation altruiste en matière de données reconnue établit et transmet à l’autorité compétente pour l’enregistrement des organisations altruistes en matière de données concernée un <strong>rapport annuel d’activité</strong> […]</li>
+</ol>
+<ul>
+<li>Art. 25, <em>Formulaire européen de consentement à l’altruisme en matière de données</em></li>
+</ul>
+</section>
+<section id="et-pour-la-recherche-ue---digital-services-act" class="slide level2 scrollable">
+<h2>et pour la recherche? (UE - Digital Services Act)</h2>
+<ul>
+<li>Art. 40, <em>Accès aux données et contrôle des données</em></li>
+</ul>
+<ol type="1">
+<li>Les fournisseurs de <strong>très grandes plateformes en ligne</strong> ou de <strong>très grands moteurs de recherche</strong> en ligne donnent au coordinateur pour les services numériques de l’État membre d’établissement ou à la Commission, à leur demande motivée et dans un <strong>délai raisonnable spécifié dans cette demande, l’accès aux données nécessaires pour contrôler et évaluer le respect du présent règlement</strong>.</li>
+<li>Les coordinateurs pour les services numériques et la Commission n’utilisent les données auxquelles ils ont eu accès conformément au paragraphe 1 qu’à des fins de contrôle et d’évaluation du respect du présent règlement et tiennent dûment compte des droits et intérêts des fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne et des destinataires du service concerné, y compris la protection des données à caractère personnel, la protection des informations confidentielles, en particulier les secrets d’affaires, et le maintien de la sécurité de leur service.</li>
+<li>Aux fins du paragraphe 1, les fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne expliquent, à la demande du coordinateur pour les services numériques de l’État membre d’établissement ou de la Commission, <strong>la conception, la logique, le fonctionnement et la procédure de test de leurs systèmes algorithmiques, y compris leurs systèmes de recommandation</strong>.</li>
+<li>Sur demande dûment motivée de chercheurs, le coordinateur pour les services numériques de l’État membre d’établissement accorde auxdits chercheurs le statut de chercheurs agréés pour la recherche spécifique visée dans la demande et adresse une demande motivée d’accès aux données au fournisseur de la très grande plateforme en ligne ou du très grand moteur de recherche en ligne conformément au paragraphe 4, lorsque les chercheurs démontrent qu’ils remplissent l’ensemble des conditions suivantes:</li>
+</ol>
+<ol type="a">
+<li>ils sont <strong>affiliés à un organisme de recherche</strong> tel qu’il est défini à l’article 2, point 1), de la directive (UE) 2019/790;</li>
+<li>ils sont <strong>indépendants de tous intérêts commerciaux</strong>;</li>
+<li><strong>leur demande indique la source de financement des recherches</strong>;</li>
+<li>ils sont à même de <strong>respecter les exigences spécifiques en matière de sécurité et de confidentialité des données</strong> correspondant à chaque demande ainsi que de protéger les données à caractère personnel, et ils décrivent dans leur demande les mesures techniques et organisationnelles appropriées qu’ils ont mis en place à cet effet;</li>
+<li>dans leur demande, ils démontrent que leur <strong>accès aux données et les périodes d’accès demandées sont nécessaires et proportionnés aux fins poursuivies par leur recherche et que les résultats escomptés de cette recherche</strong> contribueront aux fins énoncées au paragraphe 4;</li>
+<li>les activités de recherche prévues sont menées aux fins énoncées au paragraphe 4;</li>
+<li>ils se sont <strong>engagés à mettre gratuitement à la disposition du public les résultats de leurs recherches dans un délai raisonnable après l’achèvement de celles-ci, sous réserve des droits et des intérêts des destinataires du service concerné, conformément au règlement (UE) 2016/679.</strong></li>
+</ol>
+</section></section>
+<section>
+<section id="droits-dauteurs" class="title-slide slide level1 center">
+<h1>Droits d’auteurs</h1>
+
+</section>
+<section id="droits-dauteurs-1" class="slide level2">
+<h2>Droits d’auteurs</h2>
+<p>Les droits d’auteurs ne rentrent pas sous une législation internationale ou transnationale, mais il y a des spécificités nationales.</p>
+<p>Au Canada la <em>Loi sur les droits d’auteur</em>, aussi <em>Copyright Act</em>, entre en vigueur en 1985, dernière mise à jour le 30 septembre 2026 (L.R.C. (1985), ch.&nbsp;C-42).</p>
+</section>
+<section id="droits-dauteurs-loi-sur-les-droits-dauteur" class="slide level2 scrollable">
+<h2>Droits d’auteurs: <em>Loi sur les droits d’auteur</em></h2>
+<ul>
+<li>Définitions et dispositions interprétatives</li>
+</ul>
+<ol type="1">
+<li>Droit d’auteur et droits moraux sur les oeuvres</li>
+<li>Droit d’auteur sur les prestations, enregistrements sonores et signaux de communication et droits moraux sur les prestations</li>
+<li>Violation du droit d’auteur et des droits moraux, et cas d’exception</li>
+<li>Recours</li>
+<li>Administration</li>
+<li>Divers</li>
+<li>Commission du droit d’auteur</li>
+<li>Gestion collective du droit d’auteur</li>
+<li>Demandes particulières à la Commission</li>
+<li>Cope pour usage privé</li>
+<li>Dispositions générales</li>
+</ol>
+</section>
+<section id="droits-dauteurs-loi-sur-les-droits-dauteur-1" class="slide level2 scrollable">
+<h2>Droits d’auteurs: <em>Loi sur les droits d’auteur</em></h2>
+<p><em>Exceptions</em></p>
+<p><em>Utilisation équitable</em></p>
+<p><em>Étude privée, recherche, etc.</em></p>
+<p>Art. 29 L’utilisation équitable d’une œuvre ou de tout autre objet du droit d’auteur aux fins d’étude privée, de recherche, d’éducation, de parodie ou de satire ne constitue pas une violation du droit d’auteur.</p>
+<p><em>Critique et compte rendu</em></p>
+<p>29.1 L’utilisation équitable d’une œuvre ou de tout autre objet du droit d’auteur <strong>aux fins de critique ou de compte rendu</strong> ne constitue pas une violation du droit d’auteur à la condition que soient mentionnés : […]</p>
+<p><em>Communication des nouvelles</em></p>
+<p>29.2 L’<strong>utilisation équitable</strong> d’une œuvre ou de tout autre objet du droit d’auteur pour la communication des nouvelles ne constitue pas une violation du droit d’auteur à la condition que soient mentionnés : […]</p>
+<p><em>Contenu non commercial généré par l’utilisateur</em></p>
+<p>29.21 (1) Ne constitue pas une violation du droit d’auteur le fait, <strong>pour une personne physique, d’utiliser une œuvre ou tout autre objet du droit d’auteur ou une copie de ceux-ci</strong> — déjà publiés ou mis à la disposition du public — <strong>pour créer une autre œuvre ou un autre objet du droit d’auteur protégés</strong> et, pour cette personne de même que, si elle les y autorise, celles qui résident habituellement avec elle, d’utiliser la nouvelle œuvre ou le nouvel objet ou d’autoriser un intermédiaire à le diffuser, si les conditions suivantes sont réunies : […]</p>
+<p><em>Reproduction à des fins privées</em></p>
+<p>29.22 (1) Ne constitue pas une violation du droit d’auteur le fait, pour une personne physique, <strong>de reproduire l’intégralité ou toute partie importante d’une œuvre ou d’un autre objet du droit d’auteur si</strong> les conditions suivantes sont réunies : a) la <strong>copie</strong> de l’œuvre ou de l’autre objet du droit d’auteur reproduite n’est <strong>pas contrefaite</strong>; b) la personne a <strong>obtenu la copie légalement</strong>, autrement que par emprunt ou location, et soit est propriétaire du support ou de l’appareil sur lequel elle est reproduite, soit est autorisée à l’utiliser; c) elle ne contourne pas ni ne fait contourner une mesure technique de protection, au sens de ces termes à l’article 41, pour faire la reproduction; d) elle <strong>ne donne la reproduction à personne</strong>; e) elle <strong>n’utilise la reproduction qu’à des fins privées</strong>.</p>
+<p><em>Copies de sauvegarde</em></p>
+<p>29.24 (1) Ne constitue pas une violation du droit d’auteur le fait, pour la personne qui est <strong>propriétaire de la copie</strong> (au présent article appelée copie originale) d’une œuvre ou de tout autre objet du droit d’auteur, ou qui est titulaire d’une licence en autorisant l’utilisation, de la reproduire si les conditions ci-après sont réunies : a) la <strong>reproduction</strong> est effectuée <strong>exclusivement à des fins de sauvegarde au cas où il serait impossible d’utiliser la copie originale</strong>, notamment en raison de <strong>perte ou</strong> de <strong>dommage</strong>; b) la <strong>copie originale n’est pas contrefaite</strong>; c) la personne <strong>ne contourne pas</strong> ni ne fait contourner une <strong>mesure technique de protection</strong>, au sens de ces termes à l’article 41, pour faire la reproduction; d) elle <strong>ne donne aucune reproduction à personne</strong>.</p>
+<p><em>Établissements d’enseignement</em></p>
+<p><em>Reproduction à des fins pédagogiques</em></p>
+<p>29.4 (1) Ne constitue <strong>pas une violation du droit d’auteur le fait, pour un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci</strong>, de reproduire une œuvre pour la présenter visuellement à des fins pédagogiques et dans les locaux de l’établissement et d’accomplir tout autre acte nécessaire pour la présenter à ces fins.</p>
+<p><em>Questions d’examen</em></p>
+<ol start="2" type="1">
+<li>Ne constituent pas des violations du droit d’auteur, si elles sont faites par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci dans le <strong>cadre d’un examen ou d’un contrôle</strong> :</li>
+</ol>
+<ol type="a">
+<li>la reproduction, la traduction ou l’exécution en public d’une œuvre ou de tout autre objet du droit d’auteur dans les locaux de l’établissement; b)la communication par télécommunication d’une œuvre ou de tout autre objet du droit d’auteur au public se trouvant dans les locaux de l’établissement.</li>
+</ol>
+<p><em>Actualités et commentaires</em></p>
+<p>29.6 (1) Les actes ci-après ne constituent pas des violations du droit d’auteur s’ils sont accomplis par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci : a) la reproduction à des fins pédagogiques, en un seul exemplaire, d’émissions d’actualités ou de commentaires d’actualités, à l’exclusion des documentaires, lors de leur communication au public par télécommunication en vue de leur présentation aux élèves de l’établissement; b) les exécutions en public de l’exemplaire devant un auditoire formé principalement d’élèves de l’établissement dans les locaux de l’établissement et à des fins pédagogiques. (2) [Abrogé, 2012, ch.&nbsp;20, art. 25]</p>
+<p><em>Reproduction d’émissions</em></p>
+<p>29.7 (1) Sous réserve du paragraphe (2) et de l’article 29.9, les actes ci-après ne constituent pas des violations du droit d’auteur s’ils sont accomplis par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci : a) la reproduction à des fins pédagogiques, en un seul exemplaire, d’une œuvre ou de tout autre objet du droit d’auteur lors de leur communication au public par télécommunication; b) la conservation de l’exemplaire pour une période maximale de trente jours afin d’en déterminer la valeur du point de vue pédagogique.</p>
+</section></section>
+<section>
+<section id="creative-commons" class="title-slide slide level1 center">
+<h1><a href="https://creativecommons.org/cc-licenses/">Creative Commons</a></h1>
+
+</section>
+<section id="creative-commons-cc-by-4.0" class="slide level2">
+<h2>Creative Commons: CC BY 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:45.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.</p></li>
+<li><p><strong>Adapter</strong> — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.</p></li>
+<li><p><strong>Attribution</strong></p></li>
+</ul>
+</section>
+<section id="creative-commons-cc-by-sa-4.0" class="slide level2">
+<h2>Creative Commons: CC BY-SA 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_sa.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:60.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.</p></li>
+<li><p><strong>Adapter</strong> — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.</p></li>
+<li><p><strong>Attribution</strong></p></li>
+<li><p><strong>Partage dans les Mêmes Conditions</strong></p></li>
+</ul>
+</section>
+<section id="creative-commons-cc-by-nd-4.0" class="slide level2">
+<h2>Creative Commons: CC BY-ND 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nd.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:45.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.</p></li>
+<li><p><strong>Attribution</strong></p></li>
+<li><p><strong>Pas de modifications</strong></p></li>
+</ul>
+</section>
+<section id="creative-commons-cc-by-nc-4.0" class="slide level2">
+<h2>Creative Commons: CC BY-NC 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:45.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats</p></li>
+<li><p><strong>Adapter</strong> — remixer, transformer et créer à partir du matériel</p></li>
+<li><p><strong>Attribution</strong></p></li>
+<li><p><strong>Pas d’Utilisation Commerciale</strong></p></li>
+</ul>
+</section>
+<section id="creative-commons-cc-by-nc-sa-4.0" class="slide level2">
+<h2>Creative Commons: CC BY-NC-SA 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc_sa.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats</p></li>
+<li><p><strong>Adapter</strong> — remixer, transformer et créer à partir du matériel</p></li>
+<li><p><strong>Attribution</strong></p></li>
+<li><p><strong>Pas d’Utilisation Commerciale</strong></p></li>
+<li><p><strong>Partage dans les Mêmes Conditions</strong></p></li>
+</ul>
+</section>
+<section id="creative-commons-cc-by-nc-nd-4.0" class="slide level2">
+<h2>Creative Commons: CC BY-NC-ND 4.0</h2>
+
+<img data-src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc_nd.svg" class="quarto-figure quarto-figure-center r-stretch" style="width:55.0%"><ul>
+<li><p><strong>Partager</strong> — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats</p></li>
+<li><p><strong>Attribution</strong></p></li>
+<li><p><strong>Pas d’Utilisation Commerciale</strong></p></li>
+<li><p><strong>Pas de modifications</strong></p></li>
+</ul>
+</section></section>
+<section>
+<section id="ia" class="title-slide slide level1 center">
+<h1>IA</h1>
+
+</section>
+<section id="ia-1" class="slide level2">
+<h2>IA</h2>
+<ul>
+<li>responsabilité</li>
+<li>morale</li>
+</ul>
+<p>ex. L’affaire Orélien</p>
+<p><a href="https://www.lapresse.ca/arts/litterature/2026-09-23/ia-et-litterature/l-affaire-thelyson-orelien-en-six-questions.php">Alexandre Vigneault, <em>L’affaire Thélyson Orélien en six questions</em>, La Presse</a></p>
+
+
+</section></section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'chalkboard': {"buttons":false},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copié");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copié");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

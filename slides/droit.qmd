@@ -1,0 +1,451 @@
+---
+title: "Droits d’auteur et IA"
+subtitle: "FRA3826 | EDN6001"
+date: "11-05-2026"
+date-format: "D MMMM YYYY"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+---
+
+# Plan de la séance
+
+- Protection des données personnelles
+- et pour la recherche?
+- Droits d'auteurs
+- Creative Commons
+- IA
+
+# Protection des données personnelles
+
+## Protection des données personnelles
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwyVVJGAFaMiBxZMBXRUsk2E-aUVgSkZ1DCXxzFj2sw&s){fig-align="center"}
+
+Clara (Claretta) Petacci (avril 1963) oubli
+
+## Protection des données personnelles
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/46/Soraya_Esfandiary-Bakhtiari-045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled){fig-align="center"}
+
+Soraya Esfandiary-Bakhtiary (Corte di Cassazione n. 2129, 27 mai 1975) privacy
+
+## Protection des données personnelles
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Umberto_Veronesi_nel_2012.jpg/500px-Umberto_Veronesi_nel_2012.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail){fig-align="center"}
+
+Umberto Veronesi (Corte di Cassazione n. 3769, 22 juin 1985) identité
+
+## Protection des données personnelles (CANADA)
+
+Au Canada il y a une dualisme entre secteur public et secteur privé
+
+- _Loi sur la protection des renseignements personnels_, L.R.C. (1985), ch. P-21 (_Privacy Act_, R.S.C., 1985, c. P-21) <- secteur public
+
+- _Loi sur la protection des renseignements personnels et les documents électroniques_, L.C. 2000, ch. 5 (_Personal Information Protection and Electronic Documents Act (PIPEDA)_, S.C. 2000, c. 5) <- secteur privé commercial
+
+## Protection des données personnelles (UE)
+
+_Charte des droits fondamentaux de l'Union Européenne_ (2016/C 202/02)
+
+Art. 8 **Protection des données à caractère personnel**
+
+1. Toute personne a droit à la protection des données à caractère personnel la concernant.
+
+2. Ces données doivent être traitées loyalement, à des fins déterminées et sur la base du consentement de la personne concernée ou en vertu d'un autre fondement légitime prévu par la loi. Toute personne a le droit d'accéder aux données collectées la concernant et d'en obtenir la rectification.
+
+3. Le respect de ces règles est soumis au contrôle d'une autorité indépendante.
+
+Règlement (UE) 2016/679 (_General Data Protection Regulation_ / _règlement général sur la protection des données_)
+
+# et pour la recherche?
+
+## et pour la recherche? (Canada - PIPEDA)
+
+_Transation commerciale éventuelle_
+
+7.2 (1) [...] les organisations qui sont parties à une éventuelle transaction commerciale peuvent utiliser et communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si, à la fois :
+
+  a) elles ont conclu un accord aux termes duquel l’organisation recevant des renseignements s’est engagée :
+    [...]
+
+  b) les renseignements sont nécessaires pour décider si la transaction aura lieu et, le cas échéant, pour l’effectuer.
+
+_Transaction commerciale effectuée_
+
+[...] si la transaction commerciale est effectuée, les organisations y étant parties peuvent utiliser et communiquer les renseignements personnels, communiqués en vertu du paragraphe (1), à l’insu de l’intéressé ou sans son consentement dans le cas où :
+
+  a) elles ont conclu un accord aux termes duquel chacune d’entre elles s’est engagée :
+  [...]
+
+  b) les renseignements sont nécessaires à la poursuite de l’entreprise ou des activités faisant l’objet de la transaction; 
+
+  c) dans un délai raisonnable après que la transaction a été effectuée, l’une des parties avise l’intéressé du fait que la transaction a été effectuée et que ses renseignements personnels ont été communiqués en vertu du paragraphe (1).
+
+## et pour la recherche? (Canada - PIPEDA)
+
+_Valeur contraignante des accords_
+
+(3) L’organisation est tenue de se conformer aux modalités de tout accord conclu aux termes des alinéas (1)a) ou (2)a).
+  
+_Exception_
+
+(4) Les paragraphes (1) et (2) ne s’appliquent pas à l’égard de la transaction commerciale dont l’objectif premier ou le résultat principal est l’achat, la vente ou toute autre forme d’acquisition ou de disposition de renseignements personnels, ou leur location.
+
+_Relation d’emploi_
+
+[...] une entreprise fédérale peut recueillir, utiliser ou communiquer des renseignements personnels sans le consentement de l’intéressé si cela est nécessaire pour établir ou gérer la relation d’emploi entre elle et lui, ou pour y mettre fin, et si elle a au préalable informé l’intéressé [...]
+
+## et pour la recherche? (Canada - Privacy Act)
+
+_Communication des renseignements personnels_
+
+8 (1) Les renseignements personnels qui relèvent d’une institution fédérale ne peuvent être communiqués, à défaut du consentement de l’individu qu’ils concernent, que conformément au présent article.
+  
+_Cas d'autorisation_
+  
+(2) Sous réserve d’autres lois fédérales, la communication des renseignements personnels qui relèvent d’une institution fédérale est autorisée dans les cas suivants :
+[...]
+
+  i) communication à Bibliothèque et Archives du Canada pour dépôt;
+  j) communication à toute personne ou à tout organisme, pour des travaux de recherche ou de statistique, pourvu que soient réalisées les deux conditions suivantes [...]
+
+_Communication par Bibliothèque et Archives du Canada_
+  
+(3) Sous réserve des autres lois fédérales, les renseignements personnels qui relèvent de Bibliothèque et Archives du Canada et qui y ont été versés pour dépôt ou à des fins historiques par une institution fédérale peuvent être communiqués conformément aux règlements pour des travaux de recherche ou de statistique.
+
+## et pour la recherche? (UE)
+
+- GDPR
+- Data Governance Act 
+- Digital Services Act (règlement sur les services numériques)
+
+## et pour la recherche? (UE - GDPR)
+
+- **Art. 5(1)(b)**, _Principes relatifs au traitement des données à caractère personnel_
+
+1.   Les données à caractère personnel doivent être: [...]
+
+  b) collectées pour des **finalités déterminées, explicites et légitimes**, et ne pas être traitées ultérieurement d'une manière incompatible avec ces finalités; **le traitement ultérieur à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques n'est pas considéré**, conformément à l'article 89, paragraphe 1, comme incompatible avec les finalités initiales (limitation des finalités);
+
+- **Art. 9(2)(j)**, _Traitement portant sur des catégories particulières de données à caractère personnel_
+
+1. Le traitement des données à caractère personnel qui révèle l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que le traitement des données génétiques, des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique sont interdits.
+
+2. Le paragraphe 1 ne s'applique pas si l'une des conditions suivantes est remplie: [...]
+
+  j) le traitement est nécessaire à des **fins archivistiques dans l'intérêt public**, à des fins de **recherche scientifique ou historique** ou à des fins **statistiques**, conformément à l'article 89, paragraphe 1, sur la base du droit de l'Union ou du droit d'un État membre qui doit être proportionné à l'objectif poursuivi, respecter l'**essence du droit à la protection des données et prévoir des mesures appropriées et spécifiques pour la sauvegarde des droits fondamentaux et des intérêts de la personne concernée**.
+
+- **Art. 17(3)(d)**, _Droit à l'effacement («droit à l'oubli»)_
+
+1. La personne concernée a le droit d'obtenir du responsable du traitement l'effacement, dans les meilleurs délais, de données à caractère personnel la concernant et le responsable du traitement a l'**obligation d'effacer ces données à caractère personnel** dans les meilleurs délais, lorsque l'un des motifs suivants s'applique:
+2. Lorsqu'il a rendu publiques les données à caractère personnel et qu'il est tenu de les effacer en vertu du paragraphe 1, le responsable du traitement, compte tenu des technologies disponibles et des coûts de mise en œuvre, prend des mesures raisonnables, y compris d'ordre technique, pour informer les responsables du traitement qui traitent ces données à caractère personnel que la personne concernée a demandé l'effacement par ces responsables du traitement de tout lien vers ces données à caractère personnel, ou de toute copie ou reproduction de celles-ci.
+3.   Les paragraphes 1 et 2 ne s'appliquent pas dans la mesure où ce traitement est nécessaire:
+
+  a) à l'exercice du droit à la liberté d'expression et d'information;
+  b) pour respecter une obligation légale qui requiert le traitement prévue par le droit de l'Union ou par le droit de l'État membre auquel le responsable du traitement est soumis, ou pour exécuter une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement;
+  c) pour des motifs d'intérêt public dans le domaine de la santé publique, conformément à l'article 9, paragraphe 2, points h) et i), ainsi qu'à l'article 9, paragraphe 3;
+  d) à des **fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques** conformément à l'article 89, paragraphe 1, dans la mesure où le droit visé au paragraphe 1 est susceptible de rendre impossible ou de compromettre gravement la réalisation des objectifs dudit traitement; ou
+  e) à la constatation, à l'exercice ou à la défense de droits en justice.
+
+## et pour la recherche? (UE - GDPR)
+
+- **Art. 21(6)**, _Droit d'opposition_
+
+6. Lorsque des données à caractère personnel sont traitées à des fins de recherche scientifique ou historique ou à des fins statistiques en application de l'article 89, paragraphe 1, la personne concernée a le **droit de s'opposer**, pour des raisons tenant à sa situation particulière, au traitement de données à caractère personnel la concernant, **à moins que le traitement ne soit nécessaire à l'exécution d'une mission d'intérêt public**.
+
+- **Art. 89**, _Garanties et dérogations applicables au traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques_
+
+1. Le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique, ou à des fins statistiques est soumis, conformément au présent règlement, à des garanties appropriées pour les droits et libertés de la personne concernée. Ces garanties garantissent la mise en place de mesures techniques et organisationnelles, en particulier pour assurer le respect du principe de minimisation des données. Ces mesures peuvent comprendre la **pseudonymisation**, dans la mesure où ces finalités peuvent être atteintes de cette manière. Chaque fois que ces finalités peuvent être atteintes par un traitement ultérieur ne permettant pas ou plus l'identification des personnes concernées, il convient de procéder de cette manière.
+2. Lorsque des données à caractère personnel sont traitées à des fins de recherche scientifique ou historique ou à des fins statistiques, le droit de l'Union ou le droit d'un État membre peut prévoir des dérogations aux droits visés aux articles 15, 16, 18 et 21, sous réserve des conditions et des garanties visées au paragraphe 1 du présent article, dans la mesure où ces droits risqueraient de rendre impossible ou d'entraver sérieusement la réalisation des finalités spécifiques et où de telles dérogations sont nécessaires pour atteindre ces finalités.
+3. Lorsque des données à caractère personnel sont traitées à des fins archivistiques dans l'intérêt public, le droit de l'Union ou le droit d'un État membre peut prévoir des dérogations aux droits visés aux articles 15, 16, 18, 19, 20 et 21, sous réserve des conditions et des garanties visées au paragraphe 1 du présent article, dans la mesure où ces droits risqueraient de rendre impossible ou d'entraver sérieusement la réalisation des finalités spécifiques et où de telles dérogations sont nécessaires pour atteindre ces finalités.
+4. Lorsqu'un traitement visé aux paragraphes 2 et 3 sert dans le même temps une autre finalité, les dérogations sont applicables au seul traitement effectué aux fins visées auxdits paragraphes.
+
+## et pour la recherche? (UE - Data Governance Act)
+
+_Réutilisation de certaines catégories de données protégées détenues par des organismes du secteur public_
+
+- Art. 3, _Catégories de données_
+
+1. Le présent chapitre s’applique aux données détenues par des organismes du secteur public, qui sont protégées pour des motifs:
+
+  a) de confidentialité commerciale, y compris le secret d’affaires, le secret professionnel et le secret d’entreprise;
+  b) de secret statistique;
+  c) de protection des droits de propriété intellectuelle de tiers; ou
+  d) de protection des données à caractère personnel, dans la mesure où de telles données ne relèvent pas du champ d’application de la directive (UE) 2019/1024.
+
+2. Le présent chapitre ne s’applique pas:[...]
+
+  c) aux données détenues par des établissements culturels et des établissements d’enseignement;[...]
+
+- Art. 4, _Interdiction des accords d’exclusivité_
+
+4. La durée du droit d’exclusivité pour la réutilisation des données ne dépasse pas **douze mois**. Lorsqu’un contrat est conclu, la durée du contrat est la même que la durée du droit d’exclusivité.
+
+- Art. 5, _Conditions applicables à la réutilisation_
+
+3.   Les organismes du secteur public veillent à ce que, conformément au droit de l’Union et au droit national, le caractère protégé des données soit préservé. Ils peuvent prévoir les exigences suivantes:
+
+  a) l’accès aux données à des fins de réutilisation n’est octroyé que lorsque l’organisme du secteur public ou l’organisme compétent, à la suite d’une demande de réutilisation, a fait en sorte que les données:
+
+    i) aient été anonymisées dans le cas des données à caractère personnel; et
+
+    ii) aient été modifiées, agrégées ou traitées selon toute autre méthode de contrôle de la divulgation dans le cas des informations commerciales confidentielles, y compris des secrets d’affaires et des contenus protégés par des droits de propriété intellectuelle;
+
+  b) l’accès aux données et leur réutilisation se font à distance dans un environnement de traitement sécurisé qui est fourni ou contrôlé par l’organisme du secteur public;
+
+  c) l’accès aux données et leur réutilisation se font dans les locaux où se trouve l’environnement de traitement sécurisé, dans le respect de normes de sécurité élevées, à condition que l’accès à distance ne puisse être autorisé sans qu’il soit porté atteinte aux droits et aux intérêts des tiers.
+
+- Art. 6, _Redevances_
+
+2. Les redevances perçues en vertu du paragraphe 1 sont **transparentes, non discriminatoires, proportionnées et objectivement justifiées et ne restreignent pas la concurrence**.
+
+3. Les organismes du secteur public font en sorte que les redevances puissent aussi être acquittées en ligne au moyen de services de paiement transfrontaliers largement disponibles, sans discrimination fondée sur le lieu d’établissement du prestataire de services de paiement, le lieu d’émission de l’instrument de paiement ou la localisation du compte de paiement dans l’Union.
+
+4. Lorsque les organismes du **secteur public** perçoivent des redevances, ils prennent des mesures pour **inciter à la réutilisation** des catégories de données visées à l’article 3, paragraphe 1, à des **fins non commerciales**, par exemple à des fins de **recherche scientifique, ainsi que par les PME et les jeunes pousses conformément aux règles en matière d’aides d’État**. À cet égard, les organismes du secteur public peuvent également mettre ces données à disposition moyennant une **redevance réduite ou à titre gratuit, notamment pour les PME, les jeunes pousses, les organisations de la société civile et les établissements d’enseignement**. À cette fin, les organismes du secteur public peuvent établir une liste des catégories de réutilisateurs pour lesquelles les données à des fins de réutilisation sont mises à disposition moyennant une redevance réduite ou à titre gratuit. Cette liste, ainsi que les critères utilisés pour l’établir, sont rendus publics.
+
+5. Les redevances sont calculées sur la base des coûts liés à la conduite de la procédure de demande de réutilisation des catégories de données visées à l’article 3, paragraphe 1, et limitées aux coûts nécessaires relatifs:
+
+  a) à la **reproduction**, à la **fourniture** et à la **diffusion** des données;
+  b) à l’**acquisition des droits**;
+  c) à l’**anonymisation** ou à d’autres formes de **préparation** des données à caractère personnel et des données commerciales confidentielles conformément à l’article 5, paragraphe 3;
+  d) à la **maintenance** de l’environnement de traitement sécurisé;
+  e) à l’**acquisition du droit** d’autoriser la réutilisation conformément au présent chapitre par des tiers extérieurs au secteur public; et
+  f) à l’**assistance** fournie aux réutilisateurs pour obtenir le consentement des personnes concernées et l’autorisation des détenteurs de données dont les droits et intérêts peuvent être affectés par cette réutilisation.
+
+6. Les critères et la méthode de calcul des redevances sont arrêtés par les États membres et publiés. L’organisme du secteur public publie une description des principales catégories de coûts et des règles utilisées pour la répartition des coûts.
+
+- Art. 7, _Organismes compétents_
+
+1. En vue d’effectuer les tâches visées au présent article, **chaque État membre désigne un ou plusieurs organismes compétents, qui peuvent être compétents pour un secteur particulier, pour aider les organismes du secteur public qui octroient ou refusent l’accès aux fins de la réutilisation des catégories de données** visées à l’article 3, paragraphe 1. Les États membres peuvent soit établir un ou plusieurs nouveaux organismes compétents, soit s’appuyer sur des organismes du secteur public ou sur des services internes d’organismes du secteur public existants qui remplissent les conditions fixées par le présent règlement.
+
+2. Les organismes compétents peuvent également être **habilités à octroyer l’accès aux fins de la réutilisation des catégories de données** visées à l’article 3, paragraphe 1, en application des dispositions du droit de l’Union ou du droit national qui prévoient l’octroi d’un tel accès. Lorsqu’ils octroient ou refusent l’accès à des fins de réutilisation, les articles 4, 5, 6 et 9 s’appliquent à ces organismes compétents.
+
+3. Les organismes compétents **disposent des ressources juridiques, financières, techniques et humaines** suffisantes pour mener à bien les tâches qui leur sont assignées, y compris des connaissances techniques nécessaires pour être en mesure de respecter le droit de l’Union ou le droit national applicable en ce qui concerne les régimes d’accès pour les catégories de données visées à l’article 3, paragraphe 1.
+
+4. L’assistance prévue au paragraphe 1 consiste notamment, le cas échéant: [...]
+
+5. Chaque État membre **notifie à la Commission l’identité des organismes compétents désignés** en application du paragraphe 1 au plus tard le 24 septembre 2023. Chaque État membre notifie également à la Commission toute modification ultérieure concernant l’identité de ces organismes compétents.
+
+- Art. 8, _Points d’information unique_
+
+4. La Commission établit un point d’accès unique européen mettant à disposition un registre électronique consultable des données disponibles au niveau des points d’information uniques nationaux ainsi que d’autres informations sur la manière de demander des données par l’intermédiaire de ces points d’information uniques nationaux.
+
+## et pour la recherche? (UE - Data Governance Act)
+
+_Altruisme en matière de données_
+
+- Art. 16, _Dispositions nationales relatives à l’altruisme en matière de données_
+
+Les États membres peuvent avoir mis en place des **dispositions organisationnelles ou techniques, ou les deux, pour faciliter l’altruisme en matière de données**. À cette fin, les États membres peuvent **élaborer des politiques nationales** dans le domaine de l’altruisme en matière de données. Ces politiques nationales peuvent notamment aider les personnes concernées à mettre à disposition volontairement, à des fins d’altruisme en matière de données, des données à caractère personnel les concernant détenues par des organismes du secteur public, et déterminer les informations nécessaires qui doivent être fournies aux personnes concernées en ce qui concerne la réutilisation de leurs données dans l’intérêt général.
+
+Si un État membre élabore de telles politiques nationales, il le notifie à la Commission.
+
+- Art. 18, _Conditions générales d’enregistrement_
+
+Pour être admise à l’enregistrement dans un registre public national des organisations altruistes en matière de données reconnues, une entité doit:
+
+  a) **mener des activités altruistes en matière de données**;
+  b) **être une personne morale** constituée en vertu du droit national pour poursuivre des objectifs d’intérêt général prévus dans le droit national, le cas échéant;
+  c) exercer ses activités dans un **but non lucratif et être juridiquement indépendante de toute entité** exerçant des activités dans un **but lucratif**;
+  d) **mener ses activités altruistes en matière de données par l’intermédiaire d’une structure** qui, sur le plan fonctionnel, est distincte de ses autres activités;
+  e) se conformer au recueil de règles visé à l’article 22, paragraphe 1, au plus tard dix-huit mois après la date d’entrée en vigueur des actes délégués visés audit paragraphe.
+
+- Art. 19, _Enregistrement d’organisations altruistes en matière de données reconnues_
+
+1. Une entité qui satisfait aux exigences énoncées à l’article 18 peut présenter une demande d’enregistrement dans le registre public national des organisations altruistes en matière de données reconnues dans l’État membre dans lequel elle est établie.
+
+- Art. 20, _Obligations de transparence_
+
+1. L’organisation altruiste en matière de données reconnue tient des registres complets et exacts concernant:
+
+a) **toutes les personnes physiques ou morales** qui se sont vu offrir la possibilité de traiter des données détenues par cette organisation altruiste en matière de données reconnue, **ainsi que leurs coordonnées**;
+b) **la date ou la durée** du traitement des données à caractère personnel ou de l’utilisation des données à caractère non personnel;
+c) **la finalité** du traitement, telle qu’elle a été déclarée par la personne physique ou morale qui s’est vu offrir la possibilité d’effectuer ce traitement;
+d) **les éventuelles redevances** acquittées par les personnes physiques ou morales traitant les données.
+
+2. L’organisation altruiste en matière de données reconnue établit et transmet à l’autorité compétente pour l’enregistrement des organisations altruistes en matière de données concernée un **rapport annuel d’activité** [...]
+
+- Art. 25, _Formulaire européen de consentement à l’altruisme en matière de données_
+
+## et pour la recherche? (UE - Digital Services Act)
+
+- Art. 40, _Accès aux données et contrôle des données_
+
+1. Les fournisseurs de **très grandes plateformes en ligne** ou de **très grands moteurs de recherche** en ligne donnent au coordinateur pour les services numériques de l’État membre d’établissement ou à la Commission, à leur demande motivée et dans un **délai raisonnable spécifié dans cette demande, l’accès aux données nécessaires pour contrôler et évaluer le respect du présent règlement**.
+2. Les coordinateurs pour les services numériques et la Commission n’utilisent les données auxquelles ils ont eu accès conformément au paragraphe 1 qu’à des fins de contrôle et d’évaluation du respect du présent règlement et tiennent dûment compte des droits et intérêts des fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne et des destinataires du service concerné, y compris la protection des données à caractère personnel, la protection des informations confidentielles, en particulier les secrets d’affaires, et le maintien de la sécurité de leur service.
+3. Aux fins du paragraphe 1, les fournisseurs de très grandes plateformes en ligne ou de très grands moteurs de recherche en ligne expliquent, à la demande du coordinateur pour les services numériques de l’État membre d’établissement ou de la Commission, **la conception, la logique, le fonctionnement et la procédure de test de leurs systèmes algorithmiques, y compris leurs systèmes de recommandation**.
+8. Sur demande dûment motivée de chercheurs, le coordinateur pour les services numériques de l’État membre d’établissement accorde auxdits chercheurs le statut de chercheurs agréés pour la recherche spécifique visée dans la demande et adresse une demande motivée d’accès aux données au fournisseur de la très grande plateforme en ligne ou du très grand moteur de recherche en ligne conformément au paragraphe 4, lorsque les chercheurs démontrent qu’ils remplissent l’ensemble des conditions suivantes:
+  a) ils sont **affiliés à un organisme de recherche** tel qu’il est défini à l’article 2, point 1), de la directive (UE) 2019/790;
+  b) ils sont **indépendants de tous intérêts commerciaux**;
+  c) **leur demande indique la source de financement des recherches**;
+  d) ils sont à même de **respecter les exigences spécifiques en matière de sécurité et de confidentialité des données** correspondant à chaque demande ainsi que de protéger les données à caractère personnel, et ils décrivent dans leur demande les mesures techniques et organisationnelles appropriées qu’ils ont mis en place à cet effet;
+  e) dans leur demande, ils démontrent que leur **accès aux données et les périodes d’accès demandées sont nécessaires et proportionnés aux fins poursuivies par leur recherche et que les résultats escomptés de cette recherche** contribueront aux fins énoncées au paragraphe 4;
+  f) les activités de recherche prévues sont menées aux fins énoncées au paragraphe 4;
+  g) ils se sont **engagés à mettre gratuitement à la disposition du public les résultats de leurs recherches dans un délai raisonnable après l’achèvement de celles-ci, sous réserve des droits et des intérêts des destinataires du service concerné, conformément au règlement (UE) 2016/679.**
+
+# Droits d'auteurs
+
+## Droits d'auteurs
+
+Les droits d'auteurs ne rentrent pas sous une législation internationale ou transnationale, mais il y a des spécificités nationales. 
+
+Au Canada la _Loi sur les droits d'auteur_, aussi _Copyright Act_, entre en vigueur en 1985, dernière mise à jour le 30 septembre 2026 (L.R.C. (1985), ch. C-42).
+
+## Droits d'auteurs: _Loi sur les droits d'auteur_
+
+- Définitions et dispositions interprétatives
+
+1. Droit d'auteur et droits moraux sur les oeuvres
+2. Droit d’auteur sur les prestations, enregistrements sonores et signaux de communication et droits moraux sur les prestations
+3. Violation du droit d’auteur et des droits moraux, et cas d’exception
+4. Recours
+5. Administration
+6. Divers
+7. Commission du droit d’auteur
+8. Gestion collective du droit d’auteur
+9. Demandes particulières à la Commission
+10. Cope pour usage privé
+11. Dispositions générales
+
+## Droits d'auteurs: _Loi sur les droits d'auteur_
+
+_Exceptions_ 
+
+_Utilisation équitable_
+  
+_Étude privée, recherche, etc._
+
+Art. 29 L’utilisation équitable d’une œuvre ou de tout autre objet du droit d’auteur aux fins d’étude privée, de recherche, d’éducation, de parodie ou de satire ne constitue pas une violation du droit d’auteur.
+
+_Critique et compte rendu_
+
+29.1 L’utilisation équitable d’une œuvre ou de tout autre objet du droit d’auteur **aux fins de critique ou de compte rendu** ne constitue pas une violation du droit d’auteur à la condition que soient mentionnés : [...]
+
+_Communication des nouvelles_
+
+29.2 L’**utilisation équitable** d’une œuvre ou de tout autre objet du droit d’auteur pour la communication des nouvelles ne constitue pas une violation du droit d’auteur à la condition que soient mentionnés : [...]
+
+_Contenu non commercial généré par l’utilisateur_
+
+29.21 (1) Ne constitue pas une violation du droit d’auteur le fait, **pour une personne physique, d’utiliser une œuvre ou tout autre objet du droit d’auteur ou une copie de ceux-ci** — déjà publiés ou mis à la disposition du public — **pour créer une autre œuvre ou un autre objet du droit d’auteur protégés** et, pour cette personne de même que, si elle les y autorise, celles qui résident habituellement avec elle, d’utiliser la nouvelle œuvre ou le nouvel objet ou d’autoriser un intermédiaire à le diffuser, si les conditions suivantes sont réunies : [...]
+
+_Reproduction à des fins privées_
+
+29.22 (1) Ne constitue pas une violation du droit d’auteur le fait, pour une personne physique, **de reproduire l’intégralité ou toute partie importante d’une œuvre ou d’un autre objet du droit d’auteur si** les conditions suivantes sont réunies :
+  a) la **copie** de l’œuvre ou de l’autre objet du droit d’auteur reproduite n’est **pas contrefaite**;
+  b) la personne a **obtenu la copie légalement**, autrement que par emprunt ou location, et soit est propriétaire du support ou de l’appareil sur lequel elle est reproduite, soit est autorisée à l’utiliser;
+  c) elle ne contourne pas ni ne fait contourner une mesure technique de protection, au sens de ces termes à l’article 41, pour faire la reproduction;
+  d) elle **ne donne la reproduction à personne**;
+  e) elle **n’utilise la reproduction qu’à des fins privées**.
+
+_Copies de sauvegarde_
+  
+29.24 (1) Ne constitue pas une violation du droit d’auteur le fait, pour la personne qui est **propriétaire de la copie** (au présent article appelée copie originale) d’une œuvre ou de tout autre objet du droit d’auteur, ou qui est titulaire d’une licence en autorisant l’utilisation, de la reproduire si les conditions ci-après sont réunies :
+  a) la **reproduction** est effectuée **exclusivement à des fins de sauvegarde au cas où il serait impossible d’utiliser la copie originale**, notamment en raison de **perte ou** de **dommage**;
+  b) la **copie originale n’est pas contrefaite**;
+  c) la personne **ne contourne pas** ni ne fait contourner une **mesure technique de protection**, au sens de ces termes à l’article 41, pour faire la reproduction;
+  d) elle **ne donne aucune reproduction à personne**.
+
+_Établissements d’enseignement_
+
+_Reproduction à des fins pédagogiques_
+
+29.4 (1) Ne constitue **pas une violation du droit d’auteur le fait, pour un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci**, de reproduire une œuvre pour la présenter visuellement à des fins pédagogiques et dans les locaux de l’établissement et d’accomplir tout autre acte nécessaire pour la présenter à ces fins.
+
+_Questions d’examen_
+  
+(2) Ne constituent pas des violations du droit d’auteur, si elles sont faites par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci dans le **cadre d’un examen ou d’un contrôle** :
+  a) la reproduction, la traduction ou l’exécution en public d’une œuvre ou de tout autre objet du droit d’auteur dans les locaux de l’établissement;
+  b)la communication par télécommunication d’une œuvre ou de tout autre objet du droit d’auteur au public se trouvant dans les locaux de l’établissement.
+
+_Actualités et commentaires_
+
+29.6 (1) Les actes ci-après ne constituent pas des violations du droit d’auteur s’ils sont accomplis par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci :
+  a) la reproduction à des fins pédagogiques, en un seul exemplaire, d’émissions d’actualités ou de commentaires d’actualités, à l’exclusion des documentaires, lors de leur communication au public par télécommunication en vue de leur présentation aux élèves de l’établissement;
+  b) les exécutions en public de l’exemplaire devant un auditoire formé principalement d’élèves de l’établissement dans les locaux de l’établissement et à des fins pédagogiques.
+  (2) [Abrogé, 2012, ch. 20, art. 25]
+
+_Reproduction d’émissions_
+
+29.7 (1) Sous réserve du paragraphe (2) et de l’article 29.9, les actes ci-après ne constituent pas des violations du droit d’auteur s’ils sont accomplis par un établissement d’enseignement ou une personne agissant sous l’autorité de celui-ci :
+  a) la reproduction à des fins pédagogiques, en un seul exemplaire, d’une œuvre ou de tout autre objet du droit d’auteur lors de leur communication au public par télécommunication;
+  b) la conservation de l’exemplaire pour une période maximale de trente jours afin d’en déterminer la valeur du point de vue pédagogique.
+
+# [Creative Commons](https://creativecommons.org/cc-licenses/)
+
+## Creative Commons: CC BY 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by.svg){width="45%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.
+- **Adapter** — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
+
+- **Attribution**
+
+## Creative Commons: CC BY-SA 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_sa.svg){width="60%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.
+- **Adapter** — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
+
+- **Attribution**
+- **Partage dans les Mêmes Conditions**
+
+## Creative Commons: CC BY-ND 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nd.svg){width="45%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.
+
+- **Attribution**
+- **Pas de modifications**
+
+## Creative Commons: CC BY-NC 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc.svg){width="45%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+- **Adapter** — remixer, transformer et créer à partir du matériel
+
+- **Attribution**
+- **Pas d’Utilisation Commerciale**
+
+## Creative Commons: CC BY-NC-SA 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc_sa.svg){width="80%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+- **Adapter** — remixer, transformer et créer à partir du matériel
+
+- **Attribution**
+- **Pas d’Utilisation Commerciale**
+- **Partage dans les Mêmes Conditions**
+
+## Creative Commons: CC BY-NC-ND 4.0
+
+![](https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/license_badges/big/by_nc_nd.svg){width="55%" fig-align="center"}
+
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+
+- **Attribution**
+- **Pas d’Utilisation Commerciale**
+- **Pas de modifications**
+
+# IA
+
+## IA
+
+- responsabilité
+- morale
+
+ex. L’affaire Orélien
+
+[Alexandre Vigneault, _L’affaire Thélyson Orélien en six questions_, La Presse](https://www.lapresse.ca/arts/litterature/2026-09-23/ia-et-litterature/l-affaire-thelyson-orelien-en-six-questions.php)

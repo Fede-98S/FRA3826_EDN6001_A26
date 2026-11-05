@@ -185,7 +185,7 @@ La transformation est centrale, mais comment?
   + pas (seulement) choix idéologique ou commerciale
   + la recherche publique doit demeurer publique
 - principes FAIR:
-  + _Findable_: facile a trouver (ex. DOI)
+  + _Findable_: facile à trouver (ex. DOI)
   + _Accessible_: à travers des protocoles standards
   + _Interoperable_: formats standards (ex. XML-TEI, JSON-LD)
   + _Re-usable_: peut-on l'utiliser? si oui, comment? (licences CC)
@@ -196,7 +196,7 @@ La transformation est centrale, mais comment?
 
 - Durabilité: obsolescence des bases de données complexes et disparition éventuelle des serveurs
 - _Minimal Computing_:
-  + sites statiquesou modèles TEI-Publisher
+  + sites statiques ou modèles TEI-Publisher
   + infrastructures publiques Huma-Num, HAL, NAKALA, Zenodo, OpenEdition, ...
 
 # Édition savante et revues
@@ -211,7 +211,7 @@ La transformation est centrale, mais comment?
 
 ## Édition savante et revues
 
-| Type de revue | caractèristique |
+| Type de revue | caractéristique |
 |-----------|-----------|
 | Imprimé | coûts, accessibilité variable |
 | Numérique | payant, homothétique ou non, pas accessible |

@@ -32,8 +32,13 @@ title: "Séances"
 
 <iframe src="slides/formats.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 <figcaption style="text-align: center;"><a href="slides/formats.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
-<!--
-## Écriture collaborative et science ouverte (15/10)
 
-<iframe src="slides/intro.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
-<figcaption style="text-align: center;"><a href="slides/intro.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>-->
+## Écriture collaborative, science ouverte, édition savante et revues (29/10)
+
+<iframe src="slides/chaines.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
+<figcaption style="text-align: center;"><a href="slides/chaines.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+## Droits d’auteur et IA (05/11)
+
+<iframe src="slides/droit.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
+<figcaption style="text-align: center;"><a href="slides/droit.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
