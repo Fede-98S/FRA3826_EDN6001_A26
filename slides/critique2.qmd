@@ -1,0 +1,131 @@
+---
+title: "Philologie numérique : Introduction et étude de cas"
+subtitle: "FRA3826 | EDN6001"
+date: "11-25-2026"
+date-format: "D MMMM YYYY"
+lang: fr
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    scrollable: true
+    theme: serif
+                
+---
+
+# Cas d'étude
+
+- [Vincent van Gogh, _The Letters_](https://vangoghletters.org/)
+- [Juliette Drouet, _Lettres à Victor Hugo_](https://juliettedrouet.univ-rouen.fr/actualites)
+- [Sylloge Parisina](https://purh.univ-rouen.fr/livres-numeriques/collections/ario/sylloge-parisina/)
+- [eBalzac](https://www.ebalzac.com/)
+- [Les Pensées de Blaise Pascal](https://www.penseesdepascal.fr/)
+- Astrée
+- [Il _Barone di Nicastro_ Digitale](https://ai4ch-uniud.github.io/baronenicastrodigital/)
+- Voir plus
+
+# [Vincent van Gogh, _The Letters_](https://vangoghletters.org/)
+
+## Vincent van Gogh, _The Letters_
+
+<iframe src="https://vangoghletters.org/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://vangoghletters.org/" target="_blank" >Ouvrir la page</a></figcaption>
+
+
+[≈The Mondrian Papers](https://mondrianpapers.org/)
+
+## Vincent van Gogh, _The Letters_
+
+<iframe src="https://vangoghletters.org/detail/urn:mace:huc.knaw.nl:vangogh:let668?query=fullText%3D%26terms%5BartworksEN%5D%5B%5D%3DSunflowers%2520in%2520a%2520vase%2520%2528F%2520454%2520%252F%2520JH%25201562%2529" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://vangoghletters.org/detail/urn:mace:huc.knaw.nl:vangogh:let668?query=fullText%3D%26terms%5BartworksEN%5D%5B%5D%3DSunflowers%2520in%2520a%2520vase%2520%2528F%2520454%2520%252F%2520JH%25201562%2529" target="_blank" >Ouvrir la page</a></figcaption>
+
+## Vincent van Gogh, _The Letters_
+
+<iframe src="https://vangoghletters.org/detail/urn:mace:huc.knaw.nl:vangogh:let586?query=fullText%3D%26terms%5Bcorrespondent%5D%5B%5D%3DPaul%2520Gauguin" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://vangoghletters.org/detail/urn:mace:huc.knaw.nl:vangogh:let586?query=fullText%3D%26terms%5Bcorrespondent%5D%5B%5D%3DPaul%2520Gauguin" target="_blank" >Ouvrir la page</a></figcaption>
+
+# Juliette Drouet, _Lettres à Victor Hugo_
+
+## Juliette Drouet, _Lettres à Victor Hugo_
+
+<iframe src="https://juliettedrouet.univ-rouen.fr/actualites" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://juliettedrouet.univ-rouen.fr/actualites" target="_blank" >Ouvrir la page</a></figcaption>
+
+# _Sylloge Parisina_
+
+## _Sylloge Parisina_
+
+<iframe src="https://purh.univ-rouen.fr/livres-numeriques/collections/ario/sylloge-parisina/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://purh.univ-rouen.fr/livres-numeriques/collections/ario/sylloge-parisina/" target="_blank" >Ouvrir la page</a></figcaption>
+
+# _eBalzac_
+
+## _eBalzac_
+
+<iframe src="https://www.ebalzac.com/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://www.ebalzac.com/" target="_blank" >Ouvrir la page</a></figcaption>
+
+# _Les Pensées de Blaise Pascal_
+
+## _Les Pensées de Blaise Pascal_
+
+<iframe src="https://www.penseesdepascal.fr/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://www.penseesdepascal.fr/" target="_blank" >Ouvrir la page</a></figcaption>
+
+# _Astrée_ d'Honoré d'Urfé
+
+## _Astrée_ d'Honoré d'Urfé
+<br/>
+<br/>
+<br/>
+
+- [_Le Règne d'Astrée_](https://astree.huma-num.fr/)
+<br/>
+<br/>
+<br/>
+
+- [_Les Deux Visages de l'Astrée_](https://astree.univ-rouen.fr/_analyse/accueil.html)
+
+## _Le Règne d'Astrée_
+
+<iframe src="https://astree.huma-num.fr/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://astree.huma-num.fr/" target="_blank" >Ouvrir la page</a></figcaption>
+
+## _Les Deux Visages de l'Astrée_
+
+<iframe src="https://astree.univ-rouen.fr/_analyse/accueil.html" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://astree.univ-rouen.fr/_analyse/accueil.html" target="_blank" >Ouvrir la page</a></figcaption>
+
+# Il _Barone di Nicastro_ Digitale
+
+## Il _Barone di Nicastro_ Digitale
+
+<iframe src="https://ai4ch-uniud.github.io/baronenicastrodigital/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://ai4ch-uniud.github.io/baronenicastrodigital/" target="_blank" >Ouvrir la page</a></figcaption>
+
+# Voir plus
+
+## Voir plus: Catalogue Digital Editions
+
+<iframe src="https://dig-ed-cat.acdh.oeaw.ac.at/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://dig-ed-cat.acdh.oeaw.ac.at/" target="_blank" >Ouvrir la page</a></figcaption>
+
+## Voir plus: A Catalog of Digital Scholarly Editions
+
+<iframe src="https://www.digitale-edition.de/" title="description_of_embedded_content" style="display: inline; height:550px; width: 1350px;">
+</iframe>
+<figcaption style="text-align: center;"><a href="https://www.digitale-edition.de/" target="_blank" >Ouvrir la page</a></figcaption>

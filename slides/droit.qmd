@@ -3,6 +3,7 @@ title: "Droits d’auteur et IA"
 subtitle: "FRA3826 | EDN6001"
 date: "11-05-2026"
 date-format: "D MMMM YYYY"
+lang: fr
 format:
   revealjs: 
     slide-number: true

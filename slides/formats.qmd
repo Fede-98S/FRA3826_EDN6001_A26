@@ -3,12 +3,7 @@ title: "Formats"
 subtitle: "FRA3826 | EDN6001"
 date: "10-08-2026"
 date-format: "D MMMM YYYY"
-author: 
-  - name: Federico Siragusa
-    orcid: 0009-0002-8842-7043
-    email: federico.siragusa@univ-rouen.fr | federico.siragusa@umontreal.ca
-    affiliations:
-      - name: Université Rouen Normandie | Université de Montréal
+lang: fr
 format:
   revealjs: 
     slide-number: true

@@ -3,6 +3,7 @@ title: "Qu’est-ce que c’est l’édition ?"
 subtitle: "FRA3826 | EDN6001"
 date: "09-10-2026"
 date-format: "D MMMM YYYY"
+lang: fr
 format:
   revealjs: 
     slide-number: true

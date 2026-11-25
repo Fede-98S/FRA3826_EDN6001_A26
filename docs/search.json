@@ -742,6 +742,132 @@
     "text": "IA\n\nresponsabilité\nmorale\n\nex. L’affaire Orélien\nAlexandre Vigneault, L’affaire Thélyson Orélien en six questions, La Presse"
   },
   {
+    "objectID": "slides/critique1.html#plan-de-la-séance",
+    "href": "slides/critique1.html#plan-de-la-séance",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Plan de la séance",
+    "text": "Plan de la séance\n\nDéfinition\nTypologies d’édition\nNotions de base\nNumérique"
+  },
+  {
+    "objectID": "slides/critique1.html#définition",
+    "href": "slides/critique1.html#définition",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Définition",
+    "text": "Définition\nPhilologie\nPhilos: (gr. φίλος) aimé, cher; agréable, qui plaît; qui aime; (rare et en poésie) aimant, bienveillant.\nLogos: (gr. λόγος) parole; une parole, un mot; une proposition; mention; bruit qui court; entretien; récit; composition en prose; belles-lettres, sciences, études; sujet d’entretien, d’étude ou de discussion; raison, faculté de raisonner; raison, bon sens; raison intime; exercice de la raison; compte-rendu, justification, explication; opinion au sujet d’une chose à venir, présomption, attente; post. religieux et philosophique comme la raison divine ou le Verbe divin"
+  },
+  {
+    "objectID": "slides/critique1.html#pouvez-vous-imaginer-quelles-sont-les-disciplines-impliquées-dans-la-construction-du-savoir-phiologique-1",
+    "href": "slides/critique1.html#pouvez-vous-imaginer-quelles-sont-les-disciplines-impliquées-dans-la-construction-du-savoir-phiologique-1",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Pouvez-vous imaginer quelles sont les disciplines impliquées dans la construction du savoir phiologique?",
+    "text": "Pouvez-vous imaginer quelles sont les disciplines impliquées dans la construction du savoir phiologique?\n\nLittérature\nAnthropologie\nHistoire\nLinguistique\nÉtudes comparatistes\nSociologie"
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-diplomatique",
+    "href": "slides/critique1.html#typologies-dédition-diplomatique",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: diplomatique",
+    "text": "Typologies d’édition: diplomatique\n\nÉdition diplomatique  \nTranscription, dite sèche, lorsqu’on transcrit un texte en le copiant en tan que tel sans aucune modification"
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-facsimilie",
+    "href": "slides/critique1.html#typologies-dédition-facsimilie",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: facsimilie",
+    "text": "Typologies d’édition: facsimilie"
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-diplomatique-1",
+    "href": "slides/critique1.html#typologies-dédition-diplomatique-1",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: diplomatique",
+    "text": "Typologies d’édition: diplomatique\n\n\n\n\n\n[c. 62rb] La purificacion de la beneoite vierge marie qment elle offri son filz au temple. z saint sÿmeon le reveut entre ses .ii. bras\nLa purificacion de la beneoite vierge marie est faite au quarantiesme iour apres la nativite nostre seigneur. Et ceste feste est apelee par .iii. nons. La chandeleur. la purificacion. z ypopante. Ele est dite purificacion. pour ce que au quarantiesme iour de la nativite nostre seigneur: la beneoite vierge vint au tẽple pour estre purifiee. selonc la loi,.."
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-semi-diplomatique-ou-interprétative",
+    "href": "slides/critique1.html#typologies-dédition-semi-diplomatique-ou-interprétative",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: semi-diplomatique ou interprétative",
+    "text": "Typologies d’édition: semi-diplomatique ou interprétative\n\nÉdition semi-diplomatique ou interprétative  \nLa transcription présente des modifications, notamment orthographiques, pour insérer des dissimilations (u/v, i/j) ou pour réintégrer des accents pour désambiguïser les homographes."
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-diplomatique-2",
+    "href": "slides/critique1.html#typologies-dédition-diplomatique-2",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: diplomatique",
+    "text": "Typologies d’édition: diplomatique\n\n\n\n\n\n[c. 62rb] La purificacion de la beneoite Vierge Marie comment elle offri son filz au temple, et saint Sÿmeon le recut entre ses ii bras\nLa Purificacion de la beneoite Vierge Marie est faite au quarantiesme jour apres la Nativité nostre Seigneur. Et ceste feste est apelee par .iii. nons: la Chandeleur, la Purificacion, et Ypopante. Ele est dite Purificacion, pour ce que au quarantiesme jour de la Nativité nostre Seigneur , la beneoite Vierge vint au temple pour estre purifiee, selonc la loi,.."
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-critique",
+    "href": "slides/critique1.html#typologies-dédition-critique",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: critique",
+    "text": "Typologies d’édition: critique\n\nÉdition critique  \nAprès les études des différents témoins, on constitue un texte, reposant sur un document spécifique (Joseph Bédier 1864-1938), ou texte visant la reconstitution d’un texte “originel” (Karl Lachmann 1793-1851). Ce texte est accompagné d’un apparat critique enregistrant les variantes"
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-critique-1",
+    "href": "slides/critique1.html#typologies-dédition-critique-1",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: critique",
+    "text": "Typologies d’édition: critique"
+  },
+  {
+    "objectID": "slides/critique1.html#typologies-dédition-génitique",
+    "href": "slides/critique1.html#typologies-dédition-génitique",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Typologies d’édition: génitique",
+    "text": "Typologies d’édition: génitique\n\nÉdition génitique  \nEnsemble des manuscrits du vivant de l’auteur ressemblé et étudié en fonction de la restitution de l’évolution du texte."
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-1",
+    "href": "slides/critique1.html#notions-de-base-1",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base\n\nRecensio: recensement de tous les manuscrits (ms/mss) ou éditions existantes d’une œuvre.\nConspectus Siglorum et Fontium: liste des sigles des mss et éditions utilisées dans l’apparat, avec leurs informations et leur description.\nCollatio: l’étude des variantes.\nStemma codicum: reconstruction de l’arbre généalogique d’une œuvre en établissant la distance et les relations parmi les témoins."
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-2",
+    "href": "slides/critique1.html#notions-de-base-2",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base"
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-3",
+    "href": "slides/critique1.html#notions-de-base-3",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base"
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-4",
+    "href": "slides/critique1.html#notions-de-base-4",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base"
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-5",
+    "href": "slides/critique1.html#notions-de-base-5",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base\n\nApparat critique: l’ensemble des variantes qui peuvent être recueillies à partir des témoins choisis pour composer une édition.\nOmisit et Addidit: Un témoin peut présenter des omissions ou des ajouts par rapport à d’autres témoins. Les omissions peuvent être dues à des erreurs d’inattention ou à un acte conscient. Les ajouts peuvent être faits pour clarifier ou ajouter des informations nouvelles ou implicites."
+  },
+  {
+    "objectID": "slides/critique1.html#notions-de-base-6",
+    "href": "slides/critique1.html#notions-de-base-6",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Notions de base",
+    "text": "Notions de base\n\nLacune: similaire à l’omission, mais dans ce cas, la partie du texte est plus importante, et pas seulement un mot ou une petite partie\nGlossaire: pour les textes les plus anciens, on fournit un glossaire des mots ou expressions qui ne sont plus utilisés ou ont évolués, afin de faciliter la compréhension."
+  },
+  {
+    "objectID": "slides/critique1.html#numérique-1",
+    "href": "slides/critique1.html#numérique-1",
+    "title": "Philologie (numérique) : Introduction",
+    "section": "Numérique",
+    "text": "Numérique\nXML-TEI\neXtensible Markup Language - Text Encoding Initiative\nDécouvrons les Guidelines de la TEI."
+  },
+  {
     "objectID": "seances.html",
     "href": "seances.html",
     "title": "Séances",
@@ -805,6 +931,13 @@
     "text": "Droits d’auteur et IA (05/11)\n\n\n\nOuvrir la présentation dans une autre fenêtre."
   },
   {
+    "objectID": "seances.html#philologie-numérique-introduction",
+    "href": "seances.html#philologie-numérique-introduction",
+    "title": "Séances",
+    "section": "Philologie (numérique) : Introduction",
+    "text": "Philologie (numérique) : Introduction\n\n\n\nOuvrir la présentation dans une autre fenêtre."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Théories de l’édition numérique",
@@ -830,7 +963,7 @@
     "href": "index.html#calendrier",
     "title": "Théories de l’édition numérique",
     "section": "CALENDRIER",
-    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test)\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Écriture collaborative, chaînes éditoriales, édition savante / revues et science ouverte\n\n\n05/11\nDroit d’auteur, auto-édition et IA\n\n\n12/11\nÉdition critique (numérique) : Introduction\n\n\n19/11\nÉdition critique numérique : Introduction et étude de cas\n\n\n26/11\nLittérature numérique : Introduction, histoire, sémiotique de la littérature numérique\n\n\n03/12\nLittérature numérique : Études de cas\n\n\n10/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
+    "text": "CALENDRIER\n\n\n\n\n\n\n\nDate\nTitre\n\n\n\n\n03/09\nIntroduction\n\n\n10/09\nQu’est-ce que c’est l’édition ?\n\n\n17/09\nLe numérique, Internet et le web\n\n\n24/09\nQu’est-ce que c’est l’édition numérique ?\n\n\n01/10\nThéorie de l’éditorialisation\n\n\n08/10\nFormats\n\n\n15/10\nTravail de mi-session 1 (Test)\n\n\n22/10\nSemaine de lecture\n\n\n29/10\nTravail de mi-session 2 (Esquisse projet) + Écriture collaborative, chaînes éditoriales, édition savante / revues et science ouverte\n\n\n05/11\nDroits d’auteur et IA\n\n\n12/11\ngrève étudiante\n\n\n19/11\nPhilologie (numérique) : Introduction\n\n\n26/11\nPhilologie numérique : Introduction et étude de cas\n\n\n03/12\nLittérature numérique\n\n\n10/12\nTravail final 1 (Présentation projets)\n\n\n\nSéances avec slides ⮞"
   },
   {
     "objectID": "slides/chaines.html#plan-de-la-séance",
@@ -936,6 +1069,97 @@
     "title": "Écriture collaborative, science ouverte, édition savante et revues",
     "section": "Édition savante et revues",
     "text": "Édition savante et revues\n\n\n\nType de revue\ncaractéristique\n\n\n\n\nImprimé\ncoûts, accessibilité variable\n\n\nNumérique\npayant, homothétique ou non, pas accessible\n\n\nNumérique\ngratuit, homothétique ou non, accessible\n\n\n\nRevue2.0 -&gt; Revue3.0 basé sur Stylo\nSistema de Información Científica Redalyc"
+  },
+  {
+    "objectID": "slides/critique2.html#vincent-van-gogh-the-letters-1",
+    "href": "slides/critique2.html#vincent-van-gogh-the-letters-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Vincent van Gogh, The Letters",
+    "text": "Vincent van Gogh, The Letters\n\n\n\nOuvrir la page\n\n≈The Mondrian Papers"
+  },
+  {
+    "objectID": "slides/critique2.html#vincent-van-gogh-the-letters-2",
+    "href": "slides/critique2.html#vincent-van-gogh-the-letters-2",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Vincent van Gogh, The Letters",
+    "text": "Vincent van Gogh, The Letters\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#vincent-van-gogh-the-letters-3",
+    "href": "slides/critique2.html#vincent-van-gogh-the-letters-3",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Vincent van Gogh, The Letters",
+    "text": "Vincent van Gogh, The Letters\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#juliette-drouet-lettres-à-victor-hugo-1",
+    "href": "slides/critique2.html#juliette-drouet-lettres-à-victor-hugo-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Juliette Drouet, Lettres à Victor Hugo",
+    "text": "Juliette Drouet, Lettres à Victor Hugo\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#sylloge-parisina-1",
+    "href": "slides/critique2.html#sylloge-parisina-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Sylloge Parisina",
+    "text": "Sylloge Parisina\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#ebalzac-1",
+    "href": "slides/critique2.html#ebalzac-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "eBalzac",
+    "text": "eBalzac\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#les-pensées-de-blaise-pascal-1",
+    "href": "slides/critique2.html#les-pensées-de-blaise-pascal-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Les Pensées de Blaise Pascal",
+    "text": "Les Pensées de Blaise Pascal\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#astrée-dhonoré-durfé-1",
+    "href": "slides/critique2.html#astrée-dhonoré-durfé-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Astrée d’Honoré d’Urfé",
+    "text": "Astrée d’Honoré d’Urfé\n  \n\nLe Règne d’Astrée   \nLes Deux Visages de l’Astrée"
+  },
+  {
+    "objectID": "slides/critique2.html#le-règne-dastrée",
+    "href": "slides/critique2.html#le-règne-dastrée",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Le Règne d’Astrée",
+    "text": "Le Règne d’Astrée\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#les-deux-visages-de-lastrée",
+    "href": "slides/critique2.html#les-deux-visages-de-lastrée",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Les Deux Visages de l’Astrée",
+    "text": "Les Deux Visages de l’Astrée\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#il-barone-di-nicastro-digitale-1",
+    "href": "slides/critique2.html#il-barone-di-nicastro-digitale-1",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Il Barone di Nicastro Digitale",
+    "text": "Il Barone di Nicastro Digitale\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#voir-plus-catalogue-digital-editions",
+    "href": "slides/critique2.html#voir-plus-catalogue-digital-editions",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Voir plus: Catalogue Digital Editions",
+    "text": "Voir plus: Catalogue Digital Editions\n\n\n\nOuvrir la page"
+  },
+  {
+    "objectID": "slides/critique2.html#voir-plus-a-catalog-of-digital-scholarly-editions",
+    "href": "slides/critique2.html#voir-plus-a-catalog-of-digital-scholarly-editions",
+    "title": "Philologie numérique : Introduction et étude de cas",
+    "section": "Voir plus: A Catalog of Digital Scholarly Editions",
+    "text": "Voir plus: A Catalog of Digital Scholarly Editions\n\n\n\nOuvrir la page"
   },
   {
     "objectID": "slides/edition.html#plan-de-la-séance",

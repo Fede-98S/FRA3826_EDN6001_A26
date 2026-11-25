@@ -3,6 +3,7 @@ title: "Qu’est-ce que c’est l’édition numérique ?"
 subtitle: "FRA3826 | EDN6001"
 date: "09-24-2026"
 date-format: "D MMMM YYYY"
+lang: frs
 format:
   revealjs: 
     slide-number: true
