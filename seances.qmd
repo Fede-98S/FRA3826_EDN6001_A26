@@ -48,12 +48,12 @@ title: "Séances"
 <iframe src="slides/critique1.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 <figcaption style="text-align: center;"><a href="slides/critique1.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-<!--## Philologie numérique : Introduction et étude de cas
+## Philologie numérique : Introduction et étude de cas
 
 <iframe src="slides/critique2.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 <figcaption style="text-align: center;"><a href="slides/critique2.html" target="_blank" >Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-
+<!--
 ## Littérature numérique
 
 <iframe src="slides/litterature.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
