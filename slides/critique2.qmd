@@ -1,7 +1,7 @@
 ---
 title: "Philologie numérique : Introduction et étude de cas"
 subtitle: "FRA3826 | EDN6001"
-date: "11-25-2026"
+date: "11-26-2026"
 date-format: "D MMMM YYYY"
 lang: fr
 format:
